@@ -1,0 +1,2923 @@
+location,date,year,month_num,month_name,day_num,precipitation,temp_max,temp_min,wind,weather
+Seattle,"January 1, 2012",2012,1,January,1,0,12.8,5,4.7,drizzle
+Seattle,"January 2, 2012",2012,1,January,2,10.9,10.6,2.8,4.5,rain
+Seattle,"January 3, 2012",2012,1,January,3,0.8,11.7,7.2,2.3,rain
+Seattle,"January 4, 2012",2012,1,January,4,20.3,12.2,5.6,4.7,rain
+Seattle,"January 5, 2012",2012,1,January,5,1.3,8.9,2.8,6.1,rain
+Seattle,"January 6, 2012",2012,1,January,6,2.5,4.4,2.2,2.2,rain
+Seattle,"January 7, 2012",2012,1,January,7,0,7.2,2.8,2.3,rain
+Seattle,"January 8, 2012",2012,1,January,8,0,10,2.8,2,sun
+Seattle,"January 9, 2012",2012,1,January,9,4.3,9.4,5,3.4,rain
+Seattle,"January 10, 2012",2012,1,January,10,1,6.1,0.6,3.4,rain
+Seattle,"January 11, 2012",2012,1,January,11,0,6.1,-1.1,5.1,sun
+Seattle,"January 12, 2012",2012,1,January,12,0,6.1,-1.7,1.9,sun
+Seattle,"January 13, 2012",2012,1,January,13,0,5,-2.8,1.3,sun
+Seattle,"January 14, 2012",2012,1,January,14,4.1,4.4,0.6,5.3,snow
+Seattle,"January 15, 2012",2012,1,January,15,5.3,1.1,-3.3,3.2,snow
+Seattle,"January 16, 2012",2012,1,January,16,2.5,1.7,-2.8,5,snow
+Seattle,"January 17, 2012",2012,1,January,17,8.1,3.3,0,5.6,snow
+Seattle,"January 18, 2012",2012,1,January,18,19.8,0,-2.8,5,snow
+Seattle,"January 19, 2012",2012,1,January,19,15.2,-1.1,-2.8,1.6,snow
+Seattle,"January 20, 2012",2012,1,January,20,13.5,7.2,-1.1,2.3,snow
+Seattle,"January 21, 2012",2012,1,January,21,3,8.3,3.3,8.2,rain
+Seattle,"January 22, 2012",2012,1,January,22,6.1,6.7,2.2,4.8,rain
+Seattle,"January 23, 2012",2012,1,January,23,0,8.3,1.1,3.6,rain
+Seattle,"January 24, 2012",2012,1,January,24,8.6,10,2.2,5.1,rain
+Seattle,"January 25, 2012",2012,1,January,25,8.1,8.9,4.4,5.4,rain
+Seattle,"January 26, 2012",2012,1,January,26,4.8,8.9,1.1,4.8,rain
+Seattle,"January 27, 2012",2012,1,January,27,0,6.7,-2.2,1.4,drizzle
+Seattle,"January 28, 2012",2012,1,January,28,0,6.7,0.6,2.2,rain
+Seattle,"January 29, 2012",2012,1,January,29,27.7,9.4,3.9,4.5,rain
+Seattle,"January 30, 2012",2012,1,January,30,3.6,8.3,6.1,5.1,rain
+Seattle,"January 31, 2012",2012,1,January,31,1.8,9.4,6.1,3.9,rain
+Seattle,"February 1, 2012",2012,2,February,1,13.5,8.9,3.3,2.7,rain
+Seattle,"February 2, 2012",2012,2,February,2,0,8.3,1.7,2.6,sun
+Seattle,"February 3, 2012",2012,2,February,3,0,14.4,2.2,5.3,sun
+Seattle,"February 4, 2012",2012,2,February,4,0,15.6,5,4.3,sun
+Seattle,"February 5, 2012",2012,2,February,5,0,13.9,1.7,2.9,sun
+Seattle,"February 6, 2012",2012,2,February,6,0,16.1,1.7,5,sun
+Seattle,"February 7, 2012",2012,2,February,7,0.3,15.6,7.8,5.3,rain
+Seattle,"February 8, 2012",2012,2,February,8,2.8,10,5,2.7,rain
+Seattle,"February 9, 2012",2012,2,February,9,2.5,11.1,7.8,2.4,rain
+Seattle,"February 10, 2012",2012,2,February,10,2.5,12.8,6.7,3,rain
+Seattle,"February 11, 2012",2012,2,February,11,0.8,8.9,5.6,3.4,rain
+Seattle,"February 12, 2012",2012,2,February,12,1,8.3,5,1.3,rain
+Seattle,"February 13, 2012",2012,2,February,13,11.4,7.2,4.4,1.4,rain
+Seattle,"February 14, 2012",2012,2,February,14,2.5,6.7,1.1,3.1,rain
+Seattle,"February 15, 2012",2012,2,February,15,0,7.2,0.6,1.8,drizzle
+Seattle,"February 16, 2012",2012,2,February,16,1.8,7.2,3.3,2.1,rain
+Seattle,"February 17, 2012",2012,2,February,17,17.3,10,4.4,3.4,rain
+Seattle,"February 18, 2012",2012,2,February,18,6.4,6.7,3.9,8.1,rain
+Seattle,"February 19, 2012",2012,2,February,19,0,6.7,2.2,4.7,sun
+Seattle,"February 20, 2012",2012,2,February,20,3,7.8,1.7,2.9,rain
+Seattle,"February 21, 2012",2012,2,February,21,0.8,10,7.8,7.5,rain
+Seattle,"February 22, 2012",2012,2,February,22,8.6,10,2.8,5.9,rain
+Seattle,"February 23, 2012",2012,2,February,23,0,8.3,2.8,3.9,sun
+Seattle,"February 24, 2012",2012,2,February,24,11.4,6.7,4.4,3.5,rain
+Seattle,"February 25, 2012",2012,2,February,25,0,7.2,2.8,6.4,rain
+Seattle,"February 26, 2012",2012,2,February,26,1.3,5,-1.1,3.4,snow
+Seattle,"February 27, 2012",2012,2,February,27,0,6.7,-2.2,3,sun
+Seattle,"February 28, 2012",2012,2,February,28,3.6,6.7,-0.6,4.2,snow
+Seattle,"February 29, 2012",2012,2,February,29,0.8,5,1.1,7,snow
+Seattle,"March 1, 2012",2012,3,March,1,0,6.1,1.1,3.1,sun
+Seattle,"March 2, 2012",2012,3,March,2,2,6.7,3.9,5.1,rain
+Seattle,"March 3, 2012",2012,3,March,3,0,12.2,6.7,7,sun
+Seattle,"March 4, 2012",2012,3,March,4,0,10.6,6.7,5.6,rain
+Seattle,"March 5, 2012",2012,3,March,5,6.9,7.8,1.1,6.2,rain
+Seattle,"March 6, 2012",2012,3,March,6,0.5,6.7,0,2.7,snow
+Seattle,"March 7, 2012",2012,3,March,7,0,8.9,-1.7,2.7,sun
+Seattle,"March 8, 2012",2012,3,March,8,0,15.6,0.6,2.5,sun
+Seattle,"March 9, 2012",2012,3,March,9,3.6,9.4,5,2.8,rain
+Seattle,"March 10, 2012",2012,3,March,10,10.4,7.2,6.1,3.4,rain
+Seattle,"March 11, 2012",2012,3,March,11,13.7,6.7,2.8,5.8,rain
+Seattle,"March 12, 2012",2012,3,March,12,19.3,8.3,0.6,6.2,snow
+Seattle,"March 13, 2012",2012,3,March,13,9.4,5.6,0.6,5.3,snow
+Seattle,"March 14, 2012",2012,3,March,14,8.6,7.8,1.1,4.7,rain
+Seattle,"March 15, 2012",2012,3,March,15,23.9,11.1,5.6,5.8,snow
+Seattle,"March 16, 2012",2012,3,March,16,8.4,8.9,3.9,5.1,rain
+Seattle,"March 17, 2012",2012,3,March,17,9.4,10,0.6,3.8,snow
+Seattle,"March 18, 2012",2012,3,March,18,3.6,5,-0.6,2.7,rain
+Seattle,"March 19, 2012",2012,3,March,19,2,7.2,-1.1,3,rain
+Seattle,"March 20, 2012",2012,3,March,20,3.6,7.8,2.2,6.4,rain
+Seattle,"March 21, 2012",2012,3,March,21,1.3,8.9,1.1,2.5,rain
+Seattle,"March 22, 2012",2012,3,March,22,4.1,10,1.7,2.1,rain
+Seattle,"March 23, 2012",2012,3,March,23,0,12.2,0.6,2.8,sun
+Seattle,"March 24, 2012",2012,3,March,24,0,15,3.3,5.2,sun
+Seattle,"March 25, 2012",2012,3,March,25,0,13.3,2.2,2.7,rain
+Seattle,"March 26, 2012",2012,3,March,26,0,12.8,6.1,4.3,drizzle
+Seattle,"March 27, 2012",2012,3,March,27,4.8,14.4,6.7,3.8,rain
+Seattle,"March 28, 2012",2012,3,March,28,1.3,10.6,7.2,5.9,rain
+Seattle,"March 29, 2012",2012,3,March,29,27.4,10,6.1,4.4,rain
+Seattle,"March 30, 2012",2012,3,March,30,5.6,9.4,5,4.7,rain
+Seattle,"March 31, 2012",2012,3,March,31,13.2,10,2.8,3.4,rain
+Seattle,"April 1, 2012",2012,4,April,1,1.5,8.9,4.4,6.8,rain
+Seattle,"April 2, 2012",2012,4,April,2,0,16.7,4.4,3.1,sun
+Seattle,"April 3, 2012",2012,4,April,3,1.5,11.7,3.3,3.1,rain
+Seattle,"April 4, 2012",2012,4,April,4,0,10.6,2.8,2.1,sun
+Seattle,"April 5, 2012",2012,4,April,5,4.6,9.4,2.8,1.8,snow
+Seattle,"April 6, 2012",2012,4,April,6,0.3,11.1,3.3,2.6,rain
+Seattle,"April 7, 2012",2012,4,April,7,0,16.1,1.7,4.3,sun
+Seattle,"April 8, 2012",2012,4,April,8,0,21.1,7.2,4.1,sun
+Seattle,"April 9, 2012",2012,4,April,9,0,20,6.1,2.1,sun
+Seattle,"April 10, 2012",2012,4,April,10,0,17.8,8.9,3.2,rain
+Seattle,"April 11, 2012",2012,4,April,11,2.3,11.1,7.2,2.6,rain
+Seattle,"April 12, 2012",2012,4,April,12,0.5,13.9,5.6,2.6,rain
+Seattle,"April 13, 2012",2012,4,April,13,0,15,3.9,4,drizzle
+Seattle,"April 14, 2012",2012,4,April,14,0,15.6,3.3,3,sun
+Seattle,"April 15, 2012",2012,4,April,15,0,16.1,7.2,2.9,rain
+Seattle,"April 16, 2012",2012,4,April,16,8.1,13.3,6.7,5.8,rain
+Seattle,"April 17, 2012",2012,4,April,17,1.8,10,4.4,2,rain
+Seattle,"April 18, 2012",2012,4,April,18,1.8,13.3,7.2,3.9,rain
+Seattle,"April 19, 2012",2012,4,April,19,10.9,13.9,5,2.6,rain
+Seattle,"April 20, 2012",2012,4,April,20,6.6,13.3,6.7,2.7,rain
+Seattle,"April 21, 2012",2012,4,April,21,0,20,4.4,2.3,sun
+Seattle,"April 22, 2012",2012,4,April,22,0,23.3,8.3,2.6,rain
+Seattle,"April 23, 2012",2012,4,April,23,0,21.7,8.9,3.5,sun
+Seattle,"April 24, 2012",2012,4,April,24,4.3,13.9,10,2.8,rain
+Seattle,"April 25, 2012",2012,4,April,25,10.7,16.7,8.9,2.6,rain
+Seattle,"April 26, 2012",2012,4,April,26,3.8,13.9,6.7,5.2,rain
+Seattle,"April 27, 2012",2012,4,April,27,0.8,13.3,6.1,4.8,rain
+Seattle,"April 28, 2012",2012,4,April,28,0,16.1,8.3,2.5,drizzle
+Seattle,"April 29, 2012",2012,4,April,29,4.3,15.6,8.9,1.6,rain
+Seattle,"April 30, 2012",2012,4,April,30,4.3,12.8,7.2,8,rain
+Seattle,"May 1, 2012",2012,5,May,1,0.5,11.7,6.1,6.4,rain
+Seattle,"May 2, 2012",2012,5,May,2,0.5,13.3,5.6,2.5,rain
+Seattle,"May 3, 2012",2012,5,May,3,18.5,11.1,7.2,3.4,rain
+Seattle,"May 4, 2012",2012,5,May,4,1.8,12.2,6.1,4.6,rain
+Seattle,"May 5, 2012",2012,5,May,5,0,13.3,5,2.3,sun
+Seattle,"May 6, 2012",2012,5,May,6,0,17.8,5,2.4,sun
+Seattle,"May 7, 2012",2012,5,May,7,0,23.9,6.1,2.2,sun
+Seattle,"May 8, 2012",2012,5,May,8,0,18.3,9.4,3,sun
+Seattle,"May 9, 2012",2012,5,May,9,0,13.3,6.7,3.9,rain
+Seattle,"May 10, 2012",2012,5,May,10,0,14.4,3.9,3,sun
+Seattle,"May 11, 2012",2012,5,May,11,0,18.3,4.4,4.3,sun
+Seattle,"May 12, 2012",2012,5,May,12,0,24.4,6.7,3.4,sun
+Seattle,"May 13, 2012",2012,5,May,13,0,25.6,9.4,4.2,sun
+Seattle,"May 14, 2012",2012,5,May,14,0,26.7,12.8,3.8,sun
+Seattle,"May 15, 2012",2012,5,May,15,0,24.4,9.4,4.1,drizzle
+Seattle,"May 16, 2012",2012,5,May,16,0,19.4,9.4,3.5,sun
+Seattle,"May 17, 2012",2012,5,May,17,0,17.8,6.7,2.9,rain
+Seattle,"May 18, 2012",2012,5,May,18,0,15.6,7.8,3.1,rain
+Seattle,"May 19, 2012",2012,5,May,19,0,19.4,7.2,1.5,sun
+Seattle,"May 20, 2012",2012,5,May,20,6.4,14.4,11.7,1.3,rain
+Seattle,"May 21, 2012",2012,5,May,21,14,16.7,10,4,rain
+Seattle,"May 22, 2012",2012,5,May,22,6.1,12.8,8.9,4.8,rain
+Seattle,"May 23, 2012",2012,5,May,23,0.3,14.4,8.9,6.3,rain
+Seattle,"May 24, 2012",2012,5,May,24,0,17.2,8.9,3.3,rain
+Seattle,"May 25, 2012",2012,5,May,25,0,22.2,8.9,3.1,rain
+Seattle,"May 26, 2012",2012,5,May,26,0,22.2,8.9,3.6,sun
+Seattle,"May 27, 2012",2012,5,May,27,0,17.2,11.7,3.7,sun
+Seattle,"May 28, 2012",2012,5,May,28,0,16.7,10,3.4,rain
+Seattle,"May 29, 2012",2012,5,May,29,0,16.1,7.8,1.8,sun
+Seattle,"May 30, 2012",2012,5,May,30,0.3,18.9,11.1,1.5,rain
+Seattle,"May 31, 2012",2012,5,May,31,3.8,17.8,12.2,2.7,rain
+Seattle,"June 1, 2012",2012,6,June,1,6.6,20,12.8,3.7,rain
+Seattle,"June 2, 2012",2012,6,June,2,0.3,18.9,10.6,3.7,rain
+Seattle,"June 3, 2012",2012,6,June,3,0,17.2,9.4,2.9,sun
+Seattle,"June 4, 2012",2012,6,June,4,1.3,12.8,8.9,3.1,rain
+Seattle,"June 5, 2012",2012,6,June,5,16,13.3,8.3,3.3,rain
+Seattle,"June 6, 2012",2012,6,June,6,0,16.1,6.1,3.4,sun
+Seattle,"June 7, 2012",2012,6,June,7,16.5,16.1,8.9,3.5,rain
+Seattle,"June 8, 2012",2012,6,June,8,1.5,15,8.3,3,rain
+Seattle,"June 9, 2012",2012,6,June,9,0,17.2,8.3,4.7,rain
+Seattle,"June 10, 2012",2012,6,June,10,0,18.9,10,2.9,sun
+Seattle,"June 11, 2012",2012,6,June,11,0,23.3,10,1.8,rain
+Seattle,"June 12, 2012",2012,6,June,12,0.8,18.3,12.8,3.9,rain
+Seattle,"June 13, 2012",2012,6,June,13,0,16.1,11.1,4.3,sun
+Seattle,"June 14, 2012",2012,6,June,14,0,17.2,10,2.7,sun
+Seattle,"June 15, 2012",2012,6,June,15,0,22.2,9.4,1.7,sun
+Seattle,"June 16, 2012",2012,6,June,16,0,21.1,15,4.1,rain
+Seattle,"June 17, 2012",2012,6,June,17,0,18.9,11.7,6.4,sun
+Seattle,"June 18, 2012",2012,6,June,18,3,17.2,10,3.8,rain
+Seattle,"June 19, 2012",2012,6,June,19,1,19.4,10,3,rain
+Seattle,"June 20, 2012",2012,6,June,20,0,24.4,10,3,sun
+Seattle,"June 21, 2012",2012,6,June,21,0,23.9,11.7,2.1,sun
+Seattle,"June 22, 2012",2012,6,June,22,15.7,13.9,11.7,1.9,rain
+Seattle,"June 23, 2012",2012,6,June,23,8.6,15.6,9.4,2.5,rain
+Seattle,"June 24, 2012",2012,6,June,24,0,19.4,9.4,2,drizzle
+Seattle,"June 25, 2012",2012,6,June,25,0.5,19.4,11.1,3.1,rain
+Seattle,"June 26, 2012",2012,6,June,26,0,18.3,10.6,3.4,rain
+Seattle,"June 27, 2012",2012,6,June,27,0,22.8,8.9,1.8,sun
+Seattle,"June 28, 2012",2012,6,June,28,0,22.2,11.7,2.5,rain
+Seattle,"June 29, 2012",2012,6,June,29,0.3,21.7,15,1.9,rain
+Seattle,"June 30, 2012",2012,6,June,30,3,20,13.3,2.4,rain
+Seattle,"July 1, 2012",2012,7,July,1,0,20,12.2,2.3,rain
+Seattle,"July 2, 2012",2012,7,July,2,2,18.9,11.7,2.1,rain
+Seattle,"July 3, 2012",2012,7,July,3,5.8,18.3,10.6,6,rain
+Seattle,"July 4, 2012",2012,7,July,4,0,20.6,9.4,3.8,sun
+Seattle,"July 5, 2012",2012,7,July,5,0,24.4,10.6,3.1,drizzle
+Seattle,"July 6, 2012",2012,7,July,6,0,25,11.1,2.1,sun
+Seattle,"July 7, 2012",2012,7,July,7,0,26.7,12.8,3.8,sun
+Seattle,"July 8, 2012",2012,7,July,8,0,28.3,14.4,2.8,rain
+Seattle,"July 9, 2012",2012,7,July,9,1.5,25,12.8,2,rain
+Seattle,"July 10, 2012",2012,7,July,10,0,23.9,11.1,2.3,drizzle
+Seattle,"July 11, 2012",2012,7,July,11,0,27.8,13.3,2.9,fog
+Seattle,"July 12, 2012",2012,7,July,12,0,25.6,13.3,2.7,drizzle
+Seattle,"July 13, 2012",2012,7,July,13,0.5,23.3,13.9,2.2,rain
+Seattle,"July 14, 2012",2012,7,July,14,0,25,15,2.2,rain
+Seattle,"July 15, 2012",2012,7,July,15,0,18.9,13.3,3.8,rain
+Seattle,"July 16, 2012",2012,7,July,16,0.3,26.1,13.3,2.5,rain
+Seattle,"July 17, 2012",2012,7,July,17,0,21.7,15,2.6,sun
+Seattle,"July 18, 2012",2012,7,July,18,0,21.1,14.4,2.9,sun
+Seattle,"July 19, 2012",2012,7,July,19,0,25,14.4,2.2,sun
+Seattle,"July 20, 2012",2012,7,July,20,15.2,19.4,13.9,4,rain
+Seattle,"July 21, 2012",2012,7,July,21,0,23.9,13.9,2.3,sun
+Seattle,"July 22, 2012",2012,7,July,22,1,20.6,12.2,3.9,rain
+Seattle,"July 23, 2012",2012,7,July,23,0,18.9,11.1,3.3,rain
+Seattle,"July 24, 2012",2012,7,July,24,0,23.3,12.2,4.3,sun
+Seattle,"July 25, 2012",2012,7,July,25,0,26.7,12.8,2.6,sun
+Seattle,"July 26, 2012",2012,7,July,26,0,25.6,12.8,2.2,drizzle
+Seattle,"July 27, 2012",2012,7,July,27,0,18.9,13.9,2.8,drizzle
+Seattle,"July 28, 2012",2012,7,July,28,0,22.2,13.3,1.7,drizzle
+Seattle,"July 29, 2012",2012,7,July,29,0,22.8,15,2,sun
+Seattle,"July 30, 2012",2012,7,July,30,0,19.4,13.3,3,sun
+Seattle,"July 31, 2012",2012,7,July,31,0,22.8,13.9,2.8,sun
+Seattle,"August 1, 2012",2012,8,August,1,0,23.9,13.3,2.2,drizzle
+Seattle,"August 2, 2012",2012,8,August,2,0,23.3,12.2,2.5,sun
+Seattle,"August 3, 2012",2012,8,August,3,0,27.2,12.8,3.9,sun
+Seattle,"August 4, 2012",2012,8,August,4,0,33.9,16.7,3.7,sun
+Seattle,"August 5, 2012",2012,8,August,5,0,33.9,17.8,1.9,sun
+Seattle,"August 6, 2012",2012,8,August,6,0,28.3,15.6,2.5,rain
+Seattle,"August 7, 2012",2012,8,August,7,0,21.1,15,2.6,drizzle
+Seattle,"August 8, 2012",2012,8,August,8,0,22.2,15,3.1,sun
+Seattle,"August 9, 2012",2012,8,August,9,0,24.4,14.4,3.8,drizzle
+Seattle,"August 10, 2012",2012,8,August,10,0,25.6,12.2,2.3,sun
+Seattle,"August 11, 2012",2012,8,August,11,0,28.3,13.3,2.5,sun
+Seattle,"August 12, 2012",2012,8,August,12,0,30.6,15,3,sun
+Seattle,"August 13, 2012",2012,8,August,13,0,30.6,15,2.8,sun
+Seattle,"August 14, 2012",2012,8,August,14,0,28.9,13.9,2.8,sun
+Seattle,"August 15, 2012",2012,8,August,15,0,31.1,16.7,4.7,sun
+Seattle,"August 16, 2012",2012,8,August,16,0,34.4,18.3,2.8,sun
+Seattle,"August 17, 2012",2012,8,August,17,0,32.8,16.1,1.8,sun
+Seattle,"August 18, 2012",2012,8,August,18,0,21.7,14.4,3,drizzle
+Seattle,"August 19, 2012",2012,8,August,19,0,23.3,15,2.7,drizzle
+Seattle,"August 20, 2012",2012,8,August,20,0,25.6,15,1.9,sun
+Seattle,"August 21, 2012",2012,8,August,21,0,23.3,13.3,3,rain
+Seattle,"August 22, 2012",2012,8,August,22,0,22.2,13.3,2.3,sun
+Seattle,"August 23, 2012",2012,8,August,23,0,21.1,13.9,3.8,sun
+Seattle,"August 24, 2012",2012,8,August,24,0,22.2,10,3.3,sun
+Seattle,"August 25, 2012",2012,8,August,25,0,26.1,11.7,3.2,sun
+Seattle,"August 26, 2012",2012,8,August,26,0,21.1,12.2,3.4,sun
+Seattle,"August 27, 2012",2012,8,August,27,0,23.9,13.3,1.8,sun
+Seattle,"August 28, 2012",2012,8,August,28,0,22.8,12.2,3.2,sun
+Seattle,"August 29, 2012",2012,8,August,29,0,22.8,13.3,2.4,sun
+Seattle,"August 30, 2012",2012,8,August,30,0,22.8,12.8,1.9,sun
+Seattle,"August 31, 2012",2012,8,August,31,0,22.2,10.6,2.9,sun
+Seattle,"September 1, 2012",2012,9,September,1,0,21.7,10.6,2.1,sun
+Seattle,"September 2, 2012",2012,9,September,2,0,21.1,10,2,sun
+Seattle,"September 3, 2012",2012,9,September,3,0,22.8,12.8,3.3,sun
+Seattle,"September 4, 2012",2012,9,September,4,0,24.4,11.1,3.1,sun
+Seattle,"September 5, 2012",2012,9,September,5,0,26.1,11.7,2.6,sun
+Seattle,"September 6, 2012",2012,9,September,6,0,28.3,14.4,4.2,sun
+Seattle,"September 7, 2012",2012,9,September,7,0,32.2,13.3,3.1,sun
+Seattle,"September 8, 2012",2012,9,September,8,0,25,13.3,3,sun
+Seattle,"September 9, 2012",2012,9,September,9,0.3,18.9,13.9,5,rain
+Seattle,"September 10, 2012",2012,9,September,10,0.3,20,11.7,3.9,rain
+Seattle,"September 11, 2012",2012,9,September,11,0,20,8.9,4.2,sun
+Seattle,"September 12, 2012",2012,9,September,12,0,22.2,10,5.6,sun
+Seattle,"September 13, 2012",2012,9,September,13,0,27.8,11.7,3.6,sun
+Seattle,"September 14, 2012",2012,9,September,14,0,26.1,11.1,1.5,sun
+Seattle,"September 15, 2012",2012,9,September,15,0,22.2,11.1,1.9,sun
+Seattle,"September 16, 2012",2012,9,September,16,0,24.4,9.4,2.3,sun
+Seattle,"September 17, 2012",2012,9,September,17,0,27.8,11.7,2.2,fog
+Seattle,"September 18, 2012",2012,9,September,18,0,27.8,11.7,1.4,sun
+Seattle,"September 19, 2012",2012,9,September,19,0,23.9,11.7,1.9,drizzle
+Seattle,"September 20, 2012",2012,9,September,20,0,19.4,10,2.5,drizzle
+Seattle,"September 21, 2012",2012,9,September,21,0,16.1,12.8,2.1,drizzle
+Seattle,"September 22, 2012",2012,9,September,22,0.3,19.4,11.7,1.1,rain
+Seattle,"September 23, 2012",2012,9,September,23,0,19.4,10,1.4,fog
+Seattle,"September 24, 2012",2012,9,September,24,0,21.1,10,1.8,fog
+Seattle,"September 25, 2012",2012,9,September,25,0,19.4,11.1,1.7,sun
+Seattle,"September 26, 2012",2012,9,September,26,0,19.4,9.4,1.7,drizzle
+Seattle,"September 27, 2012",2012,9,September,27,0,22.8,10,1.7,drizzle
+Seattle,"September 28, 2012",2012,9,September,28,0,25,12.2,1.1,rain
+Seattle,"September 29, 2012",2012,9,September,29,0,20.6,12.2,4.3,sun
+Seattle,"September 30, 2012",2012,9,September,30,0,21.1,7.8,3.1,sun
+Seattle,"October 1, 2012",2012,10,October,1,0,23.3,8.9,3,sun
+Seattle,"October 2, 2012",2012,10,October,2,0,17.8,10,4.1,sun
+Seattle,"October 3, 2012",2012,10,October,3,0,18.9,7.8,7.3,sun
+Seattle,"October 4, 2012",2012,10,October,4,0,18.9,8.3,6.5,sun
+Seattle,"October 5, 2012",2012,10,October,5,0,21.7,8.9,5.7,sun
+Seattle,"October 6, 2012",2012,10,October,6,0,23.9,7.8,5.1,sun
+Seattle,"October 7, 2012",2012,10,October,7,0,23.9,7.8,1.3,sun
+Seattle,"October 8, 2012",2012,10,October,8,0,21.1,7.8,1.9,sun
+Seattle,"October 9, 2012",2012,10,October,9,0,16.1,8.9,1.6,drizzle
+Seattle,"October 10, 2012",2012,10,October,10,0,12.2,8.3,1.4,drizzle
+Seattle,"October 11, 2012",2012,10,October,11,0,13.9,7.2,1.3,drizzle
+Seattle,"October 12, 2012",2012,10,October,12,2,13.9,8.9,4.6,rain
+Seattle,"October 13, 2012",2012,10,October,13,4.8,15.6,12.2,3.9,rain
+Seattle,"October 14, 2012",2012,10,October,14,16.5,17.8,13.3,3.4,rain
+Seattle,"October 15, 2012",2012,10,October,15,7.9,17.2,11.1,4.6,rain
+Seattle,"October 16, 2012",2012,10,October,16,0,16.1,8.3,5.5,sun
+Seattle,"October 17, 2012",2012,10,October,17,0,14.4,6.1,1.6,sun
+Seattle,"October 18, 2012",2012,10,October,18,20.8,17.8,6.7,2,rain
+Seattle,"October 19, 2012",2012,10,October,19,4.8,15,9.4,5.3,rain
+Seattle,"October 20, 2012",2012,10,October,20,0.5,11.1,6.1,5.7,rain
+Seattle,"October 21, 2012",2012,10,October,21,6.4,11.7,4.4,2.7,rain
+Seattle,"October 22, 2012",2012,10,October,22,8.9,7.8,3.3,2.6,rain
+Seattle,"October 23, 2012",2012,10,October,23,0,11.1,5.6,3,rain
+Seattle,"October 24, 2012",2012,10,October,24,7.1,11.7,6.1,2.1,rain
+Seattle,"October 25, 2012",2012,10,October,25,0,11.7,6.7,1.5,sun
+Seattle,"October 26, 2012",2012,10,October,26,1.5,11.1,7.2,2.5,rain
+Seattle,"October 27, 2012",2012,10,October,27,23.1,14.4,9.4,5.1,rain
+Seattle,"October 28, 2012",2012,10,October,28,6.1,14.4,10,3.8,rain
+Seattle,"October 29, 2012",2012,10,October,29,10.9,15.6,10,4.9,rain
+Seattle,"October 30, 2012",2012,10,October,30,34.5,15,12.2,2.8,rain
+Seattle,"October 31, 2012",2012,10,October,31,14.5,15.6,11.1,2.7,rain
+Seattle,"November 1, 2012",2012,11,November,1,9.7,15,10.6,3,rain
+Seattle,"November 2, 2012",2012,11,November,2,5.6,15,10.6,1,rain
+Seattle,"November 3, 2012",2012,11,November,3,0.5,15.6,11.1,3.6,rain
+Seattle,"November 4, 2012",2012,11,November,4,8.1,17.8,12.8,3.8,rain
+Seattle,"November 5, 2012",2012,11,November,5,0.8,15,7.8,4,rain
+Seattle,"November 6, 2012",2012,11,November,6,0.3,12.8,6.7,3.5,rain
+Seattle,"November 7, 2012",2012,11,November,7,0,12.2,3.9,3.4,rain
+Seattle,"November 8, 2012",2012,11,November,8,0,10,1.1,3.4,rain
+Seattle,"November 9, 2012",2012,11,November,9,0,8.9,1.1,2,rain
+Seattle,"November 10, 2012",2012,11,November,10,0,7.8,-0.6,2.2,sun
+Seattle,"November 11, 2012",2012,11,November,11,15.2,8.9,1.1,3,rain
+Seattle,"November 12, 2012",2012,11,November,12,3.6,12.8,6.1,3,rain
+Seattle,"November 13, 2012",2012,11,November,13,5.3,11.1,7.8,2.5,rain
+Seattle,"November 14, 2012",2012,11,November,14,0.8,11.1,5,2.6,rain
+Seattle,"November 15, 2012",2012,11,November,15,0,9.4,2.8,2.4,drizzle
+Seattle,"November 16, 2012",2012,11,November,16,5.6,9.4,2.2,1.6,rain
+Seattle,"November 17, 2012",2012,11,November,17,6.1,12.2,6.1,5.3,rain
+Seattle,"November 18, 2012",2012,11,November,18,7.9,10,6.1,4.9,rain
+Seattle,"November 19, 2012",2012,11,November,19,54.1,13.3,8.3,6,rain
+Seattle,"November 20, 2012",2012,11,November,20,3.8,11.1,7.2,4.2,rain
+Seattle,"November 21, 2012",2012,11,November,21,11.2,8.3,3.9,5.5,rain
+Seattle,"November 22, 2012",2012,11,November,22,0,8.9,2.8,1.5,rain
+Seattle,"November 23, 2012",2012,11,November,23,32,9.4,6.1,2.4,rain
+Seattle,"November 24, 2012",2012,11,November,24,0,8.9,3.9,1.2,rain
+Seattle,"November 25, 2012",2012,11,November,25,0,8.3,1.1,3.6,drizzle
+Seattle,"November 26, 2012",2012,11,November,26,0,9.4,1.7,3.8,fog
+Seattle,"November 27, 2012",2012,11,November,27,0,10,1.7,1.5,sun
+Seattle,"November 28, 2012",2012,11,November,28,2.8,9.4,2.2,2.9,rain
+Seattle,"November 29, 2012",2012,11,November,29,1.5,12.8,7.8,4.2,rain
+Seattle,"November 30, 2012",2012,11,November,30,35.6,15,7.8,4.6,rain
+Seattle,"December 1, 2012",2012,12,December,1,4.1,13.3,8.3,5.5,rain
+Seattle,"December 2, 2012",2012,12,December,2,19.6,8.3,7.2,6.2,rain
+Seattle,"December 3, 2012",2012,12,December,3,13,9.4,7.2,4.4,rain
+Seattle,"December 4, 2012",2012,12,December,4,14.2,11.7,7.2,6.2,rain
+Seattle,"December 5, 2012",2012,12,December,5,1.5,8.9,4.4,5,rain
+Seattle,"December 6, 2012",2012,12,December,6,1.5,7.2,6.1,5.1,rain
+Seattle,"December 7, 2012",2012,12,December,7,1,7.8,3.3,4.6,rain
+Seattle,"December 8, 2012",2012,12,December,8,0,6.7,3.3,2,sun
+Seattle,"December 9, 2012",2012,12,December,9,1.5,6.7,2.8,2.1,rain
+Seattle,"December 10, 2012",2012,12,December,10,0.5,7.2,5.6,1.8,rain
+Seattle,"December 11, 2012",2012,12,December,11,3,7.8,5.6,4.5,rain
+Seattle,"December 12, 2012",2012,12,December,12,8.1,6.7,4.4,2,rain
+Seattle,"December 13, 2012",2012,12,December,13,2.3,7.2,3.3,2.8,rain
+Seattle,"December 14, 2012",2012,12,December,14,7.9,6.1,1.1,1.7,rain
+Seattle,"December 15, 2012",2012,12,December,15,5.3,4.4,0.6,5.1,snow
+Seattle,"December 16, 2012",2012,12,December,16,22.6,6.7,3.3,5.5,snow
+Seattle,"December 17, 2012",2012,12,December,17,2,8.3,1.7,9.5,rain
+Seattle,"December 18, 2012",2012,12,December,18,3.3,3.9,0.6,5.3,snow
+Seattle,"December 19, 2012",2012,12,December,19,13.7,8.3,1.7,5.8,snow
+Seattle,"December 20, 2012",2012,12,December,20,13.2,7.2,0.6,3.7,rain
+Seattle,"December 21, 2012",2012,12,December,21,1.8,8.3,-1.7,1.7,rain
+Seattle,"December 22, 2012",2012,12,December,22,3.3,8.3,3.9,3.5,rain
+Seattle,"December 23, 2012",2012,12,December,23,6.6,7.2,3.3,2.5,rain
+Seattle,"December 24, 2012",2012,12,December,24,0.3,5.6,2.8,2.8,rain
+Seattle,"December 25, 2012",2012,12,December,25,13.5,5.6,2.8,4.2,snow
+Seattle,"December 26, 2012",2012,12,December,26,4.6,6.7,3.3,4.9,rain
+Seattle,"December 27, 2012",2012,12,December,27,4.1,7.8,3.3,3.2,rain
+Seattle,"December 28, 2012",2012,12,December,28,0,8.3,3.9,1.7,rain
+Seattle,"December 29, 2012",2012,12,December,29,1.5,5,3.3,1.7,rain
+Seattle,"December 30, 2012",2012,12,December,30,0,4.4,0,1.8,drizzle
+Seattle,"December 31, 2012",2012,12,December,31,0,3.3,-1.1,2,drizzle
+Seattle,"January 1, 2013",2013,1,January,1,0,5,-2.8,2.7,sun
+Seattle,"January 2, 2013",2013,1,January,2,0,6.1,-1.1,3.2,sun
+Seattle,"January 3, 2013",2013,1,January,3,4.1,6.7,-1.7,3,rain
+Seattle,"January 4, 2013",2013,1,January,4,2.5,10,2.2,2.8,rain
+Seattle,"January 5, 2013",2013,1,January,5,3,6.7,4.4,3.1,rain
+Seattle,"January 6, 2013",2013,1,January,6,2,7.2,2.8,3,rain
+Seattle,"January 7, 2013",2013,1,January,7,2.3,10,4.4,7.3,rain
+Seattle,"January 8, 2013",2013,1,January,8,16.3,11.7,5.6,6.3,rain
+Seattle,"January 9, 2013",2013,1,January,9,38.4,10,1.7,5.1,rain
+Seattle,"January 10, 2013",2013,1,January,10,0.3,3.3,-0.6,2.1,snow
+Seattle,"January 11, 2013",2013,1,January,11,0,2.8,-2.8,1.9,drizzle
+Seattle,"January 12, 2013",2013,1,January,12,0,2.8,-3.9,2,sun
+Seattle,"January 13, 2013",2013,1,January,13,0,2.2,-4.4,1.5,sun
+Seattle,"January 14, 2013",2013,1,January,14,0,3.3,-2.2,1.3,sun
+Seattle,"January 15, 2013",2013,1,January,15,0,6.7,-0.6,2.3,sun
+Seattle,"January 16, 2013",2013,1,January,16,0,6.1,-3.9,1.8,drizzle
+Seattle,"January 17, 2013",2013,1,January,17,0,3.9,-2.8,1,drizzle
+Seattle,"January 18, 2013",2013,1,January,18,0,3.3,-1.1,1.3,drizzle
+Seattle,"January 19, 2013",2013,1,January,19,0,1.1,-0.6,1.9,drizzle
+Seattle,"January 20, 2013",2013,1,January,20,0,3.3,-0.6,2.1,drizzle
+Seattle,"January 21, 2013",2013,1,January,21,0,2.2,-1.7,1.1,drizzle
+Seattle,"January 22, 2013",2013,1,January,22,0,3.3,-1.7,0.6,drizzle
+Seattle,"January 23, 2013",2013,1,January,23,5.1,7.2,2.2,3.1,rain
+Seattle,"January 24, 2013",2013,1,January,24,5.8,7.2,1.1,2.6,rain
+Seattle,"January 25, 2013",2013,1,January,25,3,10.6,2.8,2.1,rain
+Seattle,"January 26, 2013",2013,1,January,26,2.3,8.3,3.9,4.5,rain
+Seattle,"January 27, 2013",2013,1,January,27,1.8,5.6,3.9,4.5,rain
+Seattle,"January 28, 2013",2013,1,January,28,7.9,6.1,3.3,3.2,rain
+Seattle,"January 29, 2013",2013,1,January,29,4.3,8.3,5,3.9,rain
+Seattle,"January 30, 2013",2013,1,January,30,3.6,8.9,6.7,3.9,rain
+Seattle,"January 31, 2013",2013,1,January,31,3,9.4,7.2,4,rain
+Seattle,"February 1, 2013",2013,2,February,1,0.3,11.7,5,2.9,rain
+Seattle,"February 2, 2013",2013,2,February,2,0,6.1,2.8,2,drizzle
+Seattle,"February 3, 2013",2013,2,February,3,2.3,8.9,2.8,2.9,rain
+Seattle,"February 4, 2013",2013,2,February,4,0,10.6,6.7,2.6,rain
+Seattle,"February 5, 2013",2013,2,February,5,3.3,10,6.7,5.1,rain
+Seattle,"February 6, 2013",2013,2,February,6,1,10.6,6.1,4.5,rain
+Seattle,"February 7, 2013",2013,2,February,7,1.3,9.4,3.3,4.1,rain
+Seattle,"February 8, 2013",2013,2,February,8,0,7.8,2.2,1.3,sun
+Seattle,"February 9, 2013",2013,2,February,9,0.3,8.3,4.4,1.3,rain
+Seattle,"February 10, 2013",2013,2,February,10,0,8.9,1.7,2,drizzle
+Seattle,"February 11, 2013",2013,2,February,11,0.3,8.3,4.4,1.4,rain
+Seattle,"February 12, 2013",2013,2,February,12,1,11.1,7.2,5.6,rain
+Seattle,"February 13, 2013",2013,2,February,13,2.3,9.4,7.2,4.1,rain
+Seattle,"February 14, 2013",2013,2,February,14,1,9.4,5.6,2.2,rain
+Seattle,"February 15, 2013",2013,2,February,15,0,13.3,5,2.4,drizzle
+Seattle,"February 16, 2013",2013,2,February,16,0,11.1,3.9,5.6,rain
+Seattle,"February 17, 2013",2013,2,February,17,0,9.4,4.4,3.4,rain
+Seattle,"February 18, 2013",2013,2,February,18,0,7.8,3.9,1.9,rain
+Seattle,"February 19, 2013",2013,2,February,19,0,10.6,1.7,3.4,sun
+Seattle,"February 20, 2013",2013,2,February,20,1.5,7.8,1.1,2.1,rain
+Seattle,"February 21, 2013",2013,2,February,21,0.5,6.7,3.9,6.2,rain
+Seattle,"February 22, 2013",2013,2,February,22,9.4,7.8,3.9,8.1,rain
+Seattle,"February 23, 2013",2013,2,February,23,0.3,10,3.9,4.6,rain
+Seattle,"February 24, 2013",2013,2,February,24,0,8.9,5,5.5,rain
+Seattle,"February 25, 2013",2013,2,February,25,2.3,10.6,3.3,7.1,rain
+Seattle,"February 26, 2013",2013,2,February,26,0.5,8.9,3.9,3.8,rain
+Seattle,"February 27, 2013",2013,2,February,27,4.6,10,4.4,1.8,rain
+Seattle,"February 28, 2013",2013,2,February,28,8.1,11.7,6.7,3.8,rain
+Seattle,"March 1, 2013",2013,3,March,1,4.1,15,11.1,5.4,rain
+Seattle,"March 2, 2013",2013,3,March,2,0.8,13.9,5,4.5,rain
+Seattle,"March 3, 2013",2013,3,March,3,0,11.1,2.2,2.8,sun
+Seattle,"March 4, 2013",2013,3,March,4,0,13.3,0,3.9,sun
+Seattle,"March 5, 2013",2013,3,March,5,0,9.4,6.1,2.4,rain
+Seattle,"March 6, 2013",2013,3,March,6,11.9,7.2,5,4.1,rain
+Seattle,"March 7, 2013",2013,3,March,7,7.4,12.2,5,2.5,rain
+Seattle,"March 8, 2013",2013,3,March,8,0,11.7,2.2,2.6,drizzle
+Seattle,"March 9, 2013",2013,3,March,9,0,12.8,1.1,1.3,fog
+Seattle,"March 10, 2013",2013,3,March,10,0.8,7.8,3.9,1.6,rain
+Seattle,"March 11, 2013",2013,3,March,11,1.3,10.6,6.1,1.1,rain
+Seattle,"March 12, 2013",2013,3,March,12,2,12.8,10,5.7,rain
+Seattle,"March 13, 2013",2013,3,March,13,2.3,11.7,9.4,3.7,rain
+Seattle,"March 14, 2013",2013,3,March,14,2.8,11.7,9.4,3,rain
+Seattle,"March 15, 2013",2013,3,March,15,0,14.4,8.9,4.3,rain
+Seattle,"March 16, 2013",2013,3,March,16,4.3,10.6,4.4,6.4,rain
+Seattle,"March 17, 2013",2013,3,March,17,0,8.9,3.9,6.1,sun
+Seattle,"March 18, 2013",2013,3,March,18,0,11.7,3.9,5.9,rain
+Seattle,"March 19, 2013",2013,3,March,19,11.7,12.8,1.7,3.4,rain
+Seattle,"March 20, 2013",2013,3,March,20,9.9,11.1,4.4,7.6,rain
+Seattle,"March 21, 2013",2013,3,March,21,8.1,10,2.2,4.9,snow
+Seattle,"March 22, 2013",2013,3,March,22,0,9.4,0.6,2.2,sun
+Seattle,"March 23, 2013",2013,3,March,23,0,10,1.1,2.6,sun
+Seattle,"March 24, 2013",2013,3,March,24,0,12.2,0.6,2.1,sun
+Seattle,"March 25, 2013",2013,3,March,25,0,16.7,4.4,2.8,sun
+Seattle,"March 26, 2013",2013,3,March,26,0,16.7,6.1,1.7,sun
+Seattle,"March 27, 2013",2013,3,March,27,0.3,13.3,7.2,1.6,rain
+Seattle,"March 28, 2013",2013,3,March,28,2,16.1,8.3,1.3,rain
+Seattle,"March 29, 2013",2013,3,March,29,0,18.3,7.8,2.5,rain
+Seattle,"March 30, 2013",2013,3,March,30,0,20,5.6,4.4,drizzle
+Seattle,"March 31, 2013",2013,3,March,31,0,20.6,6.7,2.9,sun
+Seattle,"April 1, 2013",2013,4,April,1,0,17.2,8.3,3.6,sun
+Seattle,"April 2, 2013",2013,4,April,2,0,13.9,8.9,2.2,sun
+Seattle,"April 3, 2013",2013,4,April,3,0,16.7,7.8,1.6,sun
+Seattle,"April 4, 2013",2013,4,April,4,8.4,14.4,10,3,fog
+Seattle,"April 5, 2013",2013,4,April,5,18.5,13.9,10,5.6,fog
+Seattle,"April 6, 2013",2013,4,April,6,12.7,12.2,7.2,5,fog
+Seattle,"April 7, 2013",2013,4,April,7,39.1,8.3,5,3.9,fog
+Seattle,"April 8, 2013",2013,4,April,8,0.8,13.3,6.1,3.1,fog
+Seattle,"April 9, 2013",2013,4,April,9,0,12.2,6.1,2.4,sun
+Seattle,"April 10, 2013",2013,4,April,10,9.4,15,8.9,6.4,sun
+Seattle,"April 11, 2013",2013,4,April,11,1.5,12.2,6.7,3.8,fog
+Seattle,"April 12, 2013",2013,4,April,12,9.7,7.8,4.4,4.6,fog
+Seattle,"April 13, 2013",2013,4,April,13,9.4,10.6,3.3,5.7,fog
+Seattle,"April 14, 2013",2013,4,April,14,5.8,12.8,4.4,2.3,fog
+Seattle,"April 15, 2013",2013,4,April,15,0,13.9,4.4,2.4,fog
+Seattle,"April 16, 2013",2013,4,April,16,0.3,13.9,3.3,2.6,sun
+Seattle,"April 17, 2013",2013,4,April,17,0,15,3.9,3.3,drizzle
+Seattle,"April 18, 2013",2013,4,April,18,5.3,11.7,6.7,4,fog
+Seattle,"April 19, 2013",2013,4,April,19,20.6,13.3,9.4,4.9,fog
+Seattle,"April 20, 2013",2013,4,April,20,0,13.9,8.3,5.8,sun
+Seattle,"April 21, 2013",2013,4,April,21,3.3,12.2,6.7,4.1,sun
+Seattle,"April 22, 2013",2013,4,April,22,0,16.1,5,4.3,sun
+Seattle,"April 23, 2013",2013,4,April,23,0,17.8,3.9,2.8,sun
+Seattle,"April 24, 2013",2013,4,April,24,0,21.1,6.1,3,sun
+Seattle,"April 25, 2013",2013,4,April,25,0,21.7,6.7,1.1,sun
+Seattle,"April 26, 2013",2013,4,April,26,0,20.6,8.3,2.2,fog
+Seattle,"April 27, 2013",2013,4,April,27,0,13.9,10.6,5.9,sun
+Seattle,"April 28, 2013",2013,4,April,28,1,15,9.4,5.2,drizzle
+Seattle,"April 29, 2013",2013,4,April,29,3.8,13.9,6.7,4.2,fog
+Seattle,"April 30, 2013",2013,4,April,30,0,12.8,4.4,2.4,sun
+Seattle,"May 1, 2013",2013,5,May,1,0,18.3,3.3,3.1,sun
+Seattle,"May 2, 2013",2013,5,May,2,0,20.6,6.7,4,sun
+Seattle,"May 3, 2013",2013,5,May,3,0,21.7,9.4,4.9,sun
+Seattle,"May 4, 2013",2013,5,May,4,0,25,11.1,6.5,sun
+Seattle,"May 5, 2013",2013,5,May,5,0,28.9,11.7,5.3,sun
+Seattle,"May 6, 2013",2013,5,May,6,0,30.6,12.2,2,sun
+Seattle,"May 7, 2013",2013,5,May,7,0,20.6,11.1,3.3,sun
+Seattle,"May 8, 2013",2013,5,May,8,0,19.4,11.1,1.9,sun
+Seattle,"May 9, 2013",2013,5,May,9,0,22.8,10,1.3,sun
+Seattle,"May 10, 2013",2013,5,May,10,0,26.1,9.4,1,sun
+Seattle,"May 11, 2013",2013,5,May,11,0,27.2,12.2,2.6,sun
+Seattle,"May 12, 2013",2013,5,May,12,6.6,21.7,13.9,3.9,fog
+Seattle,"May 13, 2013",2013,5,May,13,3.3,18.9,9.4,5,sun
+Seattle,"May 14, 2013",2013,5,May,14,0,18.3,7.8,2.4,sun
+Seattle,"May 15, 2013",2013,5,May,15,1,17.2,8.9,2.3,fog
+Seattle,"May 16, 2013",2013,5,May,16,0,21.7,12.2,2.7,fog
+Seattle,"May 17, 2013",2013,5,May,17,0.5,17.2,11.7,3.7,sun
+Seattle,"May 18, 2013",2013,5,May,18,0,16.7,11.1,2.9,sun
+Seattle,"May 19, 2013",2013,5,May,19,0,18.3,10.6,2.3,sun
+Seattle,"May 20, 2013",2013,5,May,20,0,19.4,9.4,1.8,sun
+Seattle,"May 21, 2013",2013,5,May,21,13.7,15.6,8.3,4.8,fog
+Seattle,"May 22, 2013",2013,5,May,22,13.7,11.1,7.2,3,fog
+Seattle,"May 23, 2013",2013,5,May,23,4.1,12.2,6.7,1.9,fog
+Seattle,"May 24, 2013",2013,5,May,24,0.3,16.7,8.9,2.7,sun
+Seattle,"May 25, 2013",2013,5,May,25,0,17.8,10,2.7,sun
+Seattle,"May 26, 2013",2013,5,May,26,1.5,18.3,10.6,2.2,fog
+Seattle,"May 27, 2013",2013,5,May,27,9.7,16.7,11.1,3.1,fog
+Seattle,"May 28, 2013",2013,5,May,28,0.5,17.2,11.7,2.8,fog
+Seattle,"May 29, 2013",2013,5,May,29,5.6,16.1,9.4,4,fog
+Seattle,"May 30, 2013",2013,5,May,30,0,16.7,9.4,5.3,sun
+Seattle,"May 31, 2013",2013,5,May,31,0,19.4,11.1,2.5,sun
+Seattle,"June 1, 2013",2013,6,June,1,0,22.8,12.2,2.5,sun
+Seattle,"June 2, 2013",2013,6,June,2,1,20.6,12.2,3.1,sun
+Seattle,"June 3, 2013",2013,6,June,3,0,22.2,11.1,2.9,sun
+Seattle,"June 4, 2013",2013,6,June,4,0,26.1,12.2,3.4,sun
+Seattle,"June 5, 2013",2013,6,June,5,0,26.7,14.4,3.1,sun
+Seattle,"June 6, 2013",2013,6,June,6,0,26.7,12.2,2.5,sun
+Seattle,"June 7, 2013",2013,6,June,7,0,21.7,13.3,3.2,sun
+Seattle,"June 8, 2013",2013,6,June,8,0,20.6,12.8,3.1,sun
+Seattle,"June 9, 2013",2013,6,June,9,0,20.6,11.1,3.7,sun
+Seattle,"June 10, 2013",2013,6,June,10,0,21.7,11.7,3.2,sun
+Seattle,"June 11, 2013",2013,6,June,11,0,20,10,5.7,sun
+Seattle,"June 12, 2013",2013,6,June,12,0.3,20.6,11.7,4.2,sun
+Seattle,"June 13, 2013",2013,6,June,13,0,21.1,11.7,2.6,sun
+Seattle,"June 14, 2013",2013,6,June,14,0,20,12.2,3.7,sun
+Seattle,"June 15, 2013",2013,6,June,15,0,25.6,10,2.9,sun
+Seattle,"June 16, 2013",2013,6,June,16,0,23.9,12.8,3.4,sun
+Seattle,"June 17, 2013",2013,6,June,17,0,25.6,13.9,3,sun
+Seattle,"June 18, 2013",2013,6,June,18,0.3,23.3,13.3,3.4,fog
+Seattle,"June 19, 2013",2013,6,June,19,0,20,12.8,3.7,sun
+Seattle,"June 20, 2013",2013,6,June,20,3,17.2,12.8,5,sun
+Seattle,"June 21, 2013",2013,6,June,21,0.3,20.6,12.2,1.5,sun
+Seattle,"June 22, 2013",2013,6,June,22,0,25.6,11.7,1.7,sun
+Seattle,"June 23, 2013",2013,6,June,23,7.9,22.2,15,2.1,fog
+Seattle,"June 24, 2013",2013,6,June,24,4.8,21.1,13.9,3.7,fog
+Seattle,"June 25, 2013",2013,6,June,25,9.9,23.3,14.4,2.8,sun
+Seattle,"June 26, 2013",2013,6,June,26,2,22.2,15,2.3,fog
+Seattle,"June 27, 2013",2013,6,June,27,3.6,21.1,16.7,1.3,fog
+Seattle,"June 28, 2013",2013,6,June,28,0,30.6,16.1,2.2,sun
+Seattle,"June 29, 2013",2013,6,June,29,0,30,18.3,1.7,sun
+Seattle,"June 30, 2013",2013,6,June,30,0,33.9,17.2,2.5,sun
+Seattle,"July 1, 2013",2013,7,July,1,0,31.7,18.3,2.3,sun
+Seattle,"July 2, 2013",2013,7,July,2,0,28.3,15.6,3,sun
+Seattle,"July 3, 2013",2013,7,July,3,0,26.1,16.7,3.2,sun
+Seattle,"July 4, 2013",2013,7,July,4,0,21.7,13.9,2.2,fog
+Seattle,"July 5, 2013",2013,7,July,5,0,23.3,13.9,2.6,sun
+Seattle,"July 6, 2013",2013,7,July,6,0,26.1,13.3,2.2,sun
+Seattle,"July 7, 2013",2013,7,July,7,0,23.9,13.9,2.9,sun
+Seattle,"July 8, 2013",2013,7,July,8,0,26.7,13.3,2.8,sun
+Seattle,"July 9, 2013",2013,7,July,9,0,30,15,2.5,sun
+Seattle,"July 10, 2013",2013,7,July,10,0,22.2,13.9,2.6,sun
+Seattle,"July 11, 2013",2013,7,July,11,0,22.8,12.2,3,sun
+Seattle,"July 12, 2013",2013,7,July,12,0,19.4,13.3,2.2,sun
+Seattle,"July 13, 2013",2013,7,July,13,0,26.1,11.1,3.1,sun
+Seattle,"July 14, 2013",2013,7,July,14,0,27.8,12.8,3,sun
+Seattle,"July 15, 2013",2013,7,July,15,0,27.8,14.4,4.6,sun
+Seattle,"July 16, 2013",2013,7,July,16,0,31.1,18.3,4.1,sun
+Seattle,"July 17, 2013",2013,7,July,17,0,22.2,15,3.7,rain
+Seattle,"July 18, 2013",2013,7,July,18,0,26.1,13.9,2,sun
+Seattle,"July 19, 2013",2013,7,July,19,0,27.8,13.3,1.9,sun
+Seattle,"July 20, 2013",2013,7,July,20,0,25,13.3,2,sun
+Seattle,"July 21, 2013",2013,7,July,21,0,23.9,12.8,2.3,sun
+Seattle,"July 22, 2013",2013,7,July,22,0,26.1,13.3,2.4,fog
+Seattle,"July 23, 2013",2013,7,July,23,0,31.1,13.9,3,sun
+Seattle,"July 24, 2013",2013,7,July,24,0,31.1,14.4,2.5,sun
+Seattle,"July 25, 2013",2013,7,July,25,0,31.1,12.8,2.3,sun
+Seattle,"July 26, 2013",2013,7,July,26,0,31.1,14.4,2.9,sun
+Seattle,"July 27, 2013",2013,7,July,27,0,25.6,12.8,2.6,sun
+Seattle,"July 28, 2013",2013,7,July,28,0,21.1,12.2,3.4,fog
+Seattle,"July 29, 2013",2013,7,July,29,0,25,13.3,1.4,sun
+Seattle,"July 30, 2013",2013,7,July,30,0,25,13.3,2.8,sun
+Seattle,"July 31, 2013",2013,7,July,31,0,21.7,13.3,1.8,sun
+Seattle,"August 1, 2013",2013,8,August,1,0,20.6,13.3,3.9,sun
+Seattle,"August 2, 2013",2013,8,August,2,2,17.2,15,2,sun
+Seattle,"August 3, 2013",2013,8,August,3,0,25,15.6,2.4,fog
+Seattle,"August 4, 2013",2013,8,August,4,0,28.9,15,3.4,sun
+Seattle,"August 5, 2013",2013,8,August,5,0,30,15,2.1,sun
+Seattle,"August 6, 2013",2013,8,August,6,0,30.6,13.9,1.4,sun
+Seattle,"August 7, 2013",2013,8,August,7,0,31.1,13.9,1.9,sun
+Seattle,"August 8, 2013",2013,8,August,8,0,28.3,14.4,2.5,sun
+Seattle,"August 9, 2013",2013,8,August,9,0,28.3,14.4,2.1,rain
+Seattle,"August 10, 2013",2013,8,August,10,2.3,25.6,15,2.9,sun
+Seattle,"August 11, 2013",2013,8,August,11,0,25,14.4,2.9,sun
+Seattle,"August 12, 2013",2013,8,August,12,0,25.6,16.1,1.9,sun
+Seattle,"August 13, 2013",2013,8,August,13,0,27.8,15,1.8,sun
+Seattle,"August 14, 2013",2013,8,August,14,0.8,27.2,15,2,sun
+Seattle,"August 15, 2013",2013,8,August,15,1.8,21.1,17.2,1,sun
+Seattle,"August 16, 2013",2013,8,August,16,0,28.9,16.1,2.2,fog
+Seattle,"August 17, 2013",2013,8,August,17,0,25.6,17.2,3,sun
+Seattle,"August 18, 2013",2013,8,August,18,0,26.1,15.6,3.1,sun
+Seattle,"August 19, 2013",2013,8,August,19,0,26.7,15.6,3,sun
+Seattle,"August 20, 2013",2013,8,August,20,0,25.6,16.1,4.6,sun
+Seattle,"August 21, 2013",2013,8,August,21,0,27.8,15,4.3,sun
+Seattle,"August 22, 2013",2013,8,August,22,0,28.9,15,1.9,sun
+Seattle,"August 23, 2013",2013,8,August,23,0,25,16.1,4.1,sun
+Seattle,"August 24, 2013",2013,8,August,24,0,25,16.7,2.7,sun
+Seattle,"August 25, 2013",2013,8,August,25,0.3,22.2,16.1,2.6,sun
+Seattle,"August 26, 2013",2013,8,August,26,1,24.4,16.1,1.9,sun
+Seattle,"August 27, 2013",2013,8,August,27,1.3,26.7,17.2,1.4,sun
+Seattle,"August 28, 2013",2013,8,August,28,5.6,26.7,15.6,1.3,fog
+Seattle,"August 29, 2013",2013,8,August,29,19.3,23.9,18.3,3,sun
+Seattle,"August 30, 2013",2013,8,August,30,0,26.1,16.1,2.9,sun
+Seattle,"August 31, 2013",2013,8,August,31,0,27.8,13.9,2.6,sun
+Seattle,"September 1, 2013",2013,9,September,1,0,27.8,15.6,2.5,sun
+Seattle,"September 2, 2013",2013,9,September,2,0,27.8,17.2,2.1,sun
+Seattle,"September 3, 2013",2013,9,September,3,2.3,25,16.7,1.7,fog
+Seattle,"September 4, 2013",2013,9,September,4,0.3,22.8,16.1,2.4,fog
+Seattle,"September 5, 2013",2013,9,September,5,27.7,20,15.6,2.5,sun
+Seattle,"September 6, 2013",2013,9,September,6,21.3,21.7,16.1,2.6,fog
+Seattle,"September 7, 2013",2013,9,September,7,0,23.3,17.2,2,sun
+Seattle,"September 8, 2013",2013,9,September,8,0,26.7,14.4,1.5,fog
+Seattle,"September 9, 2013",2013,9,September,9,0,26.1,13.9,2.1,sun
+Seattle,"September 10, 2013",2013,9,September,10,0,26.7,15,3.7,sun
+Seattle,"September 11, 2013",2013,9,September,11,0,33.9,16.1,2.4,sun
+Seattle,"September 12, 2013",2013,9,September,12,0,25.6,15,1.7,sun
+Seattle,"September 13, 2013",2013,9,September,13,0,18.9,15.6,2,sun
+Seattle,"September 14, 2013",2013,9,September,14,0,21.7,15.6,1.4,fog
+Seattle,"September 15, 2013",2013,9,September,15,3.3,18.9,14.4,2.2,sun
+Seattle,"September 16, 2013",2013,9,September,16,0.3,21.7,15,4.3,fog
+Seattle,"September 17, 2013",2013,9,September,17,0,17.8,13.9,2.3,sun
+Seattle,"September 18, 2013",2013,9,September,18,0,21.1,13.3,2.5,sun
+Seattle,"September 19, 2013",2013,9,September,19,0,25.6,10,1.5,sun
+Seattle,"September 20, 2013",2013,9,September,20,3.6,23.3,13.3,3,fog
+Seattle,"September 21, 2013",2013,9,September,21,0,21.1,13.3,2.5,sun
+Seattle,"September 22, 2013",2013,9,September,22,13.5,17.2,13.3,5.5,fog
+Seattle,"September 23, 2013",2013,9,September,23,2.8,16.1,11.1,4.5,fog
+Seattle,"September 24, 2013",2013,9,September,24,0,17.8,10,2.6,sun
+Seattle,"September 25, 2013",2013,9,September,25,2,16.1,9.4,3,fog
+Seattle,"September 26, 2013",2013,9,September,26,0,17.2,7.2,2.2,sun
+Seattle,"September 27, 2013",2013,9,September,27,1,13.9,10.6,4.3,fog
+Seattle,"September 28, 2013",2013,9,September,28,43.4,16.7,11.7,6,fog
+Seattle,"September 29, 2013",2013,9,September,29,16.8,14.4,11.1,7.1,sun
+Seattle,"September 30, 2013",2013,9,September,30,18.5,13.9,10,6.3,fog
+Seattle,"October 1, 2013",2013,10,October,1,7.9,14.4,8.9,4.7,fog
+Seattle,"October 2, 2013",2013,10,October,2,5.3,12.8,9.4,2.4,fog
+Seattle,"October 3, 2013",2013,10,October,3,0.8,14.4,8.9,0.9,fog
+Seattle,"October 4, 2013",2013,10,October,4,0,17.8,5.6,1.1,sun
+Seattle,"October 5, 2013",2013,10,October,5,0,20,8.3,1.6,sun
+Seattle,"October 6, 2013",2013,10,October,6,4.1,22.8,7.8,2.6,fog
+Seattle,"October 7, 2013",2013,10,October,7,0.5,16.1,11.7,6.3,fog
+Seattle,"October 8, 2013",2013,10,October,8,6.9,13.9,7.8,3,rain
+Seattle,"October 9, 2013",2013,10,October,9,0,15,5.6,1.6,sun
+Seattle,"October 10, 2013",2013,10,October,10,1,14.4,8.3,1.7,fog
+Seattle,"October 11, 2013",2013,10,October,11,9.1,13.9,10.6,1,sun
+Seattle,"October 12, 2013",2013,10,October,12,1,14.4,8.9,2.2,fog
+Seattle,"October 13, 2013",2013,10,October,13,0,15,6.7,1.8,fog
+Seattle,"October 14, 2013",2013,10,October,14,0,15.6,3.9,1.6,sun
+Seattle,"October 15, 2013",2013,10,October,15,0,15.6,5,0.9,sun
+Seattle,"October 16, 2013",2013,10,October,16,0,12.8,8.9,2.7,fog
+Seattle,"October 17, 2013",2013,10,October,17,0,14.4,8.9,1.7,fog
+Seattle,"October 18, 2013",2013,10,October,18,0,12.8,7.2,1.2,sun
+Seattle,"October 19, 2013",2013,10,October,19,0,10.6,7.8,1.4,sun
+Seattle,"October 20, 2013",2013,10,October,20,0,10.6,7.8,2.4,sun
+Seattle,"October 21, 2013",2013,10,October,21,0,11.7,8.3,2.5,sun
+Seattle,"October 22, 2013",2013,10,October,22,0,14.4,7.2,1.9,sun
+Seattle,"October 23, 2013",2013,10,October,23,0,12.8,6.1,0.4,sun
+Seattle,"October 24, 2013",2013,10,October,24,0,10,6.1,0.6,sun
+Seattle,"October 25, 2013",2013,10,October,25,0,12.2,7.8,1.8,sun
+Seattle,"October 26, 2013",2013,10,October,26,0,11.7,8.3,2.7,sun
+Seattle,"October 27, 2013",2013,10,October,27,1.8,13.9,8.3,4.4,fog
+Seattle,"October 28, 2013",2013,10,October,28,0,14.4,7.2,5.1,sun
+Seattle,"October 29, 2013",2013,10,October,29,0,13.3,3.3,2.2,sun
+Seattle,"October 30, 2013",2013,10,October,30,0.5,15,5.6,3.9,sun
+Seattle,"October 31, 2013",2013,10,October,31,0.3,14.4,10.6,2.2,fog
+Seattle,"November 1, 2013",2013,11,November,1,1.3,17.8,11.7,1.4,sun
+Seattle,"November 2, 2013",2013,11,November,2,12.7,14.4,8.3,7.9,fog
+Seattle,"November 3, 2013",2013,11,November,3,0.5,12.2,4.4,2.4,sun
+Seattle,"November 4, 2013",2013,11,November,4,0,10.6,3.9,1.6,drizzle
+Seattle,"November 5, 2013",2013,11,November,5,2.5,13.3,7.2,3.1,fog
+Seattle,"November 6, 2013",2013,11,November,6,3.8,12.8,7.8,1.7,sun
+Seattle,"November 7, 2013",2013,11,November,7,30,11.1,10,7.2,fog
+Seattle,"November 8, 2013",2013,11,November,8,0,13.3,7.2,4.1,sun
+Seattle,"November 9, 2013",2013,11,November,9,1.8,11.1,5,1.4,sun
+Seattle,"November 10, 2013",2013,11,November,10,0,11.1,8.3,4.4,sun
+Seattle,"November 11, 2013",2013,11,November,11,0,16.1,6.1,2.6,fog
+Seattle,"November 12, 2013",2013,11,November,12,4.1,15.6,8.9,2.2,fog
+Seattle,"November 13, 2013",2013,11,November,13,0,13.9,10.6,3.8,sun
+Seattle,"November 14, 2013",2013,11,November,14,1.3,11.1,6.1,1.1,fog
+Seattle,"November 15, 2013",2013,11,November,15,3,10.6,7.2,6,sun
+Seattle,"November 16, 2013",2013,11,November,16,0,10,5,4.6,sun
+Seattle,"November 17, 2013",2013,11,November,17,5.3,11.7,7.2,5.4,fog
+Seattle,"November 18, 2013",2013,11,November,18,26.2,12.8,9.4,3.9,fog
+Seattle,"November 19, 2013",2013,11,November,19,1,13.3,4.4,5.1,fog
+Seattle,"November 20, 2013",2013,11,November,20,0,7.8,1.7,4.3,sun
+Seattle,"November 21, 2013",2013,11,November,21,0,7.8,-0.5,3.6,sun
+Seattle,"November 22, 2013",2013,11,November,22,0,9.4,0,4.6,sun
+Seattle,"November 23, 2013",2013,11,November,23,0,11.1,1.1,2.6,sun
+Seattle,"November 24, 2013",2013,11,November,24,0,11.7,0.6,0.9,fog
+Seattle,"November 25, 2013",2013,11,November,25,0,12.2,2.2,0.5,sun
+Seattle,"November 26, 2013",2013,11,November,26,0,12.2,2.8,1,sun
+Seattle,"November 27, 2013",2013,11,November,27,0,14.4,5.6,1.3,sun
+Seattle,"November 28, 2013",2013,11,November,28,0,11.7,3.3,0.7,sun
+Seattle,"November 29, 2013",2013,11,November,29,0.5,9.4,5,2.1,fog
+Seattle,"November 30, 2013",2013,11,November,30,2.3,11.1,7.2,3.9,fog
+Seattle,"December 1, 2013",2013,12,December,1,3,13.3,7.8,8.8,fog
+Seattle,"December 2, 2013",2013,12,December,2,4.6,7.8,1.7,3.5,sun
+Seattle,"December 3, 2013",2013,12,December,3,0,5,-0.5,5.6,sun
+Seattle,"December 4, 2013",2013,12,December,4,0,4.4,-2.1,1.6,sun
+Seattle,"December 5, 2013",2013,12,December,5,0,1.1,-4.9,2.6,sun
+Seattle,"December 6, 2013",2013,12,December,6,0,1.1,-4.3,4.7,sun
+Seattle,"December 7, 2013",2013,12,December,7,0,0,-7.1,3.1,sun
+Seattle,"December 8, 2013",2013,12,December,8,0,2.2,-6.6,2.2,sun
+Seattle,"December 9, 2013",2013,12,December,9,0,1.1,-4.9,1.3,sun
+Seattle,"December 10, 2013",2013,12,December,10,0,5.6,0.6,1.5,sun
+Seattle,"December 11, 2013",2013,12,December,11,0,5,-1.6,0.8,sun
+Seattle,"December 12, 2013",2013,12,December,12,6.9,5.6,-0.5,2.3,sun
+Seattle,"December 13, 2013",2013,12,December,13,0.5,9.4,5.6,2.9,fog
+Seattle,"December 14, 2013",2013,12,December,14,0,9.4,6.1,3.7,sun
+Seattle,"December 15, 2013",2013,12,December,15,1.3,11.7,8.3,3.9,fog
+Seattle,"December 16, 2013",2013,12,December,16,0.3,10,4.4,1,sun
+Seattle,"December 17, 2013",2013,12,December,17,0,8.3,4.4,2.7,sun
+Seattle,"December 18, 2013",2013,12,December,18,1.3,7.8,2.2,2.8,fog
+Seattle,"December 19, 2013",2013,12,December,19,0,5,0,2.1,sun
+Seattle,"December 20, 2013",2013,12,December,20,5.6,8.3,0.6,3.7,fog
+Seattle,"December 21, 2013",2013,12,December,21,5.6,8.9,5.6,2.3,fog
+Seattle,"December 22, 2013",2013,12,December,22,10.7,10.6,8.3,4,fog
+Seattle,"December 23, 2013",2013,12,December,23,1.5,11.7,6.1,5.9,fog
+Seattle,"December 24, 2013",2013,12,December,24,0,8.3,2.8,1.7,sun
+Seattle,"December 25, 2013",2013,12,December,25,0,6.7,1.7,0.8,sun
+Seattle,"December 26, 2013",2013,12,December,26,0,6.7,0.6,0.5,sun
+Seattle,"December 27, 2013",2013,12,December,27,0.3,8.9,0,2.1,fog
+Seattle,"December 28, 2013",2013,12,December,28,0,9.4,3.3,1.3,sun
+Seattle,"December 29, 2013",2013,12,December,29,0,7.2,1.7,1.1,sun
+Seattle,"December 30, 2013",2013,12,December,30,0.3,8.9,4.4,2.6,sun
+Seattle,"December 31, 2013",2013,12,December,31,0.5,8.3,5,1.7,sun
+Seattle,"January 1, 2014",2014,1,January,1,0,7.2,3.3,1.2,sun
+Seattle,"January 2, 2014",2014,1,January,2,4.1,10.6,6.1,3.2,sun
+Seattle,"January 3, 2014",2014,1,January,3,1.5,8.9,2.8,2.6,fog
+Seattle,"January 4, 2014",2014,1,January,4,0,7.8,0.6,2.7,fog
+Seattle,"January 5, 2014",2014,1,January,5,0,8.3,-0.5,3.7,sun
+Seattle,"January 6, 2014",2014,1,January,6,0.3,7.8,-0.5,2.6,fog
+Seattle,"January 7, 2014",2014,1,January,7,12.2,8.3,5,1.6,sun
+Seattle,"January 8, 2014",2014,1,January,8,9.7,10,7.2,4.6,fog
+Seattle,"January 9, 2014",2014,1,January,9,5.8,9.4,5.6,6.3,fog
+Seattle,"January 10, 2014",2014,1,January,10,4.3,12.8,8.3,7,sun
+Seattle,"January 11, 2014",2014,1,January,11,21.3,14.4,7.2,8.8,fog
+Seattle,"January 12, 2014",2014,1,January,12,1.5,11.1,5.6,8.1,fog
+Seattle,"January 13, 2014",2014,1,January,13,0,10.6,10,7.1,sun
+Seattle,"January 14, 2014",2014,1,January,14,0,11.1,7.2,1.3,sun
+Seattle,"January 15, 2014",2014,1,January,15,0,11.1,5.6,2.5,sun
+Seattle,"January 16, 2014",2014,1,January,16,0,6.7,4.4,2.7,sun
+Seattle,"January 17, 2014",2014,1,January,17,0,5.6,2.8,2.3,sun
+Seattle,"January 18, 2014",2014,1,January,18,0,9.4,0.6,2.2,sun
+Seattle,"January 19, 2014",2014,1,January,19,0,6.1,3.3,2.5,sun
+Seattle,"January 20, 2014",2014,1,January,20,0,10,2.8,2.2,sun
+Seattle,"January 21, 2014",2014,1,January,21,0,10,1.7,1.5,sun
+Seattle,"January 22, 2014",2014,1,January,22,0.5,9.4,5.6,2.6,sun
+Seattle,"January 23, 2014",2014,1,January,23,0,10,2.8,5.2,fog
+Seattle,"January 24, 2014",2014,1,January,24,0,12.8,1.1,1.9,sun
+Seattle,"January 25, 2014",2014,1,January,25,0,12.2,1.1,0.8,sun
+Seattle,"January 26, 2014",2014,1,January,26,0,8.3,0.6,1.3,sun
+Seattle,"January 27, 2014",2014,1,January,27,0,9.4,1.7,1.3,sun
+Seattle,"January 28, 2014",2014,1,January,28,8.9,11.1,6.1,1.6,fog
+Seattle,"January 29, 2014",2014,1,January,29,21.6,11.1,7.2,3.4,fog
+Seattle,"January 30, 2014",2014,1,January,30,0,8.3,6.1,6.4,sun
+Seattle,"January 31, 2014",2014,1,January,31,2.3,7.8,5.6,2.6,fog
+Seattle,"February 1, 2014",2014,2,February,1,2,7.8,2.8,0.8,sun
+Seattle,"February 2, 2014",2014,2,February,2,0,8.9,1.1,2.5,sun
+Seattle,"February 3, 2014",2014,2,February,3,0,5,0,4.3,sun
+Seattle,"February 4, 2014",2014,2,February,4,0,2.8,-2.1,4.7,sun
+Seattle,"February 5, 2014",2014,2,February,5,0,-0.5,-5.5,6.6,sun
+Seattle,"February 6, 2014",2014,2,February,6,0,-1.6,-6,4.5,sun
+Seattle,"February 7, 2014",2014,2,February,7,0,3.3,-4.9,4.2,sun
+Seattle,"February 8, 2014",2014,2,February,8,5.1,5.6,-0.5,4.6,fog
+Seattle,"February 9, 2014",2014,2,February,9,0.5,3.9,0,2.4,fog
+Seattle,"February 10, 2014",2014,2,February,10,18.3,10,2.2,4.7,fog
+Seattle,"February 11, 2014",2014,2,February,11,17,12.2,5.6,3.8,fog
+Seattle,"February 12, 2014",2014,2,February,12,4.6,12.2,7.2,6.4,fog
+Seattle,"February 13, 2014",2014,2,February,13,1.8,12.8,7.8,6.3,fog
+Seattle,"February 14, 2014",2014,2,February,14,9.4,11.7,6.1,6.4,fog
+Seattle,"February 15, 2014",2014,2,February,15,11.7,11.1,5,5.1,fog
+Seattle,"February 16, 2014",2014,2,February,16,26.4,9.4,3.9,7.9,fog
+Seattle,"February 17, 2014",2014,2,February,17,14.5,8.3,4.4,5.5,fog
+Seattle,"February 18, 2014",2014,2,February,18,15.2,8.9,5,6.2,fog
+Seattle,"February 19, 2014",2014,2,February,19,1,8.3,3.9,6,sun
+Seattle,"February 20, 2014",2014,2,February,20,3,10,5.6,6.9,fog
+Seattle,"February 21, 2014",2014,2,February,21,2.8,6.7,3.9,2.9,fog
+Seattle,"February 22, 2014",2014,2,February,22,2.5,5.6,2.8,3.1,fog
+Seattle,"February 23, 2014",2014,2,February,23,6.1,7.2,3.9,2.6,fog
+Seattle,"February 24, 2014",2014,2,February,24,13,6.7,3.3,3.2,fog
+Seattle,"February 25, 2014",2014,2,February,25,0.3,12.2,3.9,4.5,fog
+Seattle,"February 26, 2014",2014,2,February,26,0,13.9,5.6,2.5,sun
+Seattle,"February 27, 2014",2014,2,February,27,0,12.8,4.4,2.3,sun
+Seattle,"February 28, 2014",2014,2,February,28,0,14.4,4.4,5.9,sun
+Seattle,"March 1, 2014",2014,3,March,1,0.5,7.2,4.4,4.7,sun
+Seattle,"March 2, 2014",2014,3,March,2,19.1,11.1,2.8,5.7,fog
+Seattle,"March 3, 2014",2014,3,March,3,10.7,14.4,8.9,5.1,fog
+Seattle,"March 4, 2014",2014,3,March,4,16.5,13.9,7.8,3.9,fog
+Seattle,"March 5, 2014",2014,3,March,5,46.7,15.6,10.6,3.9,fog
+Seattle,"March 6, 2014",2014,3,March,6,3,13.3,10,6.2,fog
+Seattle,"March 7, 2014",2014,3,March,7,0,15.6,8.9,4.2,sun
+Seattle,"March 8, 2014",2014,3,March,8,32.3,12.8,6.7,2.7,fog
+Seattle,"March 9, 2014",2014,3,March,9,4.3,15,9.4,4.3,fog
+Seattle,"March 10, 2014",2014,3,March,10,18.8,12.2,6.1,2.2,fog
+Seattle,"March 11, 2014",2014,3,March,11,0,14.4,4.4,2.3,fog
+Seattle,"March 12, 2014",2014,3,March,12,0,16.1,3.3,1.9,fog
+Seattle,"March 13, 2014",2014,3,March,13,0.5,13.9,5,2.5,fog
+Seattle,"March 14, 2014",2014,3,March,14,6.9,14.4,8.3,6.1,fog
+Seattle,"March 15, 2014",2014,3,March,15,8.1,16.7,4.4,3,fog
+Seattle,"March 16, 2014",2014,3,March,16,27.7,10.6,4.4,3.8,fog
+Seattle,"March 17, 2014",2014,3,March,17,0.3,10,2.8,3.2,fog
+Seattle,"March 18, 2014",2014,3,March,18,0,10,3.3,1.6,sun
+Seattle,"March 19, 2014",2014,3,March,19,0.5,11.1,3.3,5.1,sun
+Seattle,"March 20, 2014",2014,3,March,20,0,11.1,1.7,3,sun
+Seattle,"March 21, 2014",2014,3,March,21,0,10.6,2.8,3.8,sun
+Seattle,"March 22, 2014",2014,3,March,22,0,11.1,1.1,1.8,sun
+Seattle,"March 23, 2014",2014,3,March,23,0,12.8,4.4,3.3,sun
+Seattle,"March 24, 2014",2014,3,March,24,0,18.9,2.8,2.2,sun
+Seattle,"March 25, 2014",2014,3,March,25,4.1,13.9,6.7,4.4,fog
+Seattle,"March 26, 2014",2014,3,March,26,3.6,11.1,5.6,2.4,fog
+Seattle,"March 27, 2014",2014,3,March,27,0.3,12.2,6.7,2.8,fog
+Seattle,"March 28, 2014",2014,3,March,28,22.1,11.7,7.2,3.9,fog
+Seattle,"March 29, 2014",2014,3,March,29,14,11.7,7.2,5.1,fog
+Seattle,"March 30, 2014",2014,3,March,30,0,11.1,5,5.1,sun
+Seattle,"March 31, 2014",2014,3,March,31,0,15.6,2.2,3.8,sun
+Seattle,"April 1, 2014",2014,4,April,1,0,14.4,6.7,2.8,sun
+Seattle,"April 2, 2014",2014,4,April,2,0,14.4,5.6,4.2,sun
+Seattle,"April 3, 2014",2014,4,April,3,2.5,13.3,6.1,3.9,sun
+Seattle,"April 4, 2014",2014,4,April,4,0,12.8,6.1,4.7,sun
+Seattle,"April 5, 2014",2014,4,April,5,4.6,11.7,7.8,4.3,fog
+Seattle,"April 6, 2014",2014,4,April,6,0,13.9,8.3,2.6,sun
+Seattle,"April 7, 2014",2014,4,April,7,0,21.1,9.4,2.5,sun
+Seattle,"April 8, 2014",2014,4,April,8,4.6,15.6,8.3,4.2,fog
+Seattle,"April 9, 2014",2014,4,April,9,0,14.4,6.7,2.9,sun
+Seattle,"April 10, 2014",2014,4,April,10,0,15,6.7,3.6,sun
+Seattle,"April 11, 2014",2014,4,April,11,0,17.2,5,2.8,sun
+Seattle,"April 12, 2014",2014,4,April,12,0,16.1,7.8,4.4,sun
+Seattle,"April 13, 2014",2014,4,April,13,0,20.6,5.6,3.1,sun
+Seattle,"April 14, 2014",2014,4,April,14,0,20,5.6,2.6,sun
+Seattle,"April 15, 2014",2014,4,April,15,0.5,14.4,7.8,4,sun
+Seattle,"April 16, 2014",2014,4,April,16,10.9,11.1,8.9,4.6,fog
+Seattle,"April 17, 2014",2014,4,April,17,18.5,11.7,7.2,4.7,fog
+Seattle,"April 18, 2014",2014,4,April,18,0,14.4,5.6,3.8,sun
+Seattle,"April 19, 2014",2014,4,April,19,13.7,11.7,5.6,4.7,fog
+Seattle,"April 20, 2014",2014,4,April,20,0,15.6,5.6,2.7,sun
+Seattle,"April 21, 2014",2014,4,April,21,5.1,17.2,7.8,2.5,fog
+Seattle,"April 22, 2014",2014,4,April,22,14.2,12.2,5,4.2,fog
+Seattle,"April 23, 2014",2014,4,April,23,8.9,11.7,6.1,5,fog
+Seattle,"April 24, 2014",2014,4,April,24,12.4,13.9,6.1,5.3,fog
+Seattle,"April 25, 2014",2014,4,April,25,0,14.4,5.6,2.3,sun
+Seattle,"April 26, 2014",2014,4,April,26,3.3,15,5.6,3.9,sun
+Seattle,"April 27, 2014",2014,4,April,27,6.9,11.1,6.1,5.8,fog
+Seattle,"April 28, 2014",2014,4,April,28,0,16.1,4.4,2.6,sun
+Seattle,"April 29, 2014",2014,4,April,29,0,25,9.4,2.3,sun
+Seattle,"April 30, 2014",2014,4,April,30,0,27.8,9.4,3.9,sun
+Seattle,"May 1, 2014",2014,5,May,1,0,29.4,11.1,3,sun
+Seattle,"May 2, 2014",2014,5,May,2,0,18.3,10.6,4.7,sun
+Seattle,"May 3, 2014",2014,5,May,3,33.3,15,8.9,3.4,fog
+Seattle,"May 4, 2014",2014,5,May,4,16,14.4,8.9,4.2,fog
+Seattle,"May 5, 2014",2014,5,May,5,5.1,15.6,9.4,3.8,fog
+Seattle,"May 6, 2014",2014,5,May,6,0,16.7,8.3,2.6,sun
+Seattle,"May 7, 2014",2014,5,May,7,0,18.3,7.2,1.7,sun
+Seattle,"May 8, 2014",2014,5,May,8,13.7,13.9,9.4,3.4,fog
+Seattle,"May 9, 2014",2014,5,May,9,2,13.3,7.2,5.6,sun
+Seattle,"May 10, 2014",2014,5,May,10,0.5,15.6,7.2,2.1,fog
+Seattle,"May 11, 2014",2014,5,May,11,0,18.9,8.3,1.7,sun
+Seattle,"May 12, 2014",2014,5,May,12,0,24.4,9.4,2.7,sun
+Seattle,"May 13, 2014",2014,5,May,13,0,26.7,12.8,3.8,sun
+Seattle,"May 14, 2014",2014,5,May,14,0,27.8,13.3,3.3,sun
+Seattle,"May 15, 2014",2014,5,May,15,0,26.7,12.8,3,sun
+Seattle,"May 16, 2014",2014,5,May,16,0,20,11.7,4.1,sun
+Seattle,"May 17, 2014",2014,5,May,17,0,20,11.7,3.2,sun
+Seattle,"May 18, 2014",2014,5,May,18,0,20,10.6,3.2,sun
+Seattle,"May 19, 2014",2014,5,May,19,0,21.1,10,2.2,sun
+Seattle,"May 20, 2014",2014,5,May,20,0,22.2,10,2.7,sun
+Seattle,"May 21, 2014",2014,5,May,21,0,20,10.6,1.7,sun
+Seattle,"May 22, 2014",2014,5,May,22,0,24.4,11.7,2.5,sun
+Seattle,"May 23, 2014",2014,5,May,23,3.8,20,12.8,4,fog
+Seattle,"May 24, 2014",2014,5,May,24,0,18.3,11.1,2.4,sun
+Seattle,"May 25, 2014",2014,5,May,25,5.6,15,10.6,1.4,fog
+Seattle,"May 26, 2014",2014,5,May,26,0,18.3,11.1,4.5,sun
+Seattle,"May 27, 2014",2014,5,May,27,0,20,10,2.5,sun
+Seattle,"May 28, 2014",2014,5,May,28,0,18.9,10,3.4,sun
+Seattle,"May 29, 2014",2014,5,May,29,0,18.9,11.1,4.3,sun
+Seattle,"May 30, 2014",2014,5,May,30,0,20.6,8.9,4.5,sun
+Seattle,"May 31, 2014",2014,5,May,31,0,23.3,10,2.2,sun
+Seattle,"June 1, 2014",2014,6,June,1,0,22.2,10.6,2.3,sun
+Seattle,"June 2, 2014",2014,6,June,2,0,23.3,11.1,2.4,sun
+Seattle,"June 3, 2014",2014,6,June,3,0,18.3,11.1,3.2,sun
+Seattle,"June 4, 2014",2014,6,June,4,0,19.4,10,2.6,sun
+Seattle,"June 5, 2014",2014,6,June,5,0,22.2,10,2.4,sun
+Seattle,"June 6, 2014",2014,6,June,6,0,25,10.6,3.2,sun
+Seattle,"June 7, 2014",2014,6,June,7,0,24.4,13.3,3.1,sun
+Seattle,"June 8, 2014",2014,6,June,8,0,23.3,12.2,2.1,sun
+Seattle,"June 9, 2014",2014,6,June,9,0,21.1,13.3,3.6,sun
+Seattle,"June 10, 2014",2014,6,June,10,0,20,12.2,2.9,sun
+Seattle,"June 11, 2014",2014,6,June,11,0,23.9,11.1,2.7,sun
+Seattle,"June 12, 2014",2014,6,June,12,1.8,21.7,12.2,4,sun
+Seattle,"June 13, 2014",2014,6,June,13,6.4,15.6,11.1,5,fog
+Seattle,"June 14, 2014",2014,6,June,14,0,17.8,11.7,3.2,sun
+Seattle,"June 15, 2014",2014,6,June,15,0.5,18.3,10,3.6,fog
+Seattle,"June 16, 2014",2014,6,June,16,3.6,17.8,8.9,2.4,fog
+Seattle,"June 17, 2014",2014,6,June,17,1.3,17.8,10,3,fog
+Seattle,"June 18, 2014",2014,6,June,18,0,18.9,11.1,2.7,sun
+Seattle,"June 19, 2014",2014,6,June,19,0.8,25.6,11.7,3.7,sun
+Seattle,"June 20, 2014",2014,6,June,20,0.3,20,10,3.4,sun
+Seattle,"June 21, 2014",2014,6,June,21,0,22.2,10.6,3.6,sun
+Seattle,"June 22, 2014",2014,6,June,22,0,25,11.1,2.7,sun
+Seattle,"June 23, 2014",2014,6,June,23,0,25,13.3,2.5,sun
+Seattle,"June 24, 2014",2014,6,June,24,0,24.4,14.4,2.5,sun
+Seattle,"June 25, 2014",2014,6,June,25,0,26.1,13.9,2.4,sun
+Seattle,"June 26, 2014",2014,6,June,26,0,21.1,14.4,4.1,sun
+Seattle,"June 27, 2014",2014,6,June,27,1.8,21.1,13.9,4.5,fog
+Seattle,"June 28, 2014",2014,6,June,28,2.3,20,13.3,4.3,fog
+Seattle,"June 29, 2014",2014,6,June,29,0,20.6,12.8,3.2,sun
+Seattle,"June 30, 2014",2014,6,June,30,0,25.6,12.8,4.4,sun
+Seattle,"July 1, 2014",2014,7,July,1,0,34.4,15.6,3.5,sun
+Seattle,"July 2, 2014",2014,7,July,2,0,27.2,14.4,3.6,sun
+Seattle,"July 3, 2014",2014,7,July,3,0,21.7,13.9,3.1,sun
+Seattle,"July 4, 2014",2014,7,July,4,0,23.9,13.9,3.6,sun
+Seattle,"July 5, 2014",2014,7,July,5,0,24.4,13.3,2.2,fog
+Seattle,"July 6, 2014",2014,7,July,6,0,28.9,15,3,sun
+Seattle,"July 7, 2014",2014,7,July,7,0,27.2,17.8,4.1,fog
+Seattle,"July 8, 2014",2014,7,July,8,0,30,15.6,3.5,sun
+Seattle,"July 9, 2014",2014,7,July,9,0,26.7,13.9,2.3,sun
+Seattle,"July 10, 2014",2014,7,July,10,0,28.9,12.8,2.2,fog
+Seattle,"July 11, 2014",2014,7,July,11,0,31.1,15,2.2,sun
+Seattle,"July 12, 2014",2014,7,July,12,0,32.2,16.7,2.2,sun
+Seattle,"July 13, 2014",2014,7,July,13,0,29.4,15,2.6,rain
+Seattle,"July 14, 2014",2014,7,July,14,0,27.8,15,2.8,sun
+Seattle,"July 15, 2014",2014,7,July,15,0,31.1,13.9,2.3,sun
+Seattle,"July 16, 2014",2014,7,July,16,0,31.1,14.4,2.4,sun
+Seattle,"July 17, 2014",2014,7,July,17,0,26.7,13.9,3.7,sun
+Seattle,"July 18, 2014",2014,7,July,18,0,23.9,11.7,2.8,sun
+Seattle,"July 19, 2014",2014,7,July,19,0,25.6,15,5.4,fog
+Seattle,"July 20, 2014",2014,7,July,20,0,19.4,14.4,2.8,sun
+Seattle,"July 21, 2014",2014,7,July,21,0,23.9,13.3,2.2,sun
+Seattle,"July 22, 2014",2014,7,July,22,0.3,21.1,13.3,1.1,fog
+Seattle,"July 23, 2014",2014,7,July,23,19.3,18.9,13.3,3.3,sun
+Seattle,"July 24, 2014",2014,7,July,24,0,20.6,12.8,4.7,sun
+Seattle,"July 25, 2014",2014,7,July,25,0,22.8,12.2,2.7,sun
+Seattle,"July 26, 2014",2014,7,July,26,0,26.1,13.3,3.6,sun
+Seattle,"July 27, 2014",2014,7,July,27,0,28.3,15,4.1,sun
+Seattle,"July 28, 2014",2014,7,July,28,0,30.6,15,3.7,sun
+Seattle,"July 29, 2014",2014,7,July,29,0,30,15.6,2.8,sun
+Seattle,"July 30, 2014",2014,7,July,30,0,29.4,14.4,3.4,sun
+Seattle,"July 31, 2014",2014,7,July,31,0,30.6,17.8,4.1,sun
+Seattle,"August 1, 2014",2014,8,August,1,0,28.9,15,3.3,sun
+Seattle,"August 2, 2014",2014,8,August,2,0.5,29.4,15.6,1.7,sun
+Seattle,"August 3, 2014",2014,8,August,3,0,31.7,14.4,2.6,sun
+Seattle,"August 4, 2014",2014,8,August,4,0,32.8,16.1,2.6,sun
+Seattle,"August 5, 2014",2014,8,August,5,0,25,13.9,2.7,sun
+Seattle,"August 6, 2014",2014,8,August,6,0,26.1,15,2.2,fog
+Seattle,"August 7, 2014",2014,8,August,7,0,25.6,13.3,2.4,fog
+Seattle,"August 8, 2014",2014,8,August,8,0,25.6,13.3,2.9,sun
+Seattle,"August 9, 2014",2014,8,August,9,0,27.2,15.6,4.1,sun
+Seattle,"August 10, 2014",2014,8,August,10,0,30.6,13.9,3.4,sun
+Seattle,"August 11, 2014",2014,8,August,11,0.5,35.6,17.8,2.6,rain
+Seattle,"August 12, 2014",2014,8,August,12,12.7,27.2,17.2,3.1,fog
+Seattle,"August 13, 2014",2014,8,August,13,21.6,23.3,15,2.7,fog
+Seattle,"August 14, 2014",2014,8,August,14,0,21.1,17.2,0.6,sun
+Seattle,"August 15, 2014",2014,8,August,15,1,24.4,16.7,1.5,fog
+Seattle,"August 16, 2014",2014,8,August,16,0,25.6,15.6,2.2,sun
+Seattle,"August 17, 2014",2014,8,August,17,0,27.8,15,2.8,sun
+Seattle,"August 18, 2014",2014,8,August,18,0,29.4,15.6,3.3,sun
+Seattle,"August 19, 2014",2014,8,August,19,0,27.2,15.6,2.4,sun
+Seattle,"August 20, 2014",2014,8,August,20,0,21.7,13.9,3.6,sun
+Seattle,"August 21, 2014",2014,8,August,21,0,21.1,11.1,1.7,sun
+Seattle,"August 22, 2014",2014,8,August,22,0,23.9,13.3,2.9,sun
+Seattle,"August 23, 2014",2014,8,August,23,0,27.8,13.9,2,sun
+Seattle,"August 24, 2014",2014,8,August,24,0,25,13.3,2.3,sun
+Seattle,"August 25, 2014",2014,8,August,25,0,28.9,14.4,2,sun
+Seattle,"August 26, 2014",2014,8,August,26,0,31.1,15.6,1.8,sun
+Seattle,"August 27, 2014",2014,8,August,27,0,28.9,16.1,1.6,sun
+Seattle,"August 28, 2014",2014,8,August,28,0,23.3,14.4,2.3,sun
+Seattle,"August 29, 2014",2014,8,August,29,0,22.8,15,3.4,sun
+Seattle,"August 30, 2014",2014,8,August,30,8.4,17.8,15,2.2,fog
+Seattle,"August 31, 2014",2014,8,August,31,1.3,21.1,13.9,1.9,fog
+Seattle,"September 1, 2014",2014,9,September,1,0,23.3,12.8,2.5,sun
+Seattle,"September 2, 2014",2014,9,September,2,3,20,13.9,4.3,fog
+Seattle,"September 3, 2014",2014,9,September,3,0,20.6,12.8,2.7,sun
+Seattle,"September 4, 2014",2014,9,September,4,0,23.9,11.1,3.1,fog
+Seattle,"September 5, 2014",2014,9,September,5,0,27.8,13.9,6.5,fog
+Seattle,"September 6, 2014",2014,9,September,6,0,32.2,15,2.9,sun
+Seattle,"September 7, 2014",2014,9,September,7,0,28.3,13.3,2.1,sun
+Seattle,"September 8, 2014",2014,9,September,8,0,21.1,13.3,2.8,sun
+Seattle,"September 9, 2014",2014,9,September,9,0,21.7,13.3,2.3,sun
+Seattle,"September 10, 2014",2014,9,September,10,0,22.2,12.2,3.9,sun
+Seattle,"September 11, 2014",2014,9,September,11,0,24.4,12.8,5.3,sun
+Seattle,"September 12, 2014",2014,9,September,12,0,24.4,12.8,5.9,sun
+Seattle,"September 13, 2014",2014,9,September,13,0,28.3,10,4.2,sun
+Seattle,"September 14, 2014",2014,9,September,14,0,30,11.7,1.8,sun
+Seattle,"September 15, 2014",2014,9,September,15,0,30.6,12.2,1.2,sun
+Seattle,"September 16, 2014",2014,9,September,16,0,22.2,13.9,2.8,sun
+Seattle,"September 17, 2014",2014,9,September,17,0.5,22.8,14.4,2.3,sun
+Seattle,"September 18, 2014",2014,9,September,18,0.3,19.4,15,3.1,fog
+Seattle,"September 19, 2014",2014,9,September,19,0,23.9,16.1,2.8,sun
+Seattle,"September 20, 2014",2014,9,September,20,0,24.4,14.4,4.4,fog
+Seattle,"September 21, 2014",2014,9,September,21,0,26.1,12.8,3,sun
+Seattle,"September 22, 2014",2014,9,September,22,0.3,22.2,15,2.1,fog
+Seattle,"September 23, 2014",2014,9,September,23,18.3,18.9,14.4,2.5,fog
+Seattle,"September 24, 2014",2014,9,September,24,20.3,18.9,14.4,2.7,fog
+Seattle,"September 25, 2014",2014,9,September,25,4.3,21.7,14.4,2.5,fog
+Seattle,"September 26, 2014",2014,9,September,26,8.9,20,13.9,3.3,fog
+Seattle,"September 27, 2014",2014,9,September,27,0,20.6,11.7,3.2,fog
+Seattle,"September 28, 2014",2014,9,September,28,0,18.9,12.2,2,fog
+Seattle,"September 29, 2014",2014,9,September,29,0.8,16.7,11.1,3.5,fog
+Seattle,"September 30, 2014",2014,9,September,30,0,19.4,12.2,2.6,sun
+Seattle,"October 1, 2014",2014,10,October,1,0,18.3,11.1,2.1,sun
+Seattle,"October 2, 2014",2014,10,October,2,0,19.4,10,2,sun
+Seattle,"October 3, 2014",2014,10,October,3,0,22.2,8.9,1,sun
+Seattle,"October 4, 2014",2014,10,October,4,0,21.7,12.2,1.2,sun
+Seattle,"October 5, 2014",2014,10,October,5,0,23.9,11.7,1.4,fog
+Seattle,"October 6, 2014",2014,10,October,6,0,25.6,13.3,2.5,fog
+Seattle,"October 7, 2014",2014,10,October,7,0,18.9,13.9,1,fog
+Seattle,"October 8, 2014",2014,10,October,8,0,20.6,12.8,1.8,fog
+Seattle,"October 9, 2014",2014,10,October,9,0,17.2,11.1,1,fog
+Seattle,"October 10, 2014",2014,10,October,10,0.3,18.3,10,3.8,fog
+Seattle,"October 11, 2014",2014,10,October,11,7.4,18.3,11.7,3.5,rain
+Seattle,"October 12, 2014",2014,10,October,12,0,17.8,11.7,2.1,sun
+Seattle,"October 13, 2014",2014,10,October,13,7.6,21.1,10,3.1,fog
+Seattle,"October 14, 2014",2014,10,October,14,7.1,16.7,11.7,2.2,fog
+Seattle,"October 15, 2014",2014,10,October,15,8.6,16.1,11.7,4.7,fog
+Seattle,"October 16, 2014",2014,10,October,16,0,20.6,11.1,3.3,sun
+Seattle,"October 17, 2014",2014,10,October,17,3.3,16.7,11.7,3,fog
+Seattle,"October 18, 2014",2014,10,October,18,15,19.4,13.9,1.9,fog
+Seattle,"October 19, 2014",2014,10,October,19,0,22.2,12.8,3.2,sun
+Seattle,"October 20, 2014",2014,10,October,20,11.7,16.1,12.2,3.1,fog
+Seattle,"October 21, 2014",2014,10,October,21,1,16.1,11.7,4.7,sun
+Seattle,"October 22, 2014",2014,10,October,22,32,15.6,11.7,5,fog
+Seattle,"October 23, 2014",2014,10,October,23,9.4,14.4,8.3,4.6,sun
+Seattle,"October 24, 2014",2014,10,October,24,4.1,14.4,8.9,3.2,sun
+Seattle,"October 25, 2014",2014,10,October,25,6.1,16.7,8.3,5.4,fog
+Seattle,"October 26, 2014",2014,10,October,26,1.5,12.8,7.8,5,fog
+Seattle,"October 27, 2014",2014,10,October,27,0.8,15.6,6.7,2.4,sun
+Seattle,"October 28, 2014",2014,10,October,28,12.7,15,9.4,3.9,fog
+Seattle,"October 29, 2014",2014,10,October,29,0.5,16.7,11.7,3.1,fog
+Seattle,"October 30, 2014",2014,10,October,30,25.4,15.6,11.1,3.2,fog
+Seattle,"October 31, 2014",2014,10,October,31,17,12.8,8.3,2,fog
+Seattle,"November 1, 2014",2014,11,November,1,0,11.1,7.2,1.2,fog
+Seattle,"November 2, 2014",2014,11,November,2,1.8,13.3,7.2,2.9,fog
+Seattle,"November 3, 2014",2014,11,November,3,10.9,13.9,11.1,4.8,fog
+Seattle,"November 4, 2014",2014,11,November,4,4.1,14.4,10.6,3.3,fog
+Seattle,"November 5, 2014",2014,11,November,5,4.8,15,10.6,2.1,fog
+Seattle,"November 6, 2014",2014,11,November,6,4.1,16.7,10.6,6.7,fog
+Seattle,"November 7, 2014",2014,11,November,7,0,14.4,7.2,2.3,sun
+Seattle,"November 8, 2014",2014,11,November,8,0,12.8,3.9,0.8,fog
+Seattle,"November 9, 2014",2014,11,November,9,5.1,13.3,7.8,3,fog
+Seattle,"November 10, 2014",2014,11,November,10,0,11.1,5.6,3.9,sun
+Seattle,"November 11, 2014",2014,11,November,11,0,7.8,1.1,7.7,sun
+Seattle,"November 12, 2014",2014,11,November,12,0,6.7,0,7.6,sun
+Seattle,"November 13, 2014",2014,11,November,13,0,7.2,0.6,4.7,sun
+Seattle,"November 14, 2014",2014,11,November,14,0,7.2,-2.1,4.5,sun
+Seattle,"November 15, 2014",2014,11,November,15,0,8.3,-1.6,4.2,sun
+Seattle,"November 16, 2014",2014,11,November,16,0,9.4,-2.1,4.2,sun
+Seattle,"November 17, 2014",2014,11,November,17,0,10.6,-2.1,1.9,sun
+Seattle,"November 18, 2014",2014,11,November,18,0,7.2,-0.5,0.9,sun
+Seattle,"November 19, 2014",2014,11,November,19,0,11.1,2.2,1.9,sun
+Seattle,"November 20, 2014",2014,11,November,20,3.6,11.1,5.6,2.1,fog
+Seattle,"November 21, 2014",2014,11,November,21,15.2,11.1,8.3,4.7,fog
+Seattle,"November 22, 2014",2014,11,November,22,0.5,9.4,6.7,4.7,sun
+Seattle,"November 23, 2014",2014,11,November,23,11.9,12.8,5.6,5.1,fog
+Seattle,"November 24, 2014",2014,11,November,24,1.3,11.7,4.4,3.8,fog
+Seattle,"November 25, 2014",2014,11,November,25,18.3,13.9,9.4,4.5,fog
+Seattle,"November 26, 2014",2014,11,November,26,0.3,15,12.2,3.9,sun
+Seattle,"November 27, 2014",2014,11,November,27,3.3,14.4,11.7,6.6,fog
+Seattle,"November 28, 2014",2014,11,November,28,34.3,12.8,3.3,5.8,fog
+Seattle,"November 29, 2014",2014,11,November,29,3.6,4.4,-4.3,5.3,fog
+Seattle,"November 30, 2014",2014,11,November,30,0,2.8,-4.9,4.4,sun
+Seattle,"December 1, 2014",2014,12,December,1,0,4.4,-3.2,2.2,sun
+Seattle,"December 2, 2014",2014,12,December,2,0,5.6,-3.2,5.7,fog
+Seattle,"December 3, 2014",2014,12,December,3,0,10,0,3.6,sun
+Seattle,"December 4, 2014",2014,12,December,4,0.8,8.3,3.9,1.1,fog
+Seattle,"December 5, 2014",2014,12,December,5,3,12.8,6.7,3.1,fog
+Seattle,"December 6, 2014",2014,12,December,6,7.4,11.7,7.8,3.6,fog
+Seattle,"December 7, 2014",2014,12,December,7,0,14.4,6.1,2.8,sun
+Seattle,"December 8, 2014",2014,12,December,8,9.1,14.4,8.9,4.2,fog
+Seattle,"December 9, 2014",2014,12,December,9,9.9,16.1,10.6,5.1,fog
+Seattle,"December 10, 2014",2014,12,December,10,13,18.9,10,6.7,fog
+Seattle,"December 11, 2014",2014,12,December,11,6.9,14.4,8.3,6.4,fog
+Seattle,"December 12, 2014",2014,12,December,12,0,11.1,7.2,3.7,sun
+Seattle,"December 13, 2014",2014,12,December,13,0,10,3.9,1.1,fog
+Seattle,"December 14, 2014",2014,12,December,14,0,12.8,1.7,3.5,fog
+Seattle,"December 15, 2014",2014,12,December,15,0,12.2,6.7,5.9,sun
+Seattle,"December 16, 2014",2014,12,December,16,0,10,8.3,4,sun
+Seattle,"December 17, 2014",2014,12,December,17,2.8,8.9,6.1,1.6,fog
+Seattle,"December 18, 2014",2014,12,December,18,13,9.4,6.7,3.1,fog
+Seattle,"December 19, 2014",2014,12,December,19,3,11.1,7.2,4.3,sun
+Seattle,"December 20, 2014",2014,12,December,20,19.6,12.8,6.7,5.5,fog
+Seattle,"December 21, 2014",2014,12,December,21,0,12.8,10,5.2,sun
+Seattle,"December 22, 2014",2014,12,December,22,0,10.6,6.1,1.5,sun
+Seattle,"December 23, 2014",2014,12,December,23,20.6,12.2,5,3.8,fog
+Seattle,"December 24, 2014",2014,12,December,24,5.3,7.2,3.9,1.8,fog
+Seattle,"December 25, 2014",2014,12,December,25,0,7.8,2.8,2.2,fog
+Seattle,"December 26, 2014",2014,12,December,26,0,5.6,1.7,1.2,fog
+Seattle,"December 27, 2014",2014,12,December,27,3.3,9.4,4.4,4.9,fog
+Seattle,"December 28, 2014",2014,12,December,28,4.1,6.7,2.8,1.8,fog
+Seattle,"December 29, 2014",2014,12,December,29,0,6.1,0.6,4.3,fog
+Seattle,"December 30, 2014",2014,12,December,30,0,3.3,-2.1,3.6,sun
+Seattle,"December 31, 2014",2014,12,December,31,0,3.3,-2.7,3,sun
+Seattle,"January 1, 2015",2015,1,January,1,0,5.6,-3.2,1.2,sun
+Seattle,"January 2, 2015",2015,1,January,2,1.5,5.6,0,2.3,fog
+Seattle,"January 3, 2015",2015,1,January,3,0,5,1.7,1.7,fog
+Seattle,"January 4, 2015",2015,1,January,4,10.2,10.6,3.3,4.5,fog
+Seattle,"January 5, 2015",2015,1,January,5,8.1,12.2,9.4,6.4,fog
+Seattle,"January 6, 2015",2015,1,January,6,0,12.2,6.1,1.3,fog
+Seattle,"January 7, 2015",2015,1,January,7,0,7.8,5.6,1.6,fog
+Seattle,"January 8, 2015",2015,1,January,8,0,7.8,1.7,2.6,fog
+Seattle,"January 9, 2015",2015,1,January,9,0.3,10,3.3,0.6,fog
+Seattle,"January 10, 2015",2015,1,January,10,5.8,7.8,6.1,0.5,fog
+Seattle,"January 11, 2015",2015,1,January,11,1.5,9.4,7.2,1.1,fog
+Seattle,"January 12, 2015",2015,1,January,12,0,11.1,4.4,1.6,fog
+Seattle,"January 13, 2015",2015,1,January,13,0,9.4,2.8,2.7,fog
+Seattle,"January 14, 2015",2015,1,January,14,0,6.1,0.6,2.8,fog
+Seattle,"January 15, 2015",2015,1,January,15,9.7,7.8,1.1,3.2,fog
+Seattle,"January 16, 2015",2015,1,January,16,0,11.7,5.6,4.5,fog
+Seattle,"January 17, 2015",2015,1,January,17,26.2,13.3,3.3,2.8,fog
+Seattle,"January 18, 2015",2015,1,January,18,21.3,13.9,7.2,6.6,rain
+Seattle,"January 19, 2015",2015,1,January,19,0.5,10,6.1,2.8,sun
+Seattle,"January 20, 2015",2015,1,January,20,0,10,3.3,3,fog
+Seattle,"January 21, 2015",2015,1,January,21,0,7.2,-0.5,1.3,fog
+Seattle,"January 22, 2015",2015,1,January,22,0.8,9.4,6.1,1.3,fog
+Seattle,"January 23, 2015",2015,1,January,23,5.8,12.2,8.3,2.6,fog
+Seattle,"January 24, 2015",2015,1,January,24,0.5,14.4,11.1,3.3,fog
+Seattle,"January 25, 2015",2015,1,January,25,0,17.2,7.2,1.4,fog
+Seattle,"January 26, 2015",2015,1,January,26,0,16.1,6.1,2.2,fog
+Seattle,"January 27, 2015",2015,1,January,27,0.8,11.1,8.3,2,fog
+Seattle,"January 28, 2015",2015,1,January,28,0,12.2,5,1.8,fog
+Seattle,"January 29, 2015",2015,1,January,29,0,12.2,3.3,2.9,sun
+Seattle,"January 30, 2015",2015,1,January,30,0,8.3,1.1,0.8,fog
+Seattle,"January 31, 2015",2015,1,January,31,0,7.2,3.3,1.9,fog
+Seattle,"February 1, 2015",2015,2,February,1,1.5,9.4,4.4,2.6,fog
+Seattle,"February 2, 2015",2015,2,February,2,7.4,11.1,5,4,fog
+Seattle,"February 3, 2015",2015,2,February,3,1.3,10,5.6,1.9,fog
+Seattle,"February 4, 2015",2015,2,February,4,8.4,10.6,4.4,1.7,fog
+Seattle,"February 5, 2015",2015,2,February,5,26.2,13.3,8.3,4.6,fog
+Seattle,"February 6, 2015",2015,2,February,6,17.3,14.4,10,4.5,fog
+Seattle,"February 7, 2015",2015,2,February,7,23.6,12.2,9.4,4.6,fog
+Seattle,"February 8, 2015",2015,2,February,8,3.6,15,8.3,3.9,fog
+Seattle,"February 9, 2015",2015,2,February,9,6.1,13.3,8.3,2.5,fog
+Seattle,"February 10, 2015",2015,2,February,10,0.3,12.8,8.3,4,fog
+Seattle,"February 11, 2015",2015,2,February,11,0,12.8,5.6,1,fog
+Seattle,"February 12, 2015",2015,2,February,12,1,16.7,9.4,2.1,sun
+Seattle,"February 13, 2015",2015,2,February,13,0,15.6,6.7,1.7,fog
+Seattle,"February 14, 2015",2015,2,February,14,0.3,14.4,6.7,2.9,fog
+Seattle,"February 15, 2015",2015,2,February,15,0,12.2,3.9,4.8,sun
+Seattle,"February 16, 2015",2015,2,February,16,0,15,5.6,6.6,fog
+Seattle,"February 17, 2015",2015,2,February,17,0,16.1,4.4,4,sun
+Seattle,"February 18, 2015",2015,2,February,18,0,12.2,4.4,2.6,sun
+Seattle,"February 19, 2015",2015,2,February,19,4.6,10.6,8.3,2.2,fog
+Seattle,"February 20, 2015",2015,2,February,20,0.8,11.1,7.2,0.9,fog
+Seattle,"February 21, 2015",2015,2,February,21,0,12.2,5.6,4.5,sun
+Seattle,"February 22, 2015",2015,2,February,22,0,11.7,3.3,4.2,sun
+Seattle,"February 23, 2015",2015,2,February,23,0,12.8,0.6,1.4,sun
+Seattle,"February 24, 2015",2015,2,February,24,0,11.1,2.2,1.5,sun
+Seattle,"February 25, 2015",2015,2,February,25,4.1,10,6.7,1,fog
+Seattle,"February 26, 2015",2015,2,February,26,9.4,11.7,7.8,1.4,fog
+Seattle,"February 27, 2015",2015,2,February,27,18.3,10,6.7,4,fog
+Seattle,"February 28, 2015",2015,2,February,28,0,12.2,3.3,5.1,sun
+Seattle,"March 1, 2015",2015,3,March,1,0,11.1,1.1,2.2,sun
+Seattle,"March 2, 2015",2015,3,March,2,0,11.1,4.4,4.8,sun
+Seattle,"March 3, 2015",2015,3,March,3,0,10.6,0,2.1,sun
+Seattle,"March 4, 2015",2015,3,March,4,0,12.8,-0.5,1.8,sun
+Seattle,"March 5, 2015",2015,3,March,5,0,13.3,2.8,1.3,sun
+Seattle,"March 6, 2015",2015,3,March,6,0,15,3.3,1.4,sun
+Seattle,"March 7, 2015",2015,3,March,7,0,16.7,3.9,2.7,fog
+Seattle,"March 8, 2015",2015,3,March,8,0,17.2,3.9,1.7,fog
+Seattle,"March 9, 2015",2015,3,March,9,0,14.4,4.4,1.8,fog
+Seattle,"March 10, 2015",2015,3,March,10,0.8,13.3,5,2.6,fog
+Seattle,"March 11, 2015",2015,3,March,11,2.5,14.4,8.9,3.1,fog
+Seattle,"March 12, 2015",2015,3,March,12,0,17.8,9.4,3.2,sun
+Seattle,"March 13, 2015",2015,3,March,13,2,17.2,7.8,2.2,sun
+Seattle,"March 14, 2015",2015,3,March,14,17,13.9,9.4,3.8,fog
+Seattle,"March 15, 2015",2015,3,March,15,55.9,10.6,6.1,4.2,fog
+Seattle,"March 16, 2015",2015,3,March,16,1,13.9,6.1,3,fog
+Seattle,"March 17, 2015",2015,3,March,17,0.8,13.3,4.4,2.6,sun
+Seattle,"March 18, 2015",2015,3,March,18,0,15.6,7.2,2.5,sun
+Seattle,"March 19, 2015",2015,3,March,19,0,15.6,8.3,1.9,sun
+Seattle,"March 20, 2015",2015,3,March,20,4.1,13.9,8.9,1.9,sun
+Seattle,"March 21, 2015",2015,3,March,21,3.8,13.3,8.3,4.7,fog
+Seattle,"March 22, 2015",2015,3,March,22,1,11.7,6.1,2.3,sun
+Seattle,"March 23, 2015",2015,3,March,23,8.1,11.1,5.6,2.8,fog
+Seattle,"March 24, 2015",2015,3,March,24,7.6,12.8,6.1,3.9,fog
+Seattle,"March 25, 2015",2015,3,March,25,5.1,14.4,7.2,4.4,fog
+Seattle,"March 26, 2015",2015,3,March,26,0,20.6,10,2.2,sun
+Seattle,"March 27, 2015",2015,3,March,27,1,18.3,8.9,4,fog
+Seattle,"March 28, 2015",2015,3,March,28,0,15.6,9.4,5.7,sun
+Seattle,"March 29, 2015",2015,3,March,29,0,15.6,8.9,3,sun
+Seattle,"March 30, 2015",2015,3,March,30,1.8,17.8,10.6,2.9,fog
+Seattle,"March 31, 2015",2015,3,March,31,1,12.8,6.1,4.2,fog
+Seattle,"April 1, 2015",2015,4,April,1,5.1,12.8,5.6,3.2,rain
+Seattle,"April 2, 2015",2015,4,April,2,0,13.3,5.6,2.4,sun
+Seattle,"April 3, 2015",2015,4,April,3,1.5,11.1,5,3.6,fog
+Seattle,"April 4, 2015",2015,4,April,4,0,12.8,3.9,1.7,sun
+Seattle,"April 5, 2015",2015,4,April,5,0,16.7,2.8,2.4,sun
+Seattle,"April 6, 2015",2015,4,April,6,1,13.9,6.7,3.5,sun
+Seattle,"April 7, 2015",2015,4,April,7,0.5,14.4,6.7,3.9,sun
+Seattle,"April 8, 2015",2015,4,April,8,0,17.2,6.1,1.7,sun
+Seattle,"April 9, 2015",2015,4,April,9,0,17.2,6.1,2.3,sun
+Seattle,"April 10, 2015",2015,4,April,10,10.9,13.9,7.8,4.6,fog
+Seattle,"April 11, 2015",2015,4,April,11,0,11.7,5.6,6.5,sun
+Seattle,"April 12, 2015",2015,4,April,12,0,13.3,5.6,3.6,sun
+Seattle,"April 13, 2015",2015,4,April,13,14,11.7,3.9,3.6,fog
+Seattle,"April 14, 2015",2015,4,April,14,3.3,11.7,2.8,3.3,sun
+Seattle,"April 15, 2015",2015,4,April,15,0,13.9,3.3,2.4,sun
+Seattle,"April 16, 2015",2015,4,April,16,0,17.8,3.9,3.1,sun
+Seattle,"April 17, 2015",2015,4,April,17,0,18.9,6.1,3.6,sun
+Seattle,"April 18, 2015",2015,4,April,18,0,18.9,8.3,3.9,sun
+Seattle,"April 19, 2015",2015,4,April,19,0,21.1,8.3,3.6,sun
+Seattle,"April 20, 2015",2015,4,April,20,0,22.8,7.8,2.6,sun
+Seattle,"April 21, 2015",2015,4,April,21,5.6,17.2,6.7,3.4,fog
+Seattle,"April 22, 2015",2015,4,April,22,0,15.6,5,2.3,sun
+Seattle,"April 23, 2015",2015,4,April,23,3,12.2,6.7,4.1,fog
+Seattle,"April 24, 2015",2015,4,April,24,3.3,12.2,6.1,5,fog
+Seattle,"April 25, 2015",2015,4,April,25,1.3,13.3,5.6,3,fog
+Seattle,"April 26, 2015",2015,4,April,26,0,15.6,4.4,2.7,fog
+Seattle,"April 27, 2015",2015,4,April,27,0.3,25,10.6,2.3,fog
+Seattle,"April 28, 2015",2015,4,April,28,1.8,15.6,8.9,4.3,fog
+Seattle,"April 29, 2015",2015,4,April,29,0,16.1,7.2,4.7,sun
+Seattle,"April 30, 2015",2015,4,April,30,0,17.2,7.8,2.1,sun
+Seattle,"May 1, 2015",2015,5,May,1,0,18.3,8.9,3.7,sun
+Seattle,"May 2, 2015",2015,5,May,2,0,18.3,7.8,3.7,sun
+Seattle,"May 3, 2015",2015,5,May,3,0,20.6,7.8,2.6,sun
+Seattle,"May 4, 2015",2015,5,May,4,0,17.2,7.2,5.2,sun
+Seattle,"May 5, 2015",2015,5,May,5,6.1,14.4,7.2,5.1,fog
+Seattle,"May 6, 2015",2015,5,May,6,0,16.7,7.2,2.6,fog
+Seattle,"May 7, 2015",2015,5,May,7,0,20.6,6.1,3,sun
+Seattle,"May 8, 2015",2015,5,May,8,0,23.9,8.3,3,sun
+Seattle,"May 9, 2015",2015,5,May,9,0,26.7,9.4,2.6,sun
+Seattle,"May 10, 2015",2015,5,May,10,0,19.4,11.1,2.8,sun
+Seattle,"May 11, 2015",2015,5,May,11,0,13.9,10,2.5,fog
+Seattle,"May 12, 2015",2015,5,May,12,4.3,15.6,10.6,3.3,fog
+Seattle,"May 13, 2015",2015,5,May,13,4.1,12.2,10,2.8,fog
+Seattle,"May 14, 2015",2015,5,May,14,0.3,17.8,9.4,2,fog
+Seattle,"May 15, 2015",2015,5,May,15,0,20,9.4,2.8,fog
+Seattle,"May 16, 2015",2015,5,May,16,0,15.6,11.1,3,sun
+Seattle,"May 17, 2015",2015,5,May,17,0,19.4,10.6,2.1,sun
+Seattle,"May 18, 2015",2015,5,May,18,0,25.6,12.2,3,sun
+Seattle,"May 19, 2015",2015,5,May,19,0,21.7,11.7,2.6,sun
+Seattle,"May 20, 2015",2015,5,May,20,0,23.3,10.6,1.8,fog
+Seattle,"May 21, 2015",2015,5,May,21,0,25.6,11.7,2.1,sun
+Seattle,"May 22, 2015",2015,5,May,22,0,16.7,11.7,3.7,sun
+Seattle,"May 23, 2015",2015,5,May,23,0,16.1,11.7,2.6,sun
+Seattle,"May 24, 2015",2015,5,May,24,0,17.8,11.1,2.7,sun
+Seattle,"May 25, 2015",2015,5,May,25,0,15.6,11.1,2.7,sun
+Seattle,"May 26, 2015",2015,5,May,26,0,21.7,11.7,2.1,sun
+Seattle,"May 27, 2015",2015,5,May,27,0,24.4,11.7,1.8,sun
+Seattle,"May 28, 2015",2015,5,May,28,0,27.8,12.2,2.1,sun
+Seattle,"May 29, 2015",2015,5,May,29,0,26.1,12.8,2.5,sun
+Seattle,"May 30, 2015",2015,5,May,30,0,22.8,10,2.5,sun
+Seattle,"May 31, 2015",2015,5,May,31,0,25,11.7,2.2,sun
+Seattle,"June 1, 2015",2015,6,June,1,4.6,16.1,11.7,3.4,fog
+Seattle,"June 2, 2015",2015,6,June,2,0.5,17.8,12.8,5,sun
+Seattle,"June 3, 2015",2015,6,June,3,0,20,11.7,3,sun
+Seattle,"June 4, 2015",2015,6,June,4,0,22.8,11.7,3.9,sun
+Seattle,"June 5, 2015",2015,6,June,5,0,26.7,12.8,4.3,sun
+Seattle,"June 6, 2015",2015,6,June,6,0,29.4,13.3,2.6,sun
+Seattle,"June 7, 2015",2015,6,June,7,0,31.1,15.6,3.2,sun
+Seattle,"June 8, 2015",2015,6,June,8,0,30.6,14.4,3.5,sun
+Seattle,"June 9, 2015",2015,6,June,9,0,28.9,14.4,2.7,sun
+Seattle,"June 10, 2015",2015,6,June,10,0,25.6,11.1,3,sun
+Seattle,"June 11, 2015",2015,6,June,11,0,24.4,11.1,3.5,sun
+Seattle,"June 12, 2015",2015,6,June,12,0,20,11.7,2.3,sun
+Seattle,"June 13, 2015",2015,6,June,13,0,23.9,9.4,2.6,sun
+Seattle,"June 14, 2015",2015,6,June,14,0,27.8,11.7,3.7,sun
+Seattle,"June 15, 2015",2015,6,June,15,0,30,16.1,3.5,drizzle
+Seattle,"June 16, 2015",2015,6,June,16,0,22.8,11.1,3,sun
+Seattle,"June 17, 2015",2015,6,June,17,0,25,11.1,3.1,sun
+Seattle,"June 18, 2015",2015,6,June,18,0,24.4,13.9,3,sun
+Seattle,"June 19, 2015",2015,6,June,19,0.5,23.9,13.3,3.2,fog
+Seattle,"June 20, 2015",2015,6,June,20,0,25,12.8,4.3,sun
+Seattle,"June 21, 2015",2015,6,June,21,0,25.6,13.9,3.4,sun
+Seattle,"June 22, 2015",2015,6,June,22,0,25,12.8,2.4,sun
+Seattle,"June 23, 2015",2015,6,June,23,0,26.1,11.7,2.4,sun
+Seattle,"June 24, 2015",2015,6,June,24,0,25.6,16.1,2.6,sun
+Seattle,"June 25, 2015",2015,6,June,25,0,30.6,15.6,3,sun
+Seattle,"June 26, 2015",2015,6,June,26,0,31.7,17.8,4.7,sun
+Seattle,"June 27, 2015",2015,6,June,27,0,33.3,17.2,3.9,sun
+Seattle,"June 28, 2015",2015,6,June,28,0.3,28.3,18.3,2.1,sun
+Seattle,"June 29, 2015",2015,6,June,29,0,28.9,17.2,2.7,sun
+Seattle,"June 30, 2015",2015,6,June,30,0,30.6,15,3.4,fog
+Seattle,"July 1, 2015",2015,7,July,1,0,32.2,17.2,4.3,sun
+Seattle,"July 2, 2015",2015,7,July,2,0,33.9,17.8,3.4,sun
+Seattle,"July 3, 2015",2015,7,July,3,0,33.3,17.8,2.6,sun
+Seattle,"July 4, 2015",2015,7,July,4,0,33.3,15,2.9,sun
+Seattle,"July 5, 2015",2015,7,July,5,0,32.8,16.7,2.1,sun
+Seattle,"July 6, 2015",2015,7,July,6,0,29.4,15.6,3.2,drizzle
+Seattle,"July 7, 2015",2015,7,July,7,0,27.2,13.9,2.4,sun
+Seattle,"July 8, 2015",2015,7,July,8,0,30,14.4,1.9,drizzle
+Seattle,"July 9, 2015",2015,7,July,9,0,28.9,14.4,3.4,sun
+Seattle,"July 10, 2015",2015,7,July,10,0,21.1,16.7,3.7,sun
+Seattle,"July 11, 2015",2015,7,July,11,0,22.2,16.7,3,sun
+Seattle,"July 12, 2015",2015,7,July,12,0,26.1,16.7,2.2,sun
+Seattle,"July 13, 2015",2015,7,July,13,0,25.6,16.1,3.1,sun
+Seattle,"July 14, 2015",2015,7,July,14,0,27.8,16.1,3.3,sun
+Seattle,"July 15, 2015",2015,7,July,15,0,26.1,14.4,3.2,sun
+Seattle,"July 16, 2015",2015,7,July,16,0,26.1,15,2.8,sun
+Seattle,"July 17, 2015",2015,7,July,17,0,27.8,13.9,3.3,sun
+Seattle,"July 18, 2015",2015,7,July,18,0,33.3,17.8,3.4,sun
+Seattle,"July 19, 2015",2015,7,July,19,0,35,17.2,3.3,sun
+Seattle,"July 20, 2015",2015,7,July,20,0,26.7,16.7,3.9,sun
+Seattle,"July 21, 2015",2015,7,July,21,0,23.9,15,2.4,sun
+Seattle,"July 22, 2015",2015,7,July,22,0,23.9,13.9,2.8,sun
+Seattle,"July 23, 2015",2015,7,July,23,0,26.1,14.4,1.9,sun
+Seattle,"July 24, 2015",2015,7,July,24,0.3,22.8,13.3,3.8,fog
+Seattle,"July 25, 2015",2015,7,July,25,0,21.1,14.4,2.4,fog
+Seattle,"July 26, 2015",2015,7,July,26,2,22.2,13.9,2.6,fog
+Seattle,"July 27, 2015",2015,7,July,27,0,23.3,12.2,1.9,fog
+Seattle,"July 28, 2015",2015,7,July,28,0,27.8,13.9,3.4,sun
+Seattle,"July 29, 2015",2015,7,July,29,0,32.2,14.4,3.8,sun
+Seattle,"July 30, 2015",2015,7,July,30,0,34.4,17.2,3.5,sun
+Seattle,"July 31, 2015",2015,7,July,31,0,34.4,17.8,2.6,sun
+Seattle,"August 1, 2015",2015,8,August,1,0,33.3,15.6,3.1,sun
+Seattle,"August 2, 2015",2015,8,August,2,0,30.6,16.1,2,sun
+Seattle,"August 3, 2015",2015,8,August,3,0,28.3,17.2,2.3,sun
+Seattle,"August 4, 2015",2015,8,August,4,0,26.1,14.4,2.6,fog
+Seattle,"August 5, 2015",2015,8,August,5,0,23.3,12.2,3.5,sun
+Seattle,"August 6, 2015",2015,8,August,6,0,25,15,2.9,sun
+Seattle,"August 7, 2015",2015,8,August,7,0,28.3,15.6,3.7,sun
+Seattle,"August 8, 2015",2015,8,August,8,0,25,15.6,3.6,fog
+Seattle,"August 9, 2015",2015,8,August,9,0,28.3,15,2.2,sun
+Seattle,"August 10, 2015",2015,8,August,10,0,28.9,16.1,2.4,sun
+Seattle,"August 11, 2015",2015,8,August,11,0,30,16.7,4.4,sun
+Seattle,"August 12, 2015",2015,8,August,12,7.6,28.3,16.7,2.7,rain
+Seattle,"August 13, 2015",2015,8,August,13,0,28.3,15.6,2.2,sun
+Seattle,"August 14, 2015",2015,8,August,14,30.5,18.3,15,5.2,rain
+Seattle,"August 15, 2015",2015,8,August,15,0,21.7,13.9,3.7,sun
+Seattle,"August 16, 2015",2015,8,August,16,0,25,14.4,3.7,sun
+Seattle,"August 17, 2015",2015,8,August,17,0,27.2,13.9,3,sun
+Seattle,"August 18, 2015",2015,8,August,18,0,30,15,3,sun
+Seattle,"August 19, 2015",2015,8,August,19,0,31.7,16.1,2.1,drizzle
+Seattle,"August 20, 2015",2015,8,August,20,2,22.8,14.4,4.2,fog
+Seattle,"August 21, 2015",2015,8,August,21,0,22.2,14.4,2.6,sun
+Seattle,"August 22, 2015",2015,8,August,22,0,26.7,12.2,2.5,drizzle
+Seattle,"August 23, 2015",2015,8,August,23,0,27.8,13.9,1.8,drizzle
+Seattle,"August 24, 2015",2015,8,August,24,0,23.9,12.2,2.3,sun
+Seattle,"August 25, 2015",2015,8,August,25,0,25.6,12.2,3.4,sun
+Seattle,"August 26, 2015",2015,8,August,26,0,28.3,13.9,1.7,sun
+Seattle,"August 27, 2015",2015,8,August,27,0,29.4,14.4,2.1,sun
+Seattle,"August 28, 2015",2015,8,August,28,0.5,23.3,15.6,2.6,fog
+Seattle,"August 29, 2015",2015,8,August,29,32.5,22.2,13.3,5.8,fog
+Seattle,"August 30, 2015",2015,8,August,30,10.2,20,12.8,4.7,fog
+Seattle,"August 31, 2015",2015,8,August,31,0,18.9,16.1,5.8,sun
+Seattle,"September 1, 2015",2015,9,September,1,5.8,19.4,13.9,5,fog
+Seattle,"September 2, 2015",2015,9,September,2,0,19.4,11.1,3.8,sun
+Seattle,"September 3, 2015",2015,9,September,3,0,18.3,10.6,2.9,sun
+Seattle,"September 4, 2015",2015,9,September,4,0,18.3,10,2.9,sun
+Seattle,"September 5, 2015",2015,9,September,5,0.3,20.6,8.9,3.5,sun
+Seattle,"September 6, 2015",2015,9,September,6,5.3,16.1,11.7,2.4,fog
+Seattle,"September 7, 2015",2015,9,September,7,0.3,21.1,13.3,1.5,fog
+Seattle,"September 8, 2015",2015,9,September,8,0,22.8,13.3,2.4,sun
+Seattle,"September 9, 2015",2015,9,September,9,0,24.4,13.9,3.3,sun
+Seattle,"September 10, 2015",2015,9,September,10,0,25,14.4,3.6,fog
+Seattle,"September 11, 2015",2015,9,September,11,0,27.2,15,3.1,sun
+Seattle,"September 12, 2015",2015,9,September,12,0,26.7,14.4,2.1,sun
+Seattle,"September 13, 2015",2015,9,September,13,0.5,20.6,12.8,3,fog
+Seattle,"September 14, 2015",2015,9,September,14,0,16.7,10.6,3.4,sun
+Seattle,"September 15, 2015",2015,9,September,15,0,17.8,10,2.8,sun
+Seattle,"September 16, 2015",2015,9,September,16,1,20,10,1.9,sun
+Seattle,"September 17, 2015",2015,9,September,17,1.8,18.3,12.8,3.8,fog
+Seattle,"September 18, 2015",2015,9,September,18,0,19.4,12.8,2.6,sun
+Seattle,"September 19, 2015",2015,9,September,19,0,21.1,14.4,4.3,sun
+Seattle,"September 20, 2015",2015,9,September,20,4.1,22.8,12.2,6.8,fog
+Seattle,"September 21, 2015",2015,9,September,21,0,18.3,9.4,2.7,fog
+Seattle,"September 22, 2015",2015,9,September,22,0,18.9,7.8,2,sun
+Seattle,"September 23, 2015",2015,9,September,23,0,20.6,8.3,1.8,sun
+Seattle,"September 24, 2015",2015,9,September,24,0,22.2,11.1,2.5,fog
+Seattle,"September 25, 2015",2015,9,September,25,2,15.6,12.8,2.6,fog
+Seattle,"September 26, 2015",2015,9,September,26,0,18.3,10,2.7,sun
+Seattle,"September 27, 2015",2015,9,September,27,0,17.8,7.2,3.8,sun
+Seattle,"September 28, 2015",2015,9,September,28,0,21.1,9.4,5.1,sun
+Seattle,"September 29, 2015",2015,9,September,29,0,21.7,8.9,1.9,sun
+Seattle,"September 30, 2015",2015,9,September,30,0,18.3,10,1.3,fog
+Seattle,"October 1, 2015",2015,10,October,1,0,21.1,9.4,1.3,fog
+Seattle,"October 2, 2015",2015,10,October,2,0,15.6,10,2.9,fog
+Seattle,"October 3, 2015",2015,10,October,3,0,19.4,11.1,4.8,sun
+Seattle,"October 4, 2015",2015,10,October,4,0,22.8,10,3.7,sun
+Seattle,"October 5, 2015",2015,10,October,5,0,23.3,9.4,1.6,sun
+Seattle,"October 6, 2015",2015,10,October,6,0,18.3,10,2.6,drizzle
+Seattle,"October 7, 2015",2015,10,October,7,9.9,16.1,13.9,2.2,fog
+Seattle,"October 8, 2015",2015,10,October,8,0,18.9,13.3,1.1,fog
+Seattle,"October 9, 2015",2015,10,October,9,0.3,19.4,12.2,2.6,fog
+Seattle,"October 10, 2015",2015,10,October,10,28.7,21.1,13.3,4.7,fog
+Seattle,"October 11, 2015",2015,10,October,11,0,17.8,10.6,2.6,sun
+Seattle,"October 12, 2015",2015,10,October,12,4.6,18.3,10.6,2.8,fog
+Seattle,"October 13, 2015",2015,10,October,13,1.3,16.7,9.4,3.2,fog
+Seattle,"October 14, 2015",2015,10,October,14,0,15,10,5,fog
+Seattle,"October 15, 2015",2015,10,October,15,0,21.1,9.4,3.4,fog
+Seattle,"October 16, 2015",2015,10,October,16,0,20,8.9,1.3,sun
+Seattle,"October 17, 2015",2015,10,October,17,0.3,19.4,11.7,1.3,fog
+Seattle,"October 18, 2015",2015,10,October,18,3.8,15,12.8,2,fog
+Seattle,"October 19, 2015",2015,10,October,19,0.3,17.2,12.2,2.6,fog
+Seattle,"October 20, 2015",2015,10,October,20,0,17.8,10.6,1.8,fog
+Seattle,"October 21, 2015",2015,10,October,21,0,16.1,8.3,1.3,fog
+Seattle,"October 22, 2015",2015,10,October,22,0,16.1,8.9,2.7,fog
+Seattle,"October 23, 2015",2015,10,October,23,0,12.8,7.2,2.6,fog
+Seattle,"October 24, 2015",2015,10,October,24,0,15,8.9,2.9,fog
+Seattle,"October 25, 2015",2015,10,October,25,8.9,19.4,8.9,3.4,rain
+Seattle,"October 26, 2015",2015,10,October,26,6.9,12.2,10,4.6,fog
+Seattle,"October 27, 2015",2015,10,October,27,0,16.1,7.8,1.7,fog
+Seattle,"October 28, 2015",2015,10,October,28,3.3,13.9,11.1,2.8,fog
+Seattle,"October 29, 2015",2015,10,October,29,1.8,15,12.2,4.7,fog
+Seattle,"October 30, 2015",2015,10,October,30,19.3,17.2,11.7,6.7,fog
+Seattle,"October 31, 2015",2015,10,October,31,33,15.6,11.7,7.2,fog
+Seattle,"November 1, 2015",2015,11,November,1,26.2,12.2,8.9,6,fog
+Seattle,"November 2, 2015",2015,11,November,2,0.3,11.1,7.2,2.8,fog
+Seattle,"November 3, 2015",2015,11,November,3,0.8,10.6,5,1.4,fog
+Seattle,"November 4, 2015",2015,11,November,4,0,10,3.3,2.2,sun
+Seattle,"November 5, 2015",2015,11,November,5,1.3,11.7,7.8,2.3,fog
+Seattle,"November 6, 2015",2015,11,November,6,0,15.6,8.3,2.7,fog
+Seattle,"November 7, 2015",2015,11,November,7,12.7,12.2,9.4,3,fog
+Seattle,"November 8, 2015",2015,11,November,8,6.6,11.1,7.8,1.8,fog
+Seattle,"November 9, 2015",2015,11,November,9,3.3,10,5,1.3,fog
+Seattle,"November 10, 2015",2015,11,November,10,1.3,11.1,3.9,3.9,fog
+Seattle,"November 11, 2015",2015,11,November,11,1.5,11.1,6.1,4.6,sun
+Seattle,"November 12, 2015",2015,11,November,12,9.9,11.1,5,5.1,fog
+Seattle,"November 13, 2015",2015,11,November,13,33.5,13.3,9.4,6.5,fog
+Seattle,"November 14, 2015",2015,11,November,14,47.2,9.4,6.1,4.5,fog
+Seattle,"November 15, 2015",2015,11,November,15,22.4,8.9,2.2,4.1,fog
+Seattle,"November 16, 2015",2015,11,November,16,2,8.9,1.7,4,fog
+Seattle,"November 17, 2015",2015,11,November,17,29.5,13.3,6.7,8,fog
+Seattle,"November 18, 2015",2015,11,November,18,1.5,8.9,3.3,3.8,sun
+Seattle,"November 19, 2015",2015,11,November,19,2,8.9,2.8,4.2,sun
+Seattle,"November 20, 2015",2015,11,November,20,0,8.3,0.6,4,fog
+Seattle,"November 21, 2015",2015,11,November,21,0,8.9,0.6,4.7,sun
+Seattle,"November 22, 2015",2015,11,November,22,0,10,1.7,3.1,fog
+Seattle,"November 23, 2015",2015,11,November,23,3,6.7,0,1.3,fog
+Seattle,"November 24, 2015",2015,11,November,24,7.1,6.7,2.8,4.5,fog
+Seattle,"November 25, 2015",2015,11,November,25,0,7.2,0,5.7,sun
+Seattle,"November 26, 2015",2015,11,November,26,0,9.4,-1,4.3,sun
+Seattle,"November 27, 2015",2015,11,November,27,0,9.4,-1.6,3,sun
+Seattle,"November 28, 2015",2015,11,November,28,0,7.2,-2.7,1,sun
+Seattle,"November 29, 2015",2015,11,November,29,0,1.7,-2.1,0.9,fog
+Seattle,"November 30, 2015",2015,11,November,30,0.5,5.6,-3.8,1.7,fog
+Seattle,"December 1, 2015",2015,12,December,1,12.2,10,3.9,3.5,fog
+Seattle,"December 2, 2015",2015,12,December,2,2.5,10.6,4.4,5,fog
+Seattle,"December 3, 2015",2015,12,December,3,12.7,15.6,7.8,5.9,fog
+Seattle,"December 4, 2015",2015,12,December,4,2,10.6,6.1,4.7,fog
+Seattle,"December 5, 2015",2015,12,December,5,15.7,10,6.1,4,fog
+Seattle,"December 6, 2015",2015,12,December,6,11.2,12.8,7.2,5.9,fog
+Seattle,"December 7, 2015",2015,12,December,7,27.4,11.1,8.3,3.4,fog
+Seattle,"December 8, 2015",2015,12,December,8,54.1,15.6,10,6.2,fog
+Seattle,"December 9, 2015",2015,12,December,9,13.5,12.2,7.8,6.3,fog
+Seattle,"December 10, 2015",2015,12,December,10,9.4,11.7,6.1,7.5,fog
+Seattle,"December 11, 2015",2015,12,December,11,0.3,9.4,4.4,2.8,sun
+Seattle,"December 12, 2015",2015,12,December,12,16,8.9,5.6,5.6,fog
+Seattle,"December 13, 2015",2015,12,December,13,1.3,7.8,6.1,6.1,sun
+Seattle,"December 14, 2015",2015,12,December,14,0,7.8,1.7,1.7,sun
+Seattle,"December 15, 2015",2015,12,December,15,1.5,6.7,1.1,2.9,fog
+Seattle,"December 16, 2015",2015,12,December,16,3.6,6.1,2.8,2.3,fog
+Seattle,"December 17, 2015",2015,12,December,17,21.8,6.7,3.9,6,fog
+Seattle,"December 18, 2015",2015,12,December,18,18.5,8.9,4.4,5.1,fog
+Seattle,"December 19, 2015",2015,12,December,19,0,8.3,2.8,4.1,fog
+Seattle,"December 20, 2015",2015,12,December,20,4.3,7.8,4.4,6.7,fog
+Seattle,"December 21, 2015",2015,12,December,21,27.4,5.6,2.8,4.3,fog
+Seattle,"December 22, 2015",2015,12,December,22,4.6,7.8,2.8,5,fog
+Seattle,"December 23, 2015",2015,12,December,23,6.1,5,2.8,7.6,fog
+Seattle,"December 24, 2015",2015,12,December,24,2.5,5.6,2.2,4.3,fog
+Seattle,"December 25, 2015",2015,12,December,25,5.8,5,2.2,1.5,fog
+Seattle,"December 26, 2015",2015,12,December,26,0,4.4,0,2.5,sun
+Seattle,"December 27, 2015",2015,12,December,27,8.6,4.4,1.7,2.9,fog
+Seattle,"December 28, 2015",2015,12,December,28,1.5,5,1.7,1.3,fog
+Seattle,"December 29, 2015",2015,12,December,29,0,7.2,0.6,2.6,fog
+Seattle,"December 30, 2015",2015,12,December,30,0,5.6,-1,3.4,sun
+Seattle,"December 31, 2015",2015,12,December,31,0,5.6,-2.1,3.5,sun
+New York,"January 1, 2012",2012,1,January,1,1.8,10,3.3,5.1,rain
+New York,"January 2, 2012",2012,1,January,2,0,10,0.6,8.7,sun
+New York,"January 3, 2012",2012,1,January,3,0,0.6,-8.9,8.2,sun
+New York,"January 4, 2012",2012,1,January,4,0,-1.7,-10.6,5.5,sun
+New York,"January 5, 2012",2012,1,January,5,0,5.6,-3.3,5.4,sun
+New York,"January 6, 2012",2012,1,January,6,0,12.2,0,4.6,sun
+New York,"January 7, 2012",2012,1,January,7,0,16.1,2.2,4.7,sun
+New York,"January 8, 2012",2012,1,January,8,0,8.9,0.6,6.2,sun
+New York,"January 9, 2012",2012,1,January,9,0,3.9,-1.7,2.7,sun
+New York,"January 10, 2012",2012,1,January,10,0,8.9,-1.1,5.5,drizzle
+New York,"January 11, 2012",2012,1,January,11,3,8.3,-0.6,3.6,rain
+New York,"January 12, 2012",2012,1,January,12,22.9,9.4,5.6,6.1,rain
+New York,"January 13, 2012",2012,1,January,13,0,10,-1.7,11.4,snow
+New York,"January 14, 2012",2012,1,January,14,0,1.1,-2.8,8.1,snow
+New York,"January 15, 2012",2012,1,January,15,0,-2.2,-8.9,7.6,sun
+New York,"January 16, 2012",2012,1,January,16,0,3.9,-10,5.3,snow
+New York,"January 17, 2012",2012,1,January,17,5.8,10,2.8,5.2,rain
+New York,"January 18, 2012",2012,1,January,18,0,11.7,-4.4,8.8,sun
+New York,"January 19, 2012",2012,1,January,19,0,3.3,-7.8,4.7,sun
+New York,"January 20, 2012",2012,1,January,20,0,2.8,-2.8,5.9,sun
+New York,"January 21, 2012",2012,1,January,21,4.3,-1.7,-5,6.2,snow
+New York,"January 22, 2012",2012,1,January,22,0,1.1,-7.8,4.2,sun
+New York,"January 23, 2012",2012,1,January,23,5.8,10.6,0.6,5.1,snow
+New York,"January 24, 2012",2012,1,January,24,0,12.2,4.4,5.4,drizzle
+New York,"January 25, 2012",2012,1,January,25,0,7.8,2.8,5.6,sun
+New York,"January 26, 2012",2012,1,January,26,4.6,6.7,1.1,2.6,snow
+New York,"January 27, 2012",2012,1,January,27,7.4,14.4,6.7,7.3,rain
+New York,"January 28, 2012",2012,1,January,28,0,7.8,2.8,6,sun
+New York,"January 29, 2012",2012,1,January,29,0,6.7,0.6,7,sun
+New York,"January 30, 2012",2012,1,January,30,0,5,1.1,7.1,sun
+New York,"January 31, 2012",2012,1,January,31,0,13.9,2.8,4.9,sun
+New York,"February 1, 2012",2012,2,February,1,0.8,17.8,5.6,5.2,rain
+New York,"February 2, 2012",2012,2,February,2,0,10.6,2.2,5.7,sun
+New York,"February 3, 2012",2012,2,February,3,0,7.2,-1.1,6.1,sun
+New York,"February 4, 2012",2012,2,February,4,0,8.3,1.7,4.3,sun
+New York,"February 5, 2012",2012,2,February,5,0,5,0.6,3.8,sun
+New York,"February 6, 2012",2012,2,February,6,0,10.6,-1.7,6.3,sun
+New York,"February 7, 2012",2012,2,February,7,0,10.6,1.1,5.7,sun
+New York,"February 8, 2012",2012,2,February,8,1,3.9,-0.6,2.2,snow
+New York,"February 9, 2012",2012,2,February,9,0,8.3,-0.6,5,snow
+New York,"February 10, 2012",2012,2,February,10,0,7.2,-1.1,4.3,rain
+New York,"February 11, 2012",2012,2,February,11,3,3.3,0.6,4.4,snow
+New York,"February 12, 2012",2012,2,February,12,0,1.7,-6.1,9.5,snow
+New York,"February 13, 2012",2012,2,February,13,0,6.7,-1.7,7.8,sun
+New York,"February 14, 2012",2012,2,February,14,0.8,7.2,1.7,3.2,rain
+New York,"February 15, 2012",2012,2,February,15,0.3,7.8,2.8,3,rain
+New York,"February 16, 2012",2012,2,February,16,3,6.7,-0.6,2.4,rain
+New York,"February 17, 2012",2012,2,February,17,1,11.7,2.8,5.3,rain
+New York,"February 18, 2012",2012,2,February,18,0.3,7.8,2.2,5.4,rain
+New York,"February 19, 2012",2012,2,February,19,0,7.8,0.6,4.1,sun
+New York,"February 20, 2012",2012,2,February,20,0,8.9,-0.6,5.9,sun
+New York,"February 21, 2012",2012,2,February,21,0,8.3,-3.3,4.7,sun
+New York,"February 22, 2012",2012,2,February,22,0,13.9,2.2,5.4,rain
+New York,"February 23, 2012",2012,2,February,23,0,16.1,5.6,5.5,sun
+New York,"February 24, 2012",2012,2,February,24,9.4,7.8,3.3,5.8,rain
+New York,"February 25, 2012",2012,2,February,25,0,8.3,1.7,12.3,snow
+New York,"February 26, 2012",2012,2,February,26,0,7.2,-1.1,6,sun
+New York,"February 27, 2012",2012,2,February,27,0,10.6,-0.6,6.4,sun
+New York,"February 28, 2012",2012,2,February,28,0,10.6,3.3,6.1,sun
+New York,"February 29, 2012",2012,2,February,29,12.4,7.2,1.1,4.9,rain
+New York,"March 1, 2012",2012,3,March,1,2.8,5.6,2.2,4.7,rain
+New York,"March 2, 2012",2012,3,March,2,3.8,6.1,0.6,5.4,rain
+New York,"March 3, 2012",2012,3,March,3,3.6,13.3,6.1,5.8,rain
+New York,"March 4, 2012",2012,3,March,4,0,8.3,2.2,5.6,sun
+New York,"March 5, 2012",2012,3,March,5,0,7.8,-1.7,7.6,sun
+New York,"March 6, 2012",2012,3,March,6,0,5,-3.3,6.3,sun
+New York,"March 7, 2012",2012,3,March,7,0,11.7,2.8,6.3,sun
+New York,"March 8, 2012",2012,3,March,8,0,15,7.8,8.2,sun
+New York,"March 9, 2012",2012,3,March,9,1.8,11.7,2.8,7.9,rain
+New York,"March 10, 2012",2012,3,March,10,0,6.1,-1.7,6,sun
+New York,"March 11, 2012",2012,3,March,11,0,13.9,2.2,6.1,sun
+New York,"March 12, 2012",2012,3,March,12,0,16.7,4.4,4,sun
+New York,"March 13, 2012",2012,3,March,13,2,16.1,9.4,3.8,rain
+New York,"March 14, 2012",2012,3,March,14,0,22.2,8.3,4.3,sun
+New York,"March 15, 2012",2012,3,March,15,0,8.3,6.1,4.7,drizzle
+New York,"March 16, 2012",2012,3,March,16,0.5,9.4,6.1,3.1,rain
+New York,"March 17, 2012",2012,3,March,17,0,15,4.4,2.9,drizzle
+New York,"March 18, 2012",2012,3,March,18,0,12.8,7.2,3.1,drizzle
+New York,"March 19, 2012",2012,3,March,19,0,17.8,7.2,3.1,fog
+New York,"March 20, 2012",2012,3,March,20,0,20.6,10.6,2.1,drizzle
+New York,"March 21, 2012",2012,3,March,21,0,18.3,11.7,2.1,drizzle
+New York,"March 22, 2012",2012,3,March,22,0,18.9,11.7,2.4,drizzle
+New York,"March 23, 2012",2012,3,March,23,0,25,11.7,3.6,drizzle
+New York,"March 24, 2012",2012,3,March,24,3,16.1,8.9,5.2,rain
+New York,"March 25, 2012",2012,3,March,25,1,10.6,7.2,4.3,rain
+New York,"March 26, 2012",2012,3,March,26,0,13.9,1.7,9.5,sun
+New York,"March 27, 2012",2012,3,March,27,0,11.7,-0.6,6.5,sun
+New York,"March 28, 2012",2012,3,March,28,0.3,17.8,5.6,5.2,rain
+New York,"March 29, 2012",2012,3,March,29,0,17.2,6.7,8.9,sun
+New York,"March 30, 2012",2012,3,March,30,1,12.2,3.9,5.1,rain
+New York,"March 31, 2012",2012,3,March,31,8.9,6.7,3.9,4.8,rain
+New York,"April 1, 2012",2012,4,April,1,7.6,11.1,5.6,3.8,rain
+New York,"April 2, 2012",2012,4,April,2,2.5,14.4,4.4,8.4,rain
+New York,"April 3, 2012",2012,4,April,3,0,18.9,4.4,5.5,sun
+New York,"April 4, 2012",2012,4,April,4,0,21.1,8.3,6.7,sun
+New York,"April 5, 2012",2012,4,April,5,0,15,5.6,5,sun
+New York,"April 6, 2012",2012,4,April,6,0,15,2.8,5.1,sun
+New York,"April 7, 2012",2012,4,April,7,0,16.7,4.4,6.8,sun
+New York,"April 8, 2012",2012,4,April,8,0,20,7.8,6.7,sun
+New York,"April 9, 2012",2012,4,April,9,0,18.3,10,9.7,sun
+New York,"April 10, 2012",2012,4,April,10,0,16.7,6.1,6.3,rain
+New York,"April 11, 2012",2012,4,April,11,0,12.2,6.1,5,rain
+New York,"April 12, 2012",2012,4,April,12,0,16.7,6.7,5.3,rain
+New York,"April 13, 2012",2012,4,April,13,0,16.7,6.7,4.8,rain
+New York,"April 14, 2012",2012,4,April,14,0,18.9,7.2,4.3,rain
+New York,"April 15, 2012",2012,4,April,15,0,24.4,12.8,3.6,rain
+New York,"April 16, 2012",2012,4,April,16,0,25,12.2,3.4,sun
+New York,"April 17, 2012",2012,4,April,17,0,27.2,13.9,5.6,sun
+New York,"April 18, 2012",2012,4,April,18,0,17.2,10,4.8,rain
+New York,"April 19, 2012",2012,4,April,19,0,17.2,9.4,3.4,rain
+New York,"April 20, 2012",2012,4,April,20,0,18.9,9.4,3.6,rain
+New York,"April 21, 2012",2012,4,April,21,2.5,18.9,12.2,5.3,rain
+New York,"April 22, 2012",2012,4,April,22,54.4,13.9,9.4,7.6,rain
+New York,"April 23, 2012",2012,4,April,23,6.9,14.4,6.1,7.4,rain
+New York,"April 24, 2012",2012,4,April,24,0,17.2,5.6,8.4,sun
+New York,"April 25, 2012",2012,4,April,25,0,15,4.4,3.4,rain
+New York,"April 26, 2012",2012,4,April,26,1.5,15.6,5,3.8,rain
+New York,"April 27, 2012",2012,4,April,27,0,13.9,5.6,9.9,rain
+New York,"April 28, 2012",2012,4,April,28,0,14.4,4.4,5.9,sun
+New York,"April 29, 2012",2012,4,April,29,0,18.3,6.7,5.6,sun
+New York,"April 30, 2012",2012,4,April,30,0,13.9,6.1,4.4,sun
+New York,"May 1, 2012",2012,5,May,1,23.9,21.1,11.1,4.8,rain
+New York,"May 2, 2012",2012,5,May,2,0.8,12.2,10.6,3.6,rain
+New York,"May 3, 2012",2012,5,May,3,16.5,13.9,10.6,3,rain
+New York,"May 4, 2012",2012,5,May,4,7.1,20.6,11.7,2.5,rain
+New York,"May 5, 2012",2012,5,May,5,1.8,15,12.8,2.5,rain
+New York,"May 6, 2012",2012,5,May,6,0,16.7,10,2.9,sun
+New York,"May 7, 2012",2012,5,May,7,0,15.6,10,3.4,rain
+New York,"May 8, 2012",2012,5,May,8,2.3,17.8,12.8,7.8,rain
+New York,"May 9, 2012",2012,5,May,9,35.6,17.2,14.4,3.5,rain
+New York,"May 10, 2012",2012,5,May,10,5.6,19.4,10.6,6.2,rain
+New York,"May 11, 2012",2012,5,May,11,0,21.7,10,6.2,sun
+New York,"May 12, 2012",2012,5,May,12,0,23.9,10,4.1,sun
+New York,"May 13, 2012",2012,5,May,13,0,23.9,14.4,4.8,sun
+New York,"May 14, 2012",2012,5,May,14,0,21.1,16.1,4.2,rain
+New York,"May 15, 2012",2012,5,May,15,14.5,17.2,15.6,5.3,rain
+New York,"May 16, 2012",2012,5,May,16,0.5,22.2,15,3.5,rain
+New York,"May 17, 2012",2012,5,May,17,0,22.8,12.8,4,sun
+New York,"May 18, 2012",2012,5,May,18,0,20.6,10.6,3.6,sun
+New York,"May 19, 2012",2012,5,May,19,0,25.6,11.1,2.9,sun
+New York,"May 20, 2012",2012,5,May,20,0,25.6,12.8,4.9,drizzle
+New York,"May 21, 2012",2012,5,May,21,44.7,17.8,15.6,3.8,rain
+New York,"May 22, 2012",2012,5,May,22,4.1,20.6,16.1,2.3,rain
+New York,"May 23, 2012",2012,5,May,23,0,23.3,15,2.6,rain
+New York,"May 24, 2012",2012,5,May,24,11.7,20,16.7,4.4,rain
+New York,"May 25, 2012",2012,5,May,25,2.3,23.3,17.2,2.9,rain
+New York,"May 26, 2012",2012,5,May,26,4.8,27.2,17.2,3.4,rain
+New York,"May 27, 2012",2012,5,May,27,3.6,25.6,18.3,2.9,rain
+New York,"May 28, 2012",2012,5,May,28,0,29.4,20,2.9,sun
+New York,"May 29, 2012",2012,5,May,29,0.3,28.9,21.7,5.4,rain
+New York,"May 30, 2012",2012,5,May,30,0,25,18.9,2.5,rain
+New York,"May 31, 2012",2012,5,May,31,0,27.8,18.3,4.3,drizzle
+New York,"June 1, 2012",2012,6,June,1,11.4,22.2,16.7,7.4,rain
+New York,"June 2, 2012",2012,6,June,2,20.6,24.4,16.7,6.3,rain
+New York,"June 3, 2012",2012,6,June,3,0,25.6,14.4,5.2,rain
+New York,"June 4, 2012",2012,6,June,4,5.6,18.3,12.2,5.2,rain
+New York,"June 5, 2012",2012,6,June,5,0,19.4,10.6,3.2,rain
+New York,"June 6, 2012",2012,6,June,6,1,21.7,11.7,4,rain
+New York,"June 7, 2012",2012,6,June,7,0,24.4,15,3.8,rain
+New York,"June 8, 2012",2012,6,June,8,0,25.6,15,4,sun
+New York,"June 9, 2012",2012,6,June,9,0,26.7,17.2,2.6,rain
+New York,"June 10, 2012",2012,6,June,10,2,26.7,18.3,3.2,rain
+New York,"June 11, 2012",2012,6,June,11,0,23.9,17.8,5,sun
+New York,"June 12, 2012",2012,6,June,12,27.4,22.8,17.8,5.8,rain
+New York,"June 13, 2012",2012,6,June,13,34.8,20.6,18.3,3.4,rain
+New York,"June 14, 2012",2012,6,June,14,0,22.8,16.7,4.5,sun
+New York,"June 15, 2012",2012,6,June,15,0,26.7,15,3.7,sun
+New York,"June 16, 2012",2012,6,June,16,0,26.1,15,4.1,sun
+New York,"June 17, 2012",2012,6,June,17,0,21.1,13.9,3.7,sun
+New York,"June 18, 2012",2012,6,June,18,0,20,12.8,3,sun
+New York,"June 19, 2012",2012,6,June,19,0,23.3,16.7,4.3,sun
+New York,"June 20, 2012",2012,6,June,20,0,34.4,20.6,4.3,drizzle
+New York,"June 21, 2012",2012,6,June,21,0,36.1,26.1,4.4,sun
+New York,"June 22, 2012",2012,6,June,22,4.8,34.4,22.2,3.7,rain
+New York,"June 23, 2012",2012,6,June,23,16.5,30.6,20.6,4.3,rain
+New York,"June 24, 2012",2012,6,June,24,0.8,27.8,18.3,3.8,rain
+New York,"June 25, 2012",2012,6,June,25,48.3,23.9,16.7,4,rain
+New York,"June 26, 2012",2012,6,June,26,0,24.4,13.9,7.6,sun
+New York,"June 27, 2012",2012,6,June,27,0,28.9,18.3,6.5,sun
+New York,"June 28, 2012",2012,6,June,28,0,30,20,4,sun
+New York,"June 29, 2012",2012,6,June,29,1.5,33.3,21.7,4.7,rain
+New York,"June 30, 2012",2012,6,June,30,0,33.9,23.9,5.3,sun
+New York,"July 1, 2012",2012,7,July,1,0,32.8,21.1,4.7,sun
+New York,"July 2, 2012",2012,7,July,2,0,31.7,22.2,4.2,rain
+New York,"July 3, 2012",2012,7,July,3,0,31.1,21.1,4.7,sun
+New York,"July 4, 2012",2012,7,July,4,1,31.7,22.2,4.6,rain
+New York,"July 5, 2012",2012,7,July,5,0,35,25,4,sun
+New York,"July 6, 2012",2012,7,July,6,0,30,22.2,3.7,sun
+New York,"July 7, 2012",2012,7,July,7,1.8,37.2,23.9,3.8,rain
+New York,"July 8, 2012",2012,7,July,8,0,31.7,23.9,3.7,rain
+New York,"July 9, 2012",2012,7,July,9,0,28.9,21.7,4.2,sun
+New York,"July 10, 2012",2012,7,July,10,0,28.3,21.1,3.6,sun
+New York,"July 11, 2012",2012,7,July,11,0,28.3,21.1,2.5,sun
+New York,"July 12, 2012",2012,7,July,12,0,28.9,20,3.3,sun
+New York,"July 13, 2012",2012,7,July,13,0,29.4,21.7,3.7,rain
+New York,"July 14, 2012",2012,7,July,14,0,30.6,23.9,4.6,rain
+New York,"July 15, 2012",2012,7,July,15,4.1,30.6,22.8,4.5,rain
+New York,"July 16, 2012",2012,7,July,16,0,33.9,22.2,4.4,drizzle
+New York,"July 17, 2012",2012,7,July,17,0,32.8,24.4,5.1,sun
+New York,"July 18, 2012",2012,7,July,18,5.3,35.6,23.3,4.3,rain
+New York,"July 19, 2012",2012,7,July,19,0,25,22.2,3.1,rain
+New York,"July 20, 2012",2012,7,July,20,11.4,22.2,16.7,4.7,rain
+New York,"July 21, 2012",2012,7,July,21,0,24.4,16.7,3.2,sun
+New York,"July 22, 2012",2012,7,July,22,0,26.7,18.3,3.4,sun
+New York,"July 23, 2012",2012,7,July,23,1.3,28.9,20.6,5.2,rain
+New York,"July 24, 2012",2012,7,July,24,0,35,23.3,6.3,sun
+New York,"July 25, 2012",2012,7,July,25,0,30.6,19.4,5.2,sun
+New York,"July 26, 2012",2012,7,July,26,12.4,31.1,22.2,4.8,rain
+New York,"July 27, 2012",2012,7,July,27,0,32.2,22.8,4.3,rain
+New York,"July 28, 2012",2012,7,July,28,1.8,27.2,20.6,3.4,rain
+New York,"July 29, 2012",2012,7,July,29,0,26.1,20.6,2.6,rain
+New York,"July 30, 2012",2012,7,July,30,0,26.1,19.4,3.4,sun
+New York,"July 31, 2012",2012,7,July,31,0,26.1,21.1,3.1,sun
+New York,"August 1, 2012",2012,8,August,1,1.8,27.8,22.2,3,rain
+New York,"August 2, 2012",2012,8,August,2,0,30,21.7,4.9,drizzle
+New York,"August 3, 2012",2012,8,August,3,0,30.6,23.3,4.1,drizzle
+New York,"August 4, 2012",2012,8,August,4,0,31.1,23.3,4.3,drizzle
+New York,"August 5, 2012",2012,8,August,5,4.6,30.6,22.8,7.4,rain
+New York,"August 6, 2012",2012,8,August,6,5.8,32.2,22.8,4.4,rain
+New York,"August 7, 2012",2012,8,August,7,0,27.2,20,2.7,drizzle
+New York,"August 8, 2012",2012,8,August,8,0,30,21.7,2.4,sun
+New York,"August 9, 2012",2012,8,August,9,0,30,22.8,4.2,sun
+New York,"August 10, 2012",2012,8,August,10,53.8,27.8,21.1,4.7,rain
+New York,"August 11, 2012",2012,8,August,11,0,29.4,23.9,5.1,rain
+New York,"August 12, 2012",2012,8,August,12,0,29.4,23.3,4.2,sun
+New York,"August 13, 2012",2012,8,August,13,0,30.6,21.7,4.6,sun
+New York,"August 14, 2012",2012,8,August,14,0,27.2,21.1,2.6,rain
+New York,"August 15, 2012",2012,8,August,15,11.2,28.3,20.6,2.6,rain
+New York,"August 16, 2012",2012,8,August,16,0,31.1,20.6,3.8,drizzle
+New York,"August 17, 2012",2012,8,August,17,0,29.4,20.6,4.5,rain
+New York,"August 18, 2012",2012,8,August,18,9.4,27.2,17.8,3.4,rain
+New York,"August 19, 2012",2012,8,August,19,0,25,17.2,3.1,rain
+New York,"August 20, 2012",2012,8,August,20,0,25,18.9,2.8,sun
+New York,"August 21, 2012",2012,8,August,21,0,27.2,20.6,2.8,sun
+New York,"August 22, 2012",2012,8,August,22,0,27.8,19.4,3,sun
+New York,"August 23, 2012",2012,8,August,23,0,27.8,20,3.6,sun
+New York,"August 24, 2012",2012,8,August,24,0,29.4,20,2.4,sun
+New York,"August 25, 2012",2012,8,August,25,0,28.9,21.1,3.6,sun
+New York,"August 26, 2012",2012,8,August,26,0,27.2,19.4,3.6,sun
+New York,"August 27, 2012",2012,8,August,27,13.2,27.8,20.6,4.3,rain
+New York,"August 28, 2012",2012,8,August,28,2.5,31.7,23.3,5.9,rain
+New York,"August 29, 2012",2012,8,August,29,0,26.1,19.4,3.4,sun
+New York,"August 30, 2012",2012,8,August,30,0,28.9,16.7,4.3,sun
+New York,"August 31, 2012",2012,8,August,31,0,32.2,18.3,6,sun
+New York,"September 1, 2012",2012,9,September,1,0,33.3,22.8,4.9,sun
+New York,"September 2, 2012",2012,9,September,2,0,27.2,21.7,3,rain
+New York,"September 3, 2012",2012,9,September,3,15,24.4,21.1,5.3,rain
+New York,"September 4, 2012",2012,9,September,4,15.7,26.7,21.7,4.4,rain
+New York,"September 5, 2012",2012,9,September,5,4.1,28.9,22.2,4.4,rain
+New York,"September 6, 2012",2012,9,September,6,0,26.7,20.6,2.4,sun
+New York,"September 7, 2012",2012,9,September,7,0,28.3,21.1,4.2,drizzle
+New York,"September 8, 2012",2012,9,September,8,7.6,28.3,18.9,7.2,rain
+New York,"September 9, 2012",2012,9,September,9,0,24.4,18.3,3.4,rain
+New York,"September 10, 2012",2012,9,September,10,0,23.9,15,6.4,sun
+New York,"September 11, 2012",2012,9,September,11,0,24.4,12.2,3,sun
+New York,"September 12, 2012",2012,9,September,12,0,25,15.6,3,sun
+New York,"September 13, 2012",2012,9,September,13,0,24.4,16.7,3.7,sun
+New York,"September 14, 2012",2012,9,September,14,0,25,17.2,4.4,sun
+New York,"September 15, 2012",2012,9,September,15,0,23.9,16.1,6,sun
+New York,"September 16, 2012",2012,9,September,16,0,23.9,14.4,3.6,sun
+New York,"September 17, 2012",2012,9,September,17,0,24.4,13.3,3.5,sun
+New York,"September 18, 2012",2012,9,September,18,40.1,25.6,20,10.4,rain
+New York,"September 19, 2012",2012,9,September,19,0.3,22.2,13.9,5.2,rain
+New York,"September 20, 2012",2012,9,September,20,0,21.7,12.2,4.3,rain
+New York,"September 21, 2012",2012,9,September,21,0,22.2,13.9,3.1,sun
+New York,"September 22, 2012",2012,9,September,22,7.4,24.4,13.3,5.4,rain
+New York,"September 23, 2012",2012,9,September,23,0,21.1,13.3,5.1,sun
+New York,"September 24, 2012",2012,9,September,24,0,20.6,11.1,3.8,sun
+New York,"September 25, 2012",2012,9,September,25,0,22.8,13.3,7.2,sun
+New York,"September 26, 2012",2012,9,September,26,0.8,23.9,18.3,5.2,rain
+New York,"September 27, 2012",2012,9,September,27,0,25,18.9,3,rain
+New York,"September 28, 2012",2012,9,September,28,11.2,23.3,16.7,4.8,rain
+New York,"September 29, 2012",2012,9,September,29,0.8,18.9,15,2.8,rain
+New York,"September 30, 2012",2012,9,September,30,0,21.1,13.9,4.1,rain
+New York,"October 1, 2012",2012,10,October,1,0,22.2,12.2,5.1,sun
+New York,"October 2, 2012",2012,10,October,2,8.4,21.7,17.2,2.6,rain
+New York,"October 3, 2012",2012,10,October,3,0,23.3,18.3,1.7,drizzle
+New York,"October 4, 2012",2012,10,October,4,10.4,23.9,19.4,1.5,rain
+New York,"October 5, 2012",2012,10,October,5,0,25,16.1,3.5,drizzle
+New York,"October 6, 2012",2012,10,October,6,0,24.4,12.2,5.8,sun
+New York,"October 7, 2012",2012,10,October,7,4.1,13.3,8.3,3,rain
+New York,"October 8, 2012",2012,10,October,8,0,13.3,7.2,2.3,sun
+New York,"October 9, 2012",2012,10,October,9,0.8,15,11.1,4.9,rain
+New York,"October 10, 2012",2012,10,October,10,5.6,20,12.2,6,rain
+New York,"October 11, 2012",2012,10,October,11,0,15.6,8.9,6.4,sun
+New York,"October 12, 2012",2012,10,October,12,0,15.6,6.1,6.6,rain
+New York,"October 13, 2012",2012,10,October,13,0,12.8,2.8,4.1,sun
+New York,"October 14, 2012",2012,10,October,14,0,22.2,12.8,7.5,sun
+New York,"October 15, 2012",2012,10,October,15,4.6,20.6,16.1,6.3,rain
+New York,"October 16, 2012",2012,10,October,16,0,16.1,8.9,6.7,sun
+New York,"October 17, 2012",2012,10,October,17,0,15.6,5.6,2.2,sun
+New York,"October 18, 2012",2012,10,October,18,0.5,18.9,7.2,3.7,rain
+New York,"October 19, 2012",2012,10,October,19,7.1,19.4,16.7,5.9,rain
+New York,"October 20, 2012",2012,10,October,20,0,21.1,12.8,4.2,drizzle
+New York,"October 21, 2012",2012,10,October,21,0,20,10.6,5.1,sun
+New York,"October 22, 2012",2012,10,October,22,0,20.6,10.6,5.2,sun
+New York,"October 23, 2012",2012,10,October,23,0.8,18.9,11.1,1.5,rain
+New York,"October 24, 2012",2012,10,October,24,0,16.7,13.9,2.5,rain
+New York,"October 25, 2012",2012,10,October,25,0,16.7,12.2,2.5,sun
+New York,"October 26, 2012",2012,10,October,26,0,21.7,13.9,1.6,sun
+New York,"October 27, 2012",2012,10,October,27,0,19.4,15,3.4,sun
+New York,"October 28, 2012",2012,10,October,28,0,15.6,11.7,8.4,rain
+New York,"October 29, 2012",2012,10,October,29,13,18.9,11.1,16.2,rain
+New York,"October 30, 2012",2012,10,October,30,1,15,8.9,9.1,rain
+New York,"October 31, 2012",2012,10,October,31,0.3,11.1,7.8,5.3,rain
+New York,"November 1, 2012",2012,11,November,1,0,11.1,7.2,6.3,sun
+New York,"November 2, 2012",2012,11,November,2,0,12.2,6.1,6.5,rain
+New York,"November 3, 2012",2012,11,November,3,0,11.1,5,7.3,sun
+New York,"November 4, 2012",2012,11,November,4,0,11.7,3.9,5.7,sun
+New York,"November 5, 2012",2012,11,November,5,0,8.3,2.2,6,sun
+New York,"November 6, 2012",2012,11,November,6,0,7.2,-0.6,3.4,sun
+New York,"November 7, 2012",2012,11,November,7,24.6,5,0,9.7,snow
+New York,"November 8, 2012",2012,11,November,8,1,7.2,0,7.7,snow
+New York,"November 9, 2012",2012,11,November,9,0,11.7,1.7,5.9,sun
+New York,"November 10, 2012",2012,11,November,10,0,12.2,5.6,2.6,drizzle
+New York,"November 11, 2012",2012,11,November,11,0,15.6,5,4.1,drizzle
+New York,"November 12, 2012",2012,11,November,12,0,17.2,7.8,4.5,drizzle
+New York,"November 13, 2012",2012,11,November,13,2,14.4,4.4,6,rain
+New York,"November 14, 2012",2012,11,November,14,0,9.4,2.8,4.9,sun
+New York,"November 15, 2012",2012,11,November,15,0,7.2,2.2,2.8,sun
+New York,"November 16, 2012",2012,11,November,16,0,8.9,2.2,3.7,sun
+New York,"November 17, 2012",2012,11,November,17,0,11.7,2.2,3.3,sun
+New York,"November 18, 2012",2012,11,November,18,0,10.6,2.8,3.4,sun
+New York,"November 19, 2012",2012,11,November,19,0,8.9,3.3,4.6,sun
+New York,"November 20, 2012",2012,11,November,20,0,11.7,2.8,2.8,sun
+New York,"November 21, 2012",2012,11,November,21,0,12.2,3.3,3.4,sun
+New York,"November 22, 2012",2012,11,November,22,0,12.8,3.3,2.2,fog
+New York,"November 23, 2012",2012,11,November,23,0.8,11.7,1.1,3,rain
+New York,"November 24, 2012",2012,11,November,24,0.3,9.4,2.2,8.8,snow
+New York,"November 25, 2012",2012,11,November,25,0,6.1,1.1,7.8,sun
+New York,"November 26, 2012",2012,11,November,26,0,9.4,1.7,4.3,sun
+New York,"November 27, 2012",2012,11,November,27,10.9,5.6,2.2,3.8,snow
+New York,"November 28, 2012",2012,11,November,28,0,6.7,1.1,4.9,sun
+New York,"November 29, 2012",2012,11,November,29,0,6.7,1.1,5.7,sun
+New York,"November 30, 2012",2012,11,November,30,0,8.3,0.6,3.6,sun
+New York,"December 1, 2012",2012,12,December,1,0,7.2,3.9,5.5,drizzle
+New York,"December 2, 2012",2012,12,December,2,1,10,5,2.7,rain
+New York,"December 3, 2012",2012,12,December,3,0,16.7,6.1,3,rain
+New York,"December 4, 2012",2012,12,December,4,0.5,14.4,6.1,4.1,rain
+New York,"December 5, 2012",2012,12,December,5,0,13.3,1.7,7.6,rain
+New York,"December 6, 2012",2012,12,December,6,0,5,-1.1,3.3,sun
+New York,"December 7, 2012",2012,12,December,7,3.3,8.3,-1.7,2.2,rain
+New York,"December 8, 2012",2012,12,December,8,8.6,10,7.8,2.6,rain
+New York,"December 9, 2012",2012,12,December,9,8.1,8.9,5.6,3.9,rain
+New York,"December 10, 2012",2012,12,December,10,6.4,13.3,7.8,3.1,rain
+New York,"December 11, 2012",2012,12,December,11,1.3,12.8,5,5.2,rain
+New York,"December 12, 2012",2012,12,December,12,0,7.2,1.7,2.9,sun
+New York,"December 13, 2012",2012,12,December,13,0,8.3,0.6,1.8,sun
+New York,"December 14, 2012",2012,12,December,14,0,9.4,0,4.3,sun
+New York,"December 15, 2012",2012,12,December,15,0,9.4,1.1,2.1,sun
+New York,"December 16, 2012",2012,12,December,16,3.3,9.4,5,6.2,rain
+New York,"December 17, 2012",2012,12,December,17,7.1,8.3,5.6,4.8,rain
+New York,"December 18, 2012",2012,12,December,18,20.8,13.3,7.2,5.1,rain
+New York,"December 19, 2012",2012,12,December,19,0,9.4,3.9,8.1,sun
+New York,"December 20, 2012",2012,12,December,20,0,9.4,0,3.7,rain
+New York,"December 21, 2012",2012,12,December,21,18,13.3,2.8,11.4,rain
+New York,"December 22, 2012",2012,12,December,22,0,4.4,2.2,10.2,snow
+New York,"December 23, 2012",2012,12,December,23,0,6.7,1.7,6.1,sun
+New York,"December 24, 2012",2012,12,December,24,2.3,5,0,2.5,snow
+New York,"December 25, 2012",2012,12,December,25,0.5,6.7,-0.6,5.4,rain
+New York,"December 26, 2012",2012,12,December,26,18,6.1,-2.2,7.6,snow
+New York,"December 27, 2012",2012,12,December,27,19.6,7.8,-0.6,10,rain
+New York,"December 28, 2012",2012,12,December,28,0,4.4,-1.1,6.2,sun
+New York,"December 29, 2012",2012,12,December,29,6.6,2.8,-2.2,4.2,snow
+New York,"December 30, 2012",2012,12,December,30,0,2.8,-1.7,10.2,snow
+New York,"December 31, 2012",2012,12,December,31,0,3.9,-2.2,7.1,sun
+New York,"January 1, 2013",2013,1,January,1,0,5,-2.8,6.8,sun
+New York,"January 2, 2013",2013,1,January,2,0,1.7,-5,6.5,sun
+New York,"January 3, 2013",2013,1,January,3,0,0.6,-3.9,5.2,sun
+New York,"January 4, 2013",2013,1,January,4,0,3.9,-1.1,7.3,sun
+New York,"January 5, 2013",2013,1,January,5,0,7.2,0,5.2,sun
+New York,"January 6, 2013",2013,1,January,6,0,7.2,0.6,4.6,snow
+New York,"January 7, 2013",2013,1,January,7,0,8.3,-1.1,3.7,sun
+New York,"January 8, 2013",2013,1,January,8,0,9.4,-1.1,4.7,sun
+New York,"January 9, 2013",2013,1,January,9,0,8.9,0.6,3.5,sun
+New York,"January 10, 2013",2013,1,January,10,0,10,2.8,5.3,sun
+New York,"January 11, 2013",2013,1,January,11,14.7,8.3,0.6,2.8,rain
+New York,"January 12, 2013",2013,1,January,12,1.5,9.4,6.1,2.7,rain
+New York,"January 13, 2013",2013,1,January,13,0.3,8.3,5.6,2.6,drizzle
+New York,"January 14, 2013",2013,1,January,14,0.8,14.4,3.9,4.2,rain
+New York,"January 15, 2013",2013,1,January,15,2.8,3.9,1.7,3.9,rain
+New York,"January 16, 2013",2013,1,January,16,20.8,3.3,0.6,4.2,snow
+New York,"January 17, 2013",2013,1,January,17,0,7.8,2.2,5.2,sun
+New York,"January 18, 2013",2013,1,January,18,0,2.2,-3.9,5.8,snow
+New York,"January 19, 2013",2013,1,January,19,0,11.1,-0.6,7.2,sun
+New York,"January 20, 2013",2013,1,January,20,0,13.3,-0.6,8.1,sun
+New York,"January 21, 2013",2013,1,January,21,0.8,0.6,-3.3,3.8,snow
+New York,"January 22, 2013",2013,1,January,22,0,-2.2,-10,8.2,snow
+New York,"January 23, 2013",2013,1,January,23,0,-6.1,-11.1,6.2,sun
+New York,"January 24, 2013",2013,1,January,24,0,-3.3,-10.6,6.9,sun
+New York,"January 25, 2013",2013,1,January,25,1.3,-4.4,-10,4,snow
+New York,"January 26, 2013",2013,1,January,26,0,-2.8,-10,5.7,sun
+New York,"January 27, 2013",2013,1,January,27,0,1.7,-7.8,4.2,sun
+New York,"January 28, 2013",2013,1,January,28,4.8,1.7,-4.4,3.8,snow
+New York,"January 29, 2013",2013,1,January,29,0.8,8.9,1.1,3.2,rain
+New York,"January 30, 2013",2013,1,January,30,0.8,11.1,5,7.6,rain
+New York,"January 31, 2013",2013,1,January,31,11.4,13.3,-1.1,12.9,snow
+New York,"February 1, 2013",2013,2,February,1,0,0.6,-4.4,8.8,snow
+New York,"February 2, 2013",2013,2,February,2,0.5,-0.6,-6.7,5.9,snow
+New York,"February 3, 2013",2013,2,February,3,0.8,0,-5.6,3.2,snow
+New York,"February 4, 2013",2013,2,February,4,0,0,-4.4,7.1,sun
+New York,"February 5, 2013",2013,2,February,5,0.3,0,-2.2,2.5,snow
+New York,"February 6, 2013",2013,2,February,6,0,5,-1.7,5.4,snow
+New York,"February 7, 2013",2013,2,February,7,0,0.6,-5,3.1,sun
+New York,"February 8, 2013",2013,2,February,8,19.8,2.2,-2.8,8.9,snow
+New York,"February 9, 2013",2013,2,February,9,4.6,0,-6.1,9.1,snow
+New York,"February 10, 2013",2013,2,February,10,0,1.1,-8.3,2.6,drizzle
+New York,"February 11, 2013",2013,2,February,11,11.7,7.2,1.1,3.2,rain
+New York,"February 12, 2013",2013,2,February,12,0,8.3,2.8,6.4,sun
+New York,"February 13, 2013",2013,2,February,13,0.3,6.1,-2.2,2.3,snow
+New York,"February 14, 2013",2013,2,February,14,0,7.2,0,3.9,snow
+New York,"February 15, 2013",2013,2,February,15,0,9.4,0,3.7,rain
+New York,"February 16, 2013",2013,2,February,16,0,7.2,-0.6,6.3,snow
+New York,"February 17, 2013",2013,2,February,17,0,1.1,-7.8,12.1,sun
+New York,"February 18, 2013",2013,2,February,18,0,2.2,-7.8,7.3,sun
+New York,"February 19, 2013",2013,2,February,19,3.3,7.2,-0.6,6.9,rain
+New York,"February 20, 2013",2013,2,February,20,0,3.9,-3.3,9.5,sun
+New York,"February 21, 2013",2013,2,February,21,0,2.8,-4.4,9.3,sun
+New York,"February 22, 2013",2013,2,February,22,0,3.3,-3.3,4.2,snow
+New York,"February 23, 2013",2013,2,February,23,9.7,6.7,2.2,5.2,rain
+New York,"February 24, 2013",2013,2,February,24,0.8,9.4,1.1,7.2,drizzle
+New York,"February 25, 2013",2013,2,February,25,0,7.8,-0.6,3.8,sun
+New York,"February 26, 2013",2013,2,February,26,2.5,6.7,-0.6,5.7,rain
+New York,"February 27, 2013",2013,2,February,27,15.2,9.4,3.3,8,rain
+New York,"February 28, 2013",2013,2,February,28,0,10.6,4.4,4.1,rain
+New York,"March 1, 2013",2013,3,March,1,0,8.3,2.2,5.8,sun
+New York,"March 2, 2013",2013,3,March,2,0,5,0,5.5,snow
+New York,"March 3, 2013",2013,3,March,3,0,5.6,-1.7,6.6,snow
+New York,"March 4, 2013",2013,3,March,4,0,6.7,-2.8,8.9,sun
+New York,"March 5, 2013",2013,3,March,5,0,8.9,-0.6,4.6,sun
+New York,"March 6, 2013",2013,3,March,6,0,7.2,1.7,10.5,snow
+New York,"March 7, 2013",2013,3,March,7,1.8,3.9,0.6,9.6,snow
+New York,"March 8, 2013",2013,3,March,8,6.9,4.4,-0.6,8.3,snow
+New York,"March 9, 2013",2013,3,March,9,0,12.8,1.1,5.6,sun
+New York,"March 10, 2013",2013,3,March,10,0,6.1,-0.6,3.2,sun
+New York,"March 11, 2013",2013,3,March,11,0,11.1,3.9,4.4,sun
+New York,"March 12, 2013",2013,3,March,12,16.8,11.7,6.1,8.4,rain
+New York,"March 13, 2013",2013,3,March,13,0,11.7,3.3,5.5,sun
+New York,"March 14, 2013",2013,3,March,14,0,5.6,-1.1,10.1,sun
+New York,"March 15, 2013",2013,3,March,15,0,8.9,-1.1,6.4,sun
+New York,"March 16, 2013",2013,3,March,16,0.5,5,0.6,3.1,snow
+New York,"March 17, 2013",2013,3,March,17,0,3.9,-1.1,5.5,sun
+New York,"March 18, 2013",2013,3,March,18,11.9,2.2,-3.3,6.4,snow
+New York,"March 19, 2013",2013,3,March,19,11.7,7.2,1.7,6.2,rain
+New York,"March 20, 2013",2013,3,March,20,0,8.3,0,6.9,sun
+New York,"March 21, 2013",2013,3,March,21,0,3.9,-0.6,5.6,snow
+New York,"March 22, 2013",2013,3,March,22,0,6.7,-1.7,6.3,sun
+New York,"March 23, 2013",2013,3,March,23,0,8.9,0,8.2,sun
+New York,"March 24, 2013",2013,3,March,24,0,8.3,0,3.9,sun
+New York,"March 25, 2013",2013,3,March,25,6.4,4.4,1.1,4.3,snow
+New York,"March 26, 2013",2013,3,March,26,0,11.7,2.2,4.2,rain
+New York,"March 27, 2013",2013,3,March,27,0,12.2,1.7,6.5,sun
+New York,"March 28, 2013",2013,3,March,28,0,11.7,2.8,6.5,rain
+New York,"March 29, 2013",2013,3,March,29,0,13.3,5,5.7,sun
+New York,"March 30, 2013",2013,3,March,30,0,14.4,3.9,4.2,sun
+New York,"March 31, 2013",2013,3,March,31,3,11.1,1.7,4.9,rain
+New York,"April 1, 2013",2013,4,April,1,0,17.2,2.8,6.7,sun
+New York,"April 2, 2013",2013,4,April,2,0,7.2,0.6,7.3,sun
+New York,"April 3, 2013",2013,4,April,3,0,8.9,0.6,8.1,sun
+New York,"April 4, 2013",2013,4,April,4,0,7.2,0,5.2,sun
+New York,"April 5, 2013",2013,4,April,5,0,17.8,4.4,5.6,sun
+New York,"April 6, 2013",2013,4,April,6,0,9.4,2.2,5.7,sun
+New York,"April 7, 2013",2013,4,April,7,0,11.1,2.8,7.3,sun
+New York,"April 8, 2013",2013,4,April,8,0,20,5.6,3.1,sun
+New York,"April 9, 2013",2013,4,April,9,0,28.3,8.3,3,sun
+New York,"April 10, 2013",2013,4,April,10,15,21.7,11.7,4.1,sun
+New York,"April 11, 2013",2013,4,April,11,0,15.6,8.3,5.1,sun
+New York,"April 12, 2013",2013,4,April,12,22.1,8.9,5,8.1,sun
+New York,"April 13, 2013",2013,4,April,13,0.3,14.4,3.9,4,fog
+New York,"April 14, 2013",2013,4,April,14,0,15,7.2,5.1,sun
+New York,"April 15, 2013",2013,4,April,15,0,11.7,6.1,3.6,drizzle
+New York,"April 16, 2013",2013,4,April,16,0,14.4,7.2,6.5,sun
+New York,"April 17, 2013",2013,4,April,17,0.3,21.1,8.3,3.4,sun
+New York,"April 18, 2013",2013,4,April,18,0,13.9,7.2,5.4,sun
+New York,"April 19, 2013",2013,4,April,19,1.8,18.3,10,9.3,sun
+New York,"April 20, 2013",2013,4,April,20,4.6,15,7.2,7.7,fog
+New York,"April 21, 2013",2013,4,April,21,0,12.2,2.8,4.7,sun
+New York,"April 22, 2013",2013,4,April,22,0,11.7,2.8,6.9,sun
+New York,"April 23, 2013",2013,4,April,23,0,11.1,5.6,6.5,sun
+New York,"April 24, 2013",2013,4,April,24,0,14.4,5.6,6.2,sun
+New York,"April 25, 2013",2013,4,April,25,0,17.8,7.8,6.8,sun
+New York,"April 26, 2013",2013,4,April,26,0,18.3,6.1,3.8,sun
+New York,"April 27, 2013",2013,4,April,27,0,18.9,7.8,4,sun
+New York,"April 28, 2013",2013,4,April,28,0,17.2,7.2,3.8,sun
+New York,"April 29, 2013",2013,4,April,29,1.3,12.8,10,3.9,sun
+New York,"April 30, 2013",2013,4,April,30,0,17.2,7.8,4.3,sun
+New York,"May 1, 2013",2013,5,May,1,0,18.3,6.1,3.5,sun
+New York,"May 2, 2013",2013,5,May,2,0,17.2,6.7,2.7,sun
+New York,"May 3, 2013",2013,5,May,3,0,16.1,8.3,3.8,sun
+New York,"May 4, 2013",2013,5,May,4,0,17.8,7.2,4,sun
+New York,"May 5, 2013",2013,5,May,5,0,13.9,6.7,4.6,sun
+New York,"May 6, 2013",2013,5,May,6,0,16.7,7.2,2.5,sun
+New York,"May 7, 2013",2013,5,May,7,0,22.2,8.9,3.7,drizzle
+New York,"May 8, 2013",2013,5,May,8,39.1,17.8,12.8,4.5,sun
+New York,"May 9, 2013",2013,5,May,9,19.1,21.1,12.8,3.4,sun
+New York,"May 10, 2013",2013,5,May,10,0,24.4,12.2,4.3,sun
+New York,"May 11, 2013",2013,5,May,11,9.9,18.3,15,6,sun
+New York,"May 12, 2013",2013,5,May,12,0.5,21.1,10.6,8.2,fog
+New York,"May 13, 2013",2013,5,May,13,0,14.4,7.8,7.3,sun
+New York,"May 14, 2013",2013,5,May,14,0,15.6,6.1,5.1,sun
+New York,"May 15, 2013",2013,5,May,15,0.8,16.7,8.9,5.1,sun
+New York,"May 16, 2013",2013,5,May,16,0,23.3,13.3,3.8,fog
+New York,"May 17, 2013",2013,5,May,17,0,22.8,12.8,3.9,sun
+New York,"May 18, 2013",2013,5,May,18,0.3,17.2,12.2,2.6,sun
+New York,"May 19, 2013",2013,5,May,19,11.4,14.4,12.8,4.8,sun
+New York,"May 20, 2013",2013,5,May,20,0,22.2,13.9,3.2,sun
+New York,"May 21, 2013",2013,5,May,21,0,25,15.6,4,sun
+New York,"May 22, 2013",2013,5,May,22,0,22.2,14.4,3.4,sun
+New York,"May 23, 2013",2013,5,May,23,0.8,21.7,16.1,8.1,sun
+New York,"May 24, 2013",2013,5,May,24,5.1,20.6,7.8,6.1,fog
+New York,"May 25, 2013",2013,5,May,25,1.8,13.9,7.2,9.8,fog
+New York,"May 26, 2013",2013,5,May,26,0,20,8.9,7.9,sun
+New York,"May 27, 2013",2013,5,May,27,0,21.1,8.9,5.1,sun
+New York,"May 28, 2013",2013,5,May,28,13.7,20,11.7,2.4,fog
+New York,"May 29, 2013",2013,5,May,29,0,23.9,13.3,2.2,sun
+New York,"May 30, 2013",2013,5,May,30,0,30,17.2,3.8,sun
+New York,"May 31, 2013",2013,5,May,31,0,28.9,18.3,4.6,sun
+New York,"June 1, 2013",2013,6,June,1,0,26.1,17.8,5.2,sun
+New York,"June 2, 2013",2013,6,June,2,0.3,23.3,17.2,5.8,fog
+New York,"June 3, 2013",2013,6,June,3,9.4,24.4,16.7,3.8,sun
+New York,"June 4, 2013",2013,6,June,4,0,24.4,15,5.9,drizzle
+New York,"June 5, 2013",2013,6,June,5,0,21.7,13.9,4.1,sun
+New York,"June 6, 2013",2013,6,June,6,0.8,21.7,14.4,4.3,sun
+New York,"June 7, 2013",2013,6,June,7,101.9,17.8,15.6,6,fog
+New York,"June 8, 2013",2013,6,June,8,9.7,24.4,13.9,5,fog
+New York,"June 9, 2013",2013,6,June,9,0,25.6,17.8,3.2,sun
+New York,"June 10, 2013",2013,6,June,10,35.1,20.6,17.2,4.6,sun
+New York,"June 11, 2013",2013,6,June,11,0.5,27.2,18.3,7.5,sun
+New York,"June 12, 2013",2013,6,June,12,0,25.6,16.1,6.8,sun
+New York,"June 13, 2013",2013,6,June,13,25.1,18.9,13.3,6.3,sun
+New York,"June 14, 2013",2013,6,June,14,3.8,22.2,12.2,5.9,fog
+New York,"June 15, 2013",2013,6,June,15,0,27.8,16.7,4,sun
+New York,"June 16, 2013",2013,6,June,16,0,26.7,16.7,4.7,sun
+New York,"June 17, 2013",2013,6,June,17,3.3,27.8,19.4,4.2,sun
+New York,"June 18, 2013",2013,6,June,18,5.1,25.6,18.3,2.9,sun
+New York,"June 19, 2013",2013,6,June,19,0,25,15.6,4.6,fog
+New York,"June 20, 2013",2013,6,June,20,0,23.3,15,5,sun
+New York,"June 21, 2013",2013,6,June,21,0,24.4,15,4.9,sun
+New York,"June 22, 2013",2013,6,June,22,0,25,16.1,4.4,sun
+New York,"June 23, 2013",2013,6,June,23,0.8,26.7,18.3,4.8,fog
+New York,"June 24, 2013",2013,6,June,24,0,32.2,21.1,4.8,sun
+New York,"June 25, 2013",2013,6,June,25,0,32.8,21.1,5,sun
+New York,"June 26, 2013",2013,6,June,26,2.5,29.4,21.7,4.9,sun
+New York,"June 27, 2013",2013,6,June,27,3.3,28.9,21.7,4,sun
+New York,"June 28, 2013",2013,6,June,28,0,27.8,21.7,5.8,sun
+New York,"June 29, 2013",2013,6,June,29,0,26.7,20.6,5.3,sun
+New York,"June 30, 2013",2013,6,June,30,0.5,27.2,20.6,4.3,sun
+New York,"July 1, 2013",2013,7,July,1,24.9,25.6,21.7,5.1,sun
+New York,"July 2, 2013",2013,7,July,2,6.4,26.1,21.7,5.4,sun
+New York,"July 3, 2013",2013,7,July,3,2.3,27.2,21.1,4.3,sun
+New York,"July 4, 2013",2013,7,July,4,0,28.9,22.2,4.7,fog
+New York,"July 5, 2013",2013,7,July,5,0,30.6,22.8,4.7,sun
+New York,"July 6, 2013",2013,7,July,6,0,33.9,23.9,5,sun
+New York,"July 7, 2013",2013,7,July,7,0,31.1,25.6,4.7,sun
+New York,"July 8, 2013",2013,7,July,8,0,30.6,23.3,5.8,sun
+New York,"July 9, 2013",2013,7,July,9,0,30.6,22.8,4.5,sun
+New York,"July 10, 2013",2013,7,July,10,1.5,29.4,22.2,4,sun
+New York,"July 11, 2013",2013,7,July,11,0,31.1,22.8,3.1,sun
+New York,"July 12, 2013",2013,7,July,12,6.9,26.1,21.1,5.5,fog
+New York,"July 13, 2013",2013,7,July,13,0,29.4,21.7,3.4,fog
+New York,"July 14, 2013",2013,7,July,14,0,31.7,22.8,5,fog
+New York,"July 15, 2013",2013,7,July,15,0,36.1,25,3,sun
+New York,"July 16, 2013",2013,7,July,16,0,35.6,25.6,4.7,sun
+New York,"July 17, 2013",2013,7,July,17,0,35,26.1,3.2,sun
+New York,"July 18, 2013",2013,7,July,18,0,37.8,25,4.1,sun
+New York,"July 19, 2013",2013,7,July,19,0,35,26.7,5.2,sun
+New York,"July 20, 2013",2013,7,July,20,0.5,35.6,25,6.2,sun
+New York,"July 21, 2013",2013,7,July,21,0,31.1,23.9,3.7,sun
+New York,"July 22, 2013",2013,7,July,22,2.3,30,23.3,3.4,sun
+New York,"July 23, 2013",2013,7,July,23,10.2,30.6,22.8,5,sun
+New York,"July 24, 2013",2013,7,July,24,0,31.1,21.1,4.8,sun
+New York,"July 25, 2013",2013,7,July,25,0.8,21.1,17.2,6,sun
+New York,"July 26, 2013",2013,7,July,26,0,28.9,17.8,4.8,sun
+New York,"July 27, 2013",2013,7,July,27,0,27.2,20,3.7,sun
+New York,"July 28, 2013",2013,7,July,28,1.8,25.6,20,3.6,rain
+New York,"July 29, 2013",2013,7,July,29,0,28.9,21.7,3.8,rain
+New York,"July 30, 2013",2013,7,July,30,0,29.4,19.4,3.9,sun
+New York,"July 31, 2013",2013,7,July,31,0,27.8,20,3.6,sun
+New York,"August 1, 2013",2013,8,August,1,16.5,25,20,4.5,fog
+New York,"August 2, 2013",2013,8,August,2,0,29.4,20,4.6,fog
+New York,"August 3, 2013",2013,8,August,3,0,25.6,21.1,5,sun
+New York,"August 4, 2013",2013,8,August,4,0,28.3,19.4,4.9,sun
+New York,"August 5, 2013",2013,8,August,5,0,26.7,17.8,4.7,sun
+New York,"August 6, 2013",2013,8,August,6,0,26.7,17.8,3.9,sun
+New York,"August 7, 2013",2013,8,August,7,0,26.7,21.1,4.9,sun
+New York,"August 8, 2013",2013,8,August,8,18.3,27.2,21.1,6.1,fog
+New York,"August 9, 2013",2013,8,August,9,0.3,27.8,23.3,6,sun
+New York,"August 10, 2013",2013,8,August,10,0,29.4,21.7,4.6,sun
+New York,"August 11, 2013",2013,8,August,11,0,27.2,18.9,3.7,sun
+New York,"August 12, 2013",2013,8,August,12,12.2,26.7,20.6,2.3,fog
+New York,"August 13, 2013",2013,8,August,13,18.8,24.4,20.6,2.9,sun
+New York,"August 14, 2013",2013,8,August,14,0,25,16.1,7.4,sun
+New York,"August 15, 2013",2013,8,August,15,0,25,15.6,4.5,sun
+New York,"August 16, 2013",2013,8,August,16,0,26.1,17.2,2.9,sun
+New York,"August 17, 2013",2013,8,August,17,0,27.2,16.7,2.5,sun
+New York,"August 18, 2013",2013,8,August,18,0,25.6,18.9,2,sun
+New York,"August 19, 2013",2013,8,August,19,0,25.6,18.3,5,sun
+New York,"August 20, 2013",2013,8,August,20,0,29.4,20,3.6,sun
+New York,"August 21, 2013",2013,8,August,21,0,31.1,20.6,3.9,sun
+New York,"August 22, 2013",2013,8,August,22,2,26.7,22.2,3.4,sun
+New York,"August 23, 2013",2013,8,August,23,0,28.9,20.6,5.3,fog
+New York,"August 24, 2013",2013,8,August,24,0,26.1,17.8,4.1,sun
+New York,"August 25, 2013",2013,8,August,25,0,27.2,17.2,5,sun
+New York,"August 26, 2013",2013,8,August,26,0.5,28.9,20,5.9,sun
+New York,"August 27, 2013",2013,8,August,27,0.8,31.1,22.2,5.1,fog
+New York,"August 28, 2013",2013,8,August,28,0,29.4,20.6,2.1,fog
+New York,"August 29, 2013",2013,8,August,29,0,27.8,21.1,4,fog
+New York,"August 30, 2013",2013,8,August,30,0,28.3,20.6,4.8,sun
+New York,"August 31, 2013",2013,8,August,31,0,28.3,22.2,5,sun
+New York,"September 1, 2013",2013,9,September,1,0.5,28.9,22.8,3.9,sun
+New York,"September 2, 2013",2013,9,September,2,0,27.8,22.2,2.7,sun
+New York,"September 3, 2013",2013,9,September,3,0.3,29.4,20.6,4.1,sun
+New York,"September 4, 2013",2013,9,September,4,0,27.8,18.9,5.9,sun
+New York,"September 5, 2013",2013,9,September,5,0,27.8,17.8,5.5,sun
+New York,"September 6, 2013",2013,9,September,6,0,22.2,13.3,3.4,sun
+New York,"September 7, 2013",2013,9,September,7,0,25.6,14.4,5.2,sun
+New York,"September 8, 2013",2013,9,September,8,0,30.6,16.7,5.8,sun
+New York,"September 9, 2013",2013,9,September,9,0,22.2,12.2,4.1,sun
+New York,"September 10, 2013",2013,9,September,10,0,27.2,21.1,5.5,sun
+New York,"September 11, 2013",2013,9,September,11,0,31.1,22.2,4.8,sun
+New York,"September 12, 2013",2013,9,September,12,7.4,27.8,21.1,4.5,sun
+New York,"September 13, 2013",2013,9,September,13,2.3,26.7,15,5.5,fog
+New York,"September 14, 2013",2013,9,September,14,0,21.1,12.8,5.5,sun
+New York,"September 15, 2013",2013,9,September,15,0,22.2,10.6,4.1,sun
+New York,"September 16, 2013",2013,9,September,16,0.5,23.9,13.9,4.6,sun
+New York,"September 17, 2013",2013,9,September,17,0,18.9,9.4,4.7,sun
+New York,"September 18, 2013",2013,9,September,18,0,21.1,10,3.5,sun
+New York,"September 19, 2013",2013,9,September,19,0,23.9,12.2,4.6,sun
+New York,"September 20, 2013",2013,9,September,20,0,24.4,13.3,3.7,sun
+New York,"September 21, 2013",2013,9,September,21,8.4,23.9,13.9,5.3,fog
+New York,"September 22, 2013",2013,9,September,22,29.5,22.2,12.8,6.6,fog
+New York,"September 23, 2013",2013,9,September,23,0,20,10,5.1,sun
+New York,"September 24, 2013",2013,9,September,24,0,23.9,8.9,4,sun
+New York,"September 25, 2013",2013,9,September,25,0,22.2,10.6,2.9,sun
+New York,"September 26, 2013",2013,9,September,26,0,21.1,12.2,3.1,sun
+New York,"September 27, 2013",2013,9,September,27,0,20.6,11.1,3.3,sun
+New York,"September 28, 2013",2013,9,September,28,0,23.3,13.3,2.9,sun
+New York,"September 29, 2013",2013,9,September,29,0,22.2,12.2,2.8,sun
+New York,"September 30, 2013",2013,9,September,30,0,22.2,11.1,2.9,sun
+New York,"October 1, 2013",2013,10,October,1,0,27.2,14.4,3.6,sun
+New York,"October 2, 2013",2013,10,October,2,0,29.4,15.6,4.1,sun
+New York,"October 3, 2013",2013,10,October,3,0,25,15.6,2.8,sun
+New York,"October 4, 2013",2013,10,October,4,0,26.7,16.7,2.9,sun
+New York,"October 5, 2013",2013,10,October,5,0.3,24.4,17.8,3,sun
+New York,"October 6, 2013",2013,10,October,6,0,20.6,18.3,4.4,sun
+New York,"October 7, 2013",2013,10,October,7,6.6,25.6,16.1,7.4,fog
+New York,"October 8, 2013",2013,10,October,8,0,20,12.8,5.1,sun
+New York,"October 9, 2013",2013,10,October,9,0,18.3,11.7,4.8,sun
+New York,"October 10, 2013",2013,10,October,10,0,18.9,13.3,7.1,sun
+New York,"October 11, 2013",2013,10,October,11,0,20.6,15.6,6.9,drizzle
+New York,"October 12, 2013",2013,10,October,12,0,23.9,15,6.7,sun
+New York,"October 13, 2013",2013,10,October,13,0,20,10.6,5.1,sun
+New York,"October 14, 2013",2013,10,October,14,0,18.9,9.4,2.5,sun
+New York,"October 15, 2013",2013,10,October,15,0,21.1,10,2.6,sun
+New York,"October 16, 2013",2013,10,October,16,0,19.4,12.2,2.4,sun
+New York,"October 17, 2013",2013,10,October,17,0.3,22.2,16.1,4.8,fog
+New York,"October 18, 2013",2013,10,October,18,0,21.1,13.3,6.7,sun
+New York,"October 19, 2013",2013,10,October,19,0,18.3,10,3.2,sun
+New York,"October 20, 2013",2013,10,October,20,0,17.8,10,5.4,sun
+New York,"October 21, 2013",2013,10,October,21,0,18.9,9.4,5.2,sun
+New York,"October 22, 2013",2013,10,October,22,0,20,10.6,5.2,sun
+New York,"October 23, 2013",2013,10,October,23,0,12.8,7.2,3.8,sun
+New York,"October 24, 2013",2013,10,October,24,0,13.3,5,6.7,sun
+New York,"October 25, 2013",2013,10,October,25,0,13.3,3.9,5.9,sun
+New York,"October 26, 2013",2013,10,October,26,0,13.3,4.4,6.4,sun
+New York,"October 27, 2013",2013,10,October,27,0,14.4,8.3,5.8,sun
+New York,"October 28, 2013",2013,10,October,28,0,15.6,4.4,4.1,sun
+New York,"October 29, 2013",2013,10,October,29,0,13.9,6.7,2.6,sun
+New York,"October 30, 2013",2013,10,October,30,0,16.1,6.7,2.2,sun
+New York,"October 31, 2013",2013,10,October,31,1.3,19.4,11.7,5.4,sun
+New York,"November 1, 2013",2013,11,November,1,1.8,20.6,14.4,7.3,fog
+New York,"November 2, 2013",2013,11,November,2,0,19.4,11.7,3.2,sun
+New York,"November 3, 2013",2013,11,November,3,0,13.3,3.3,6.5,sun
+New York,"November 4, 2013",2013,11,November,4,0,8.9,1.1,4.4,sun
+New York,"November 5, 2013",2013,11,November,5,0,13.3,3.3,2.9,sun
+New York,"November 6, 2013",2013,11,November,6,0,16.1,6.1,3.8,sun
+New York,"November 7, 2013",2013,11,November,7,3.3,17.8,6.7,6,fog
+New York,"November 8, 2013",2013,11,November,8,0,11.1,5,6.8,sun
+New York,"November 9, 2013",2013,11,November,9,0,10,3.9,5.1,sun
+New York,"November 10, 2013",2013,11,November,10,0,16.7,6.7,7.8,sun
+New York,"November 11, 2013",2013,11,November,11,0,12.2,6.1,6.1,sun
+New York,"November 12, 2013",2013,11,November,12,1.3,11.1,0,7.6,fog
+New York,"November 13, 2013",2013,11,November,13,0,5,-1.6,6.1,sun
+New York,"November 14, 2013",2013,11,November,14,0,11.7,1.1,6.8,sun
+New York,"November 15, 2013",2013,11,November,15,0,11.7,2.2,3.7,sun
+New York,"November 16, 2013",2013,11,November,16,2,13.3,6.1,2.2,fog
+New York,"November 17, 2013",2013,11,November,17,0.3,16.7,7.8,3.1,sun
+New York,"November 18, 2013",2013,11,November,18,4.1,19.4,11.1,7.3,sun
+New York,"November 19, 2013",2013,11,November,19,0,11.1,2.2,9.6,sun
+New York,"November 20, 2013",2013,11,November,20,0,7.8,-0.5,4.7,sun
+New York,"November 21, 2013",2013,11,November,21,0,11.1,-0.5,3.1,sun
+New York,"November 22, 2013",2013,11,November,22,1.8,13.9,9.4,3.7,fog
+New York,"November 23, 2013",2013,11,November,23,0,12.8,0,8.5,sun
+New York,"November 24, 2013",2013,11,November,24,0,0,-4.3,10.9,sun
+New York,"November 25, 2013",2013,11,November,25,0,2.2,-4.9,6.2,sun
+New York,"November 26, 2013",2013,11,November,26,14.2,11.7,1.1,4.1,sun
+New York,"November 27, 2013",2013,11,November,27,35.8,16.1,2.2,9.7,fog
+New York,"November 28, 2013",2013,11,November,28,0,2.8,-1,7,sun
+New York,"November 29, 2013",2013,11,November,29,0,5,-1,4,sun
+New York,"November 30, 2013",2013,11,November,30,0,6.7,-3.8,3.3,sun
+New York,"December 1, 2013",2013,12,December,1,0,9.4,2.8,3,drizzle
+New York,"December 2, 2013",2013,12,December,2,0,10.6,3.3,1.9,sun
+New York,"December 3, 2013",2013,12,December,3,0,12.2,3.3,2.7,fog
+New York,"December 4, 2013",2013,12,December,4,0,10.6,1.7,1.7,sun
+New York,"December 5, 2013",2013,12,December,5,0.3,13.3,8.3,3.2,sun
+New York,"December 6, 2013",2013,12,December,6,14.5,13.3,2.8,5,sun
+New York,"December 7, 2013",2013,12,December,7,4.3,6.1,0,5.7,fog
+New York,"December 8, 2013",2013,12,December,8,0.8,1.1,-2.1,4.1,sun
+New York,"December 9, 2013",2013,12,December,9,6.4,5.6,0,5.5,sun
+New York,"December 10, 2013",2013,12,December,10,7.1,3.3,-1,5.5,sun
+New York,"December 11, 2013",2013,12,December,11,0,0,-2.7,8.2,sun
+New York,"December 12, 2013",2013,12,December,12,0,-1,-4.9,7.2,sun
+New York,"December 13, 2013",2013,12,December,13,0,2.2,-4.3,6.8,sun
+New York,"December 14, 2013",2013,12,December,14,14.5,6.1,-3.8,6.6,sun
+New York,"December 15, 2013",2013,12,December,15,20.8,8.3,0.6,6.8,fog
+New York,"December 16, 2013",2013,12,December,16,0,1.7,-3.8,6.3,sun
+New York,"December 17, 2013",2013,12,December,17,3.3,1.1,-3.8,4.4,sun
+New York,"December 18, 2013",2013,12,December,18,0,3.3,-3.8,5.9,sun
+New York,"December 19, 2013",2013,12,December,19,0,7.2,-1.6,4.4,sun
+New York,"December 20, 2013",2013,12,December,20,0,10.6,2.2,2.6,sun
+New York,"December 21, 2013",2013,12,December,21,0,12.8,5.6,2.8,fog
+New York,"December 22, 2013",2013,12,December,22,0,17.8,10,5.9,sun
+New York,"December 23, 2013",2013,12,December,23,12.4,13.9,6.1,3.8,sun
+New York,"December 24, 2013",2013,12,December,24,0,6.1,-2.7,6.9,sun
+New York,"December 25, 2013",2013,12,December,25,0,0,-6.6,4.6,sun
+New York,"December 26, 2013",2013,12,December,26,0,3.3,-2.1,3.8,sun
+New York,"December 27, 2013",2013,12,December,27,0,5.6,-0.5,4.9,sun
+New York,"December 28, 2013",2013,12,December,28,0,11.7,-0.5,5.4,sun
+New York,"December 29, 2013",2013,12,December,29,30,9.4,3.3,4.5,fog
+New York,"December 30, 2013",2013,12,December,30,0,8.3,-4.3,6,sun
+New York,"December 31, 2013",2013,12,December,31,0,1.1,-6,5.3,sun
+New York,"January 1, 2014",2014,1,January,1,0,1.1,-4.3,4,sun
+New York,"January 2, 2014",2014,1,January,2,3.3,0.6,-7.1,8.1,sun
+New York,"January 3, 2014",2014,1,January,3,5.6,-7.1,-12.7,8.8,sun
+New York,"January 4, 2014",2014,1,January,4,0,-0.5,-16,3.2,sun
+New York,"January 5, 2014",2014,1,January,5,2.5,9.4,-4.9,3.1,sun
+New York,"January 6, 2014",2014,1,January,6,10.4,11.7,-6.6,9.4,sun
+New York,"January 7, 2014",2014,1,January,7,0,-6.6,-14.3,10.2,sun
+New York,"January 8, 2014",2014,1,January,8,0,-4.3,-12.1,5.7,sun
+New York,"January 9, 2014",2014,1,January,9,0,1.1,-5.5,3,sun
+New York,"January 10, 2014",2014,1,January,10,4.8,3.3,-4.3,1.7,sun
+New York,"January 11, 2014",2014,1,January,11,18.3,12.2,3.3,7.2,sun
+New York,"January 12, 2014",2014,1,January,12,0,11.1,0.6,6.7,sun
+New York,"January 13, 2014",2014,1,January,13,0,10,-1,5.4,sun
+New York,"January 14, 2014",2014,1,January,14,14,8.9,6.1,4,sun
+New York,"January 15, 2014",2014,1,January,15,0,6.7,0,2.2,sun
+New York,"January 16, 2014",2014,1,January,16,0,5.6,1.7,3.1,sun
+New York,"January 17, 2014",2014,1,January,17,0,7.2,-2.1,3.2,sun
+New York,"January 18, 2014",2014,1,January,18,6.1,5.6,-2.1,4.8,sun
+New York,"January 19, 2014",2014,1,January,19,0,3.3,-3.2,7.1,sun
+New York,"January 20, 2014",2014,1,January,20,0,8.9,0.6,6.7,sun
+New York,"January 21, 2014",2014,1,January,21,8.9,0.6,-10.5,7.1,sun
+New York,"January 22, 2014",2014,1,January,22,0.3,-7.7,-13.8,8.5,sun
+New York,"January 23, 2014",2014,1,January,23,0,-6,-13.2,6.2,sun
+New York,"January 24, 2014",2014,1,January,24,0,-6.6,-11.6,7.7,sun
+New York,"January 25, 2014",2014,1,January,25,1,-1,-6.6,9.3,sun
+New York,"January 26, 2014",2014,1,January,26,0,2.2,-7.7,7.5,sun
+New York,"January 27, 2014",2014,1,January,27,0,7.2,-5.5,6.4,sun
+New York,"January 28, 2014",2014,1,January,28,0,-5.5,-9.9,4.4,sun
+New York,"January 29, 2014",2014,1,January,29,1.3,-4.3,-8.8,6,sun
+New York,"January 30, 2014",2014,1,January,30,0,-2.1,-9.9,3.5,sun
+New York,"January 31, 2014",2014,1,January,31,0,6.1,-3.8,4.2,sun
+New York,"February 1, 2014",2014,2,February,1,0,6.1,-1,1.8,sun
+New York,"February 2, 2014",2014,2,February,2,0,11.1,-1,3.2,sun
+New York,"February 3, 2014",2014,2,February,3,27.4,6.7,-2.1,5.4,fog
+New York,"February 4, 2014",2014,2,February,4,0,1.7,-5.5,2.6,sun
+New York,"February 5, 2014",2014,2,February,5,30.5,1.7,-1,4.9,sun
+New York,"February 6, 2014",2014,2,February,6,0,0,-4.3,5.1,sun
+New York,"February 7, 2014",2014,2,February,7,0,0,-3.8,6,sun
+New York,"February 8, 2014",2014,2,February,8,0,-1.6,-6,3.8,sun
+New York,"February 9, 2014",2014,2,February,9,3.3,-1,-6.6,3.8,fog
+New York,"February 10, 2014",2014,2,February,10,0,-1.6,-6,6.8,sun
+New York,"February 11, 2014",2014,2,February,11,0,-3.8,-8.8,5.6,sun
+New York,"February 12, 2014",2014,2,February,12,0,-2.7,-11,3.6,sun
+New York,"February 13, 2014",2014,2,February,13,32.3,2.2,-3.2,9.4,sun
+New York,"February 14, 2014",2014,2,February,14,3.3,5,0,8.6,sun
+New York,"February 15, 2014",2014,2,February,15,2.8,2.8,-2.1,6.7,sun
+New York,"February 16, 2014",2014,2,February,16,0,-1,-5.5,7.5,sun
+New York,"February 17, 2014",2014,2,February,17,0,0,-7.1,4.6,sun
+New York,"February 18, 2014",2014,2,February,18,3.8,4.4,-3.2,4.1,sun
+New York,"February 19, 2014",2014,2,February,19,7.9,6.7,-2.7,3.7,fog
+New York,"February 20, 2014",2014,2,February,20,0.5,6.7,0.6,3.5,fog
+New York,"February 21, 2014",2014,2,February,21,3.6,8.3,1.7,4.6,sun
+New York,"February 22, 2014",2014,2,February,22,0,11.7,1.1,5.1,fog
+New York,"February 23, 2014",2014,2,February,23,0,12.8,1.7,3,sun
+New York,"February 24, 2014",2014,2,February,24,0.5,7.2,-2.1,8.1,sun
+New York,"February 25, 2014",2014,2,February,25,0,1.7,-3.2,5.7,sun
+New York,"February 26, 2014",2014,2,February,26,0.8,0.6,-6.6,5.2,sun
+New York,"February 27, 2014",2014,2,February,27,0,1.7,-9.3,6.7,sun
+New York,"February 28, 2014",2014,2,February,28,0,-3.2,-11.6,4.7,sun
+New York,"March 1, 2014",2014,3,March,1,0,2.2,-8.2,2.7,sun
+New York,"March 2, 2014",2014,3,March,2,0,6.1,-1,3.4,sun
+New York,"March 3, 2014",2014,3,March,3,1,1.7,-7.7,6.2,sun
+New York,"March 4, 2014",2014,3,March,4,0,-1.6,-10.5,3.5,sun
+New York,"March 5, 2014",2014,3,March,5,0,4.4,-3.8,3.4,sun
+New York,"March 6, 2014",2014,3,March,6,0,-0.5,-8.2,4.3,sun
+New York,"March 7, 2014",2014,3,March,7,0,2.2,-2.7,5.1,drizzle
+New York,"March 8, 2014",2014,3,March,8,0,15.6,0,5.1,sun
+New York,"March 9, 2014",2014,3,March,9,0,8.3,2.2,6.2,sun
+New York,"March 10, 2014",2014,3,March,10,0,10.6,1.7,4.7,sun
+New York,"March 11, 2014",2014,3,March,11,0,18.3,3.3,4.1,sun
+New York,"March 12, 2014",2014,3,March,12,3.8,13.9,1.1,6.6,fog
+New York,"March 13, 2014",2014,3,March,13,0,1.1,-7.1,12.6,sun
+New York,"March 14, 2014",2014,3,March,14,0,5.6,-5.5,6.7,sun
+New York,"March 15, 2014",2014,3,March,15,0.3,16.1,4.4,7.2,sun
+New York,"March 16, 2014",2014,3,March,16,0,6.1,-0.5,6.9,sun
+New York,"March 17, 2014",2014,3,March,17,0,1.1,-3.8,4.7,sun
+New York,"March 18, 2014",2014,3,March,18,0,6.1,-3.8,4.2,sun
+New York,"March 19, 2014",2014,3,March,19,18.3,7.8,-2.1,6.7,fog
+New York,"March 20, 2014",2014,3,March,20,0,13.3,5.6,7.7,fog
+New York,"March 21, 2014",2014,3,March,21,0,12.2,1.1,6.4,sun
+New York,"March 22, 2014",2014,3,March,22,0,18.3,1.7,6.1,sun
+New York,"March 23, 2014",2014,3,March,23,0,7.8,-2.1,6.9,sun
+New York,"March 24, 2014",2014,3,March,24,0,2.2,-5.5,5.4,sun
+New York,"March 25, 2014",2014,3,March,25,0,3.9,-4.9,3.8,sun
+New York,"March 26, 2014",2014,3,March,26,0,3.9,-3.8,11,sun
+New York,"March 27, 2014",2014,3,March,27,0,3.9,-4.9,6.2,sun
+New York,"March 28, 2014",2014,3,March,28,0,10.6,2.2,5.9,sun
+New York,"March 29, 2014",2014,3,March,29,66,11.1,5,4.8,fog
+New York,"March 30, 2014",2014,3,March,30,13.5,12.8,4.4,7.4,sun
+New York,"March 31, 2014",2014,3,March,31,5.3,13.3,1.1,8.8,fog
+New York,"April 1, 2014",2014,4,April,1,0,13.9,2.8,4.5,sun
+New York,"April 2, 2014",2014,4,April,2,0.8,8.9,3.3,1.7,sun
+New York,"April 3, 2014",2014,4,April,3,2,17.2,3.9,2.6,sun
+New York,"April 4, 2014",2014,4,April,4,2.5,7.2,5,6.2,sun
+New York,"April 5, 2014",2014,4,April,5,0,13.9,5,7.4,fog
+New York,"April 6, 2014",2014,4,April,6,0,13.9,2.8,4.7,sun
+New York,"April 7, 2014",2014,4,April,7,8.9,10.6,2.8,4.9,sun
+New York,"April 8, 2014",2014,4,April,8,6.4,18.9,8.3,6.1,sun
+New York,"April 9, 2014",2014,4,April,9,0,17.8,6.1,6.8,sun
+New York,"April 10, 2014",2014,4,April,10,0,11.7,3.3,7.3,sun
+New York,"April 11, 2014",2014,4,April,11,0,20.6,8.3,3.9,sun
+New York,"April 12, 2014",2014,4,April,12,0,20,9.4,4.9,sun
+New York,"April 13, 2014",2014,4,April,13,0,18.3,8.3,6.7,sun
+New York,"April 14, 2014",2014,4,April,14,0,18.9,10.6,10.1,fog
+New York,"April 15, 2014",2014,4,April,15,16.5,13.3,1.1,10.3,sun
+New York,"April 16, 2014",2014,4,April,16,2,9.4,0,7.3,sun
+New York,"April 17, 2014",2014,4,April,17,0,8.3,1.7,5.6,sun
+New York,"April 18, 2014",2014,4,April,18,0,7.8,2.2,3,sun
+New York,"April 19, 2014",2014,4,April,19,0,20,4.4,4.4,sun
+New York,"April 20, 2014",2014,4,April,20,0,12.2,5.6,5.1,sun
+New York,"April 21, 2014",2014,4,April,21,0,14.4,2.8,2.8,sun
+New York,"April 22, 2014",2014,4,April,22,0,16.7,7.2,3.8,sun
+New York,"April 23, 2014",2014,4,April,23,0,17.2,7.2,10.1,sun
+New York,"April 24, 2014",2014,4,April,24,0,17.8,6.1,9.5,sun
+New York,"April 25, 2014",2014,4,April,25,0,15,6.1,4.3,sun
+New York,"April 26, 2014",2014,4,April,26,18,19.4,7.8,4.7,fog
+New York,"April 27, 2014",2014,4,April,27,0,16.1,7.8,6.2,sun
+New York,"April 28, 2014",2014,4,April,28,0,18.9,7.2,4.6,sun
+New York,"April 29, 2014",2014,4,April,29,1.3,10.6,6.7,8.9,sun
+New York,"April 30, 2014",2014,4,April,30,118.9,13.3,5.6,8.5,fog
+New York,"May 1, 2014",2014,5,May,1,6.1,21.7,11.7,5.9,sun
+New York,"May 2, 2014",2014,5,May,2,0.3,20.6,11.1,5.1,sun
+New York,"May 3, 2014",2014,5,May,3,0,18.9,9.4,4.5,sun
+New York,"May 4, 2014",2014,5,May,4,0,18.9,11.7,8.3,sun
+New York,"May 5, 2014",2014,5,May,5,0,20.6,10,7.4,sun
+New York,"May 6, 2014",2014,5,May,6,0,20.6,10,4.7,sun
+New York,"May 7, 2014",2014,5,May,7,0,17.8,10,4.3,sun
+New York,"May 8, 2014",2014,5,May,8,9.7,14.4,10.6,2.2,fog
+New York,"May 9, 2014",2014,5,May,9,1,17.2,13.3,3.9,sun
+New York,"May 10, 2014",2014,5,May,10,20.1,25,12.2,4,sun
+New York,"May 11, 2014",2014,5,May,11,0.5,26.1,16.1,4.2,fog
+New York,"May 12, 2014",2014,5,May,12,0,24.4,13.3,3.8,sun
+New York,"May 13, 2014",2014,5,May,13,0,21.1,10.6,5.2,fog
+New York,"May 14, 2014",2014,5,May,14,0,17.8,10,3.4,fog
+New York,"May 15, 2014",2014,5,May,15,3.6,21.7,15.6,6.7,sun
+New York,"May 16, 2014",2014,5,May,16,32,18.9,15.6,9.2,fog
+New York,"May 17, 2014",2014,5,May,17,0,21.1,12.8,4.7,sun
+New York,"May 18, 2014",2014,5,May,18,0,20.6,11.1,4.6,sun
+New York,"May 19, 2014",2014,5,May,19,0,23.3,10,5,sun
+New York,"May 20, 2014",2014,5,May,20,0,26.1,12.8,4.8,sun
+New York,"May 21, 2014",2014,5,May,21,0,23.9,15.6,3.5,sun
+New York,"May 22, 2014",2014,5,May,22,8.1,16.7,14.4,3.1,sun
+New York,"May 23, 2014",2014,5,May,23,8.1,20.6,13.9,2.9,sun
+New York,"May 24, 2014",2014,5,May,24,1.3,21.1,13.9,3.7,fog
+New York,"May 25, 2014",2014,5,May,25,0,25.6,13.3,4.1,sun
+New York,"May 26, 2014",2014,5,May,26,0,29.4,15.6,5.6,sun
+New York,"May 27, 2014",2014,5,May,27,0,28.9,17.8,4.2,sun
+New York,"May 28, 2014",2014,5,May,28,0,19.4,11.7,5.1,sun
+New York,"May 29, 2014",2014,5,May,29,0,16.7,11.1,3.6,sun
+New York,"May 30, 2014",2014,5,May,30,0.8,21.1,11.7,3.3,sun
+New York,"May 31, 2014",2014,5,May,31,0,22.2,12.8,4.9,sun
+New York,"June 1, 2014",2014,6,June,1,0,23.9,12.2,3.7,sun
+New York,"June 2, 2014",2014,6,June,2,0,23.3,13.9,4.6,sun
+New York,"June 3, 2014",2014,6,June,3,0,26.7,16.7,3.4,sun
+New York,"June 4, 2014",2014,6,June,4,0,27.8,17.2,3.3,sun
+New York,"June 5, 2014",2014,6,June,5,12.7,25,16.7,5.5,fog
+New York,"June 6, 2014",2014,6,June,6,0,26.1,17.2,5.8,sun
+New York,"June 7, 2014",2014,6,June,7,0,26.7,16.1,3.7,sun
+New York,"June 8, 2014",2014,6,June,8,0,29.4,16.1,2.8,sun
+New York,"June 9, 2014",2014,6,June,9,24.1,20,17.2,2.7,sun
+New York,"June 10, 2014",2014,6,June,10,0,25.6,19.4,2.2,sun
+New York,"June 11, 2014",2014,6,June,11,0,21.1,16.1,5.4,fog
+New York,"June 12, 2014",2014,6,June,12,0.3,24.4,16.1,4.7,fog
+New York,"June 13, 2014",2014,6,June,13,25.1,27.2,19.4,3.4,sun
+New York,"June 14, 2014",2014,6,June,14,0,26.1,16.7,5.6,fog
+New York,"June 15, 2014",2014,6,June,15,0,27.8,15.6,5.2,sun
+New York,"June 16, 2014",2014,6,June,16,0,25,17.8,3.4,sun
+New York,"June 17, 2014",2014,6,June,17,0,27.8,20,3.6,sun
+New York,"June 18, 2014",2014,6,June,18,0,32.8,23.3,5.3,sun
+New York,"June 19, 2014",2014,6,June,19,1.3,24.4,20.6,3.7,sun
+New York,"June 20, 2014",2014,6,June,20,0,28.3,18.3,4.9,sun
+New York,"June 21, 2014",2014,6,June,21,0,23.9,16.7,3.7,drizzle
+New York,"June 22, 2014",2014,6,June,22,0,25,16.1,2.7,sun
+New York,"June 23, 2014",2014,6,June,23,0,27.2,16.7,3.8,sun
+New York,"June 24, 2014",2014,6,June,24,0,26.1,18.3,6.4,sun
+New York,"June 25, 2014",2014,6,June,25,2.3,28.3,20,5.6,fog
+New York,"June 26, 2014",2014,6,June,26,0.5,31.7,21.1,3.8,fog
+New York,"June 27, 2014",2014,6,June,27,0,26.1,18.3,3.5,sun
+New York,"June 28, 2014",2014,6,June,28,0,30,18.9,3.8,sun
+New York,"June 29, 2014",2014,6,June,29,0,26.1,18.3,4.1,sun
+New York,"June 30, 2014",2014,6,June,30,0,26.7,19.4,5.8,sun
+New York,"July 1, 2014",2014,7,July,1,0,28.9,21.7,6.7,sun
+New York,"July 2, 2014",2014,7,July,2,13.2,29.4,21.7,5.3,sun
+New York,"July 3, 2014",2014,7,July,3,8.9,29.4,21.7,3.9,sun
+New York,"July 4, 2014",2014,7,July,4,8.1,24.4,18.9,6.7,sun
+New York,"July 5, 2014",2014,7,July,5,0,28.9,18.3,6.1,sun
+New York,"July 6, 2014",2014,7,July,6,0,28.3,18.9,5.7,sun
+New York,"July 7, 2014",2014,7,July,7,0,28.3,21.1,5.5,sun
+New York,"July 8, 2014",2014,7,July,8,0,31.1,22.2,6.5,sun
+New York,"July 9, 2014",2014,7,July,9,0.3,28.9,21.7,5.2,rain
+New York,"July 10, 2014",2014,7,July,10,0.8,29.4,21.7,2.8,rain
+New York,"July 11, 2014",2014,7,July,11,0,29.4,19.4,3.2,sun
+New York,"July 12, 2014",2014,7,July,12,0,27.8,18.9,4.3,sun
+New York,"July 13, 2014",2014,7,July,13,1.5,26.7,20.6,7.2,sun
+New York,"July 14, 2014",2014,7,July,14,47.5,28.3,21.1,3,sun
+New York,"July 15, 2014",2014,7,July,15,26.2,27.8,20.6,3.1,sun
+New York,"July 16, 2014",2014,7,July,16,0.3,28.3,21.1,3.8,fog
+New York,"July 17, 2014",2014,7,July,17,0,27.8,19.4,4,sun
+New York,"July 18, 2014",2014,7,July,18,0,28.9,18.3,3,sun
+New York,"July 19, 2014",2014,7,July,19,0,26.1,20,3,sun
+New York,"July 20, 2014",2014,7,July,20,0,25.6,20,3.9,sun
+New York,"July 21, 2014",2014,7,July,21,0,28.3,18.3,3,sun
+New York,"July 22, 2014",2014,7,July,22,0,28.9,20,5.6,sun
+New York,"July 23, 2014",2014,7,July,23,0.5,28.3,21.7,6,rain
+New York,"July 24, 2014",2014,7,July,24,0,28.3,22.2,4.7,sun
+New York,"July 25, 2014",2014,7,July,25,0,28.3,19.4,4.5,sun
+New York,"July 26, 2014",2014,7,July,26,2.3,27.2,20.6,4.5,sun
+New York,"July 27, 2014",2014,7,July,27,0.3,28.9,21.7,5.3,rain
+New York,"July 28, 2014",2014,7,July,28,13,28.9,20.6,7.2,sun
+New York,"July 29, 2014",2014,7,July,29,0,26.1,17.8,4.7,sun
+New York,"July 30, 2014",2014,7,July,30,0,26.7,17.8,4.1,sun
+New York,"July 31, 2014",2014,7,July,31,0,27.8,18.3,5.3,sun
+New York,"August 1, 2014",2014,8,August,1,0,27.8,21.7,3.6,sun
+New York,"August 2, 2014",2014,8,August,2,10.2,24.4,18.3,3.7,fog
+New York,"August 3, 2014",2014,8,August,3,2.3,25.6,18.9,2.1,fog
+New York,"August 4, 2014",2014,8,August,4,0,27.2,21.1,4.4,sun
+New York,"August 5, 2014",2014,8,August,5,0,29.4,21.1,3.8,sun
+New York,"August 6, 2014",2014,8,August,6,0,29.4,21.7,4,sun
+New York,"August 7, 2014",2014,8,August,7,0,30,19.4,4.9,sun
+New York,"August 8, 2014",2014,8,August,8,0,28.9,18.3,2.9,sun
+New York,"August 9, 2014",2014,8,August,9,0,30,18.9,3.3,sun
+New York,"August 10, 2014",2014,8,August,10,0,30.6,20,3.2,sun
+New York,"August 11, 2014",2014,8,August,11,0,28.9,19.4,3.5,sun
+New York,"August 12, 2014",2014,8,August,12,8.6,26.7,22.2,6.8,fog
+New York,"August 13, 2014",2014,8,August,13,74.2,29.4,20,6.3,fog
+New York,"August 14, 2014",2014,8,August,14,0,26.7,18.3,5.7,sun
+New York,"August 15, 2014",2014,8,August,15,0,24.4,16.7,4.8,sun
+New York,"August 16, 2014",2014,8,August,16,0,25,17.2,4.6,sun
+New York,"August 17, 2014",2014,8,August,17,0,29.4,18.9,5.1,sun
+New York,"August 18, 2014",2014,8,August,18,0,27.8,17.2,3.6,sun
+New York,"August 19, 2014",2014,8,August,19,0,26.7,17.8,3.3,sun
+New York,"August 20, 2014",2014,8,August,20,0,26.7,18.9,2.4,sun
+New York,"August 21, 2014",2014,8,August,21,5.3,26.1,19.4,3.2,sun
+New York,"August 22, 2014",2014,8,August,22,3.3,25.6,19.4,3.5,fog
+New York,"August 23, 2014",2014,8,August,23,0,23.3,18.9,2.7,sun
+New York,"August 24, 2014",2014,8,August,24,0,27.2,16.7,2.9,sun
+New York,"August 25, 2014",2014,8,August,25,0,30.6,17.2,2.1,sun
+New York,"August 26, 2014",2014,8,August,26,0,27.8,19.4,3,fog
+New York,"August 27, 2014",2014,8,August,27,0,30,19.4,3.8,sun
+New York,"August 28, 2014",2014,8,August,28,0,28.9,20,5.9,sun
+New York,"August 29, 2014",2014,8,August,29,0,25.6,17.2,3.9,sun
+New York,"August 30, 2014",2014,8,August,30,0,25.6,17.2,4.3,sun
+New York,"August 31, 2014",2014,8,August,31,3.6,29.4,22.8,4.5,sun
+New York,"September 1, 2014",2014,9,September,1,0,30,23.3,3.9,sun
+New York,"September 2, 2014",2014,9,September,2,0,33.3,23.3,5,sun
+New York,"September 3, 2014",2014,9,September,3,0,31.1,22.2,4.2,sun
+New York,"September 4, 2014",2014,9,September,4,0,29.4,20,3.8,fog
+New York,"September 5, 2014",2014,9,September,5,0,29.4,21.7,4.3,sun
+New York,"September 6, 2014",2014,9,September,6,1,30,20,4.8,rain
+New York,"September 7, 2014",2014,9,September,7,0,27.8,18.9,3,sun
+New York,"September 8, 2014",2014,9,September,8,0,25.6,18.3,4.9,sun
+New York,"September 9, 2014",2014,9,September,9,0,23.9,17.8,5,sun
+New York,"September 10, 2014",2014,9,September,10,0,25.6,17.2,3.5,sun
+New York,"September 11, 2014",2014,9,September,11,0,29.4,20.6,5.8,sun
+New York,"September 12, 2014",2014,9,September,12,0,26.1,17.2,4.8,sun
+New York,"September 13, 2014",2014,9,September,13,7.4,21.1,15.6,4.9,fog
+New York,"September 14, 2014",2014,9,September,14,0,22.2,12.2,3.8,sun
+New York,"September 15, 2014",2014,9,September,15,0,21.7,12.8,3.6,sun
+New York,"September 16, 2014",2014,9,September,16,6.6,19.4,15.6,2.4,fog
+New York,"September 17, 2014",2014,9,September,17,0,22.8,12.8,2.8,sun
+New York,"September 18, 2014",2014,9,September,18,0,25.6,13.9,2.7,sun
+New York,"September 19, 2014",2014,9,September,19,0,19.4,13.3,4.9,sun
+New York,"September 20, 2014",2014,9,September,20,9.4,23.9,12.2,4.1,fog
+New York,"September 21, 2014",2014,9,September,21,5.3,25,19.4,2.3,fog
+New York,"September 22, 2014",2014,9,September,22,0,22.8,12.8,7.1,sun
+New York,"September 23, 2014",2014,9,September,23,0,20.6,10.6,2.9,sun
+New York,"September 24, 2014",2014,9,September,24,0,22.2,13.3,4.6,sun
+New York,"September 25, 2014",2014,9,September,25,5.8,17.8,15.6,6.5,fog
+New York,"September 26, 2014",2014,9,September,26,0,26.1,15,3.7,sun
+New York,"September 27, 2014",2014,9,September,27,0,28.9,16.7,3,sun
+New York,"September 28, 2014",2014,9,September,28,0,25.6,16.7,3.3,sun
+New York,"September 29, 2014",2014,9,September,29,0,25.6,17.8,2.4,sun
+New York,"September 30, 2014",2014,9,September,30,0.8,21.1,16.7,2.6,fog
+New York,"October 1, 2014",2014,10,October,1,0,19.4,16.7,5.1,sun
+New York,"October 2, 2014",2014,10,October,2,0,20,16.1,3.7,sun
+New York,"October 3, 2014",2014,10,October,3,0,20,12.8,3.2,sun
+New York,"October 4, 2014",2014,10,October,4,17.8,22.2,11.1,7.3,fog
+New York,"October 5, 2014",2014,10,October,5,0,16.1,8.3,5.8,sun
+New York,"October 6, 2014",2014,10,October,6,0,21.1,7.2,6.2,sun
+New York,"October 7, 2014",2014,10,October,7,0.5,23.3,18.3,7.6,sun
+New York,"October 8, 2014",2014,10,October,8,0.5,23.9,16.7,7.7,sun
+New York,"October 9, 2014",2014,10,October,9,0,20.6,13.3,6.3,sun
+New York,"October 10, 2014",2014,10,October,10,0,17.8,11.1,2.5,sun
+New York,"October 11, 2014",2014,10,October,11,11.4,15,10,3.7,fog
+New York,"October 12, 2014",2014,10,October,12,0,18.3,7.8,2.9,sun
+New York,"October 13, 2014",2014,10,October,13,2,18.9,7.8,2.6,drizzle
+New York,"October 14, 2014",2014,10,October,14,0,23.9,17.8,6,sun
+New York,"October 15, 2014",2014,10,October,15,0.3,24.4,20,7.5,fog
+New York,"October 16, 2014",2014,10,October,16,19.8,21.7,15.6,5.7,fog
+New York,"October 17, 2014",2014,10,October,17,0,22.2,15.6,5.8,sun
+New York,"October 18, 2014",2014,10,October,18,0,22.2,13.9,5.7,sun
+New York,"October 19, 2014",2014,10,October,19,0,14.4,6.7,7.7,sun
+New York,"October 20, 2014",2014,10,October,20,0,16.1,5.6,4.5,sun
+New York,"October 21, 2014",2014,10,October,21,1.3,19.4,11.7,2.9,sun
+New York,"October 22, 2014",2014,10,October,22,36.1,14.4,11.1,8.1,rain
+New York,"October 23, 2014",2014,10,October,23,3,12.2,10.6,9.2,fog
+New York,"October 24, 2014",2014,10,October,24,0,17.2,10.6,4.9,sun
+New York,"October 25, 2014",2014,10,October,25,0,20,10,5.3,sun
+New York,"October 26, 2014",2014,10,October,26,0,18.3,12.2,7.7,sun
+New York,"October 27, 2014",2014,10,October,27,0,17.8,10,5,sun
+New York,"October 28, 2014",2014,10,October,28,0,21.1,8.9,3.2,sun
+New York,"October 29, 2014",2014,10,October,29,0.8,23.3,11.1,4.3,sun
+New York,"October 30, 2014",2014,10,October,30,0,16.1,7.8,4.1,fog
+New York,"October 31, 2014",2014,10,October,31,0.3,12.8,7.8,4.5,sun
+New York,"November 1, 2014",2014,11,November,1,26.2,9.4,6.1,8.2,sun
+New York,"November 2, 2014",2014,11,November,2,0,10,5,11.7,sun
+New York,"November 3, 2014",2014,11,November,3,0,16.1,4.4,6.7,sun
+New York,"November 4, 2014",2014,11,November,4,0,19.4,10,4.5,sun
+New York,"November 5, 2014",2014,11,November,5,0,18.3,11.1,4.3,sun
+New York,"November 6, 2014",2014,11,November,6,10.9,12.2,9.4,2.8,fog
+New York,"November 7, 2014",2014,11,November,7,0,12.2,5,8.1,sun
+New York,"November 8, 2014",2014,11,November,8,0,8.9,2.2,5.3,sun
+New York,"November 9, 2014",2014,11,November,9,0,13.9,6.7,3.7,sun
+New York,"November 10, 2014",2014,11,November,10,0,15,3.3,1.9,sun
+New York,"November 11, 2014",2014,11,November,11,0,17.8,5.6,2.4,fog
+New York,"November 12, 2014",2014,11,November,12,0,18.9,7.2,3.2,drizzle
+New York,"November 13, 2014",2014,11,November,13,2.8,9.4,3.3,3.7,sun
+New York,"November 14, 2014",2014,11,November,14,1.8,6.7,2.8,6.4,sun
+New York,"November 15, 2014",2014,11,November,15,0,6.1,-1,4.1,sun
+New York,"November 16, 2014",2014,11,November,16,0,7.2,-0.5,3.3,sun
+New York,"November 17, 2014",2014,11,November,17,34.8,12.8,4.4,3.9,fog
+New York,"November 18, 2014",2014,11,November,18,0,7.8,-3.8,10.6,sun
+New York,"November 19, 2014",2014,11,November,19,0,2.8,-4.9,7.2,sun
+New York,"November 20, 2014",2014,11,November,20,0,8.9,0,7.4,sun
+New York,"November 21, 2014",2014,11,November,21,0,3.3,-2.1,6.9,sun
+New York,"November 22, 2014",2014,11,November,22,0,6.7,-3.2,6.1,sun
+New York,"November 23, 2014",2014,11,November,23,0,12.8,6.1,4.3,sun
+New York,"November 24, 2014",2014,11,November,24,11.4,17.8,12.8,8.8,fog
+New York,"November 25, 2014",2014,11,November,25,0,16.7,8.9,4.9,fog
+New York,"November 26, 2014",2014,11,November,26,25.4,11.1,2.2,7,snow
+New York,"November 27, 2014",2014,11,November,27,0.5,3.9,2.2,4.9,fog
+New York,"November 28, 2014",2014,11,November,28,0,5,-2.1,6,sun
+New York,"November 29, 2014",2014,11,November,29,0,7.8,-3.2,2.8,sun
+New York,"November 30, 2014",2014,11,November,30,0,11.7,7.2,4.6,sun
+New York,"December 1, 2014",2014,12,December,1,1.8,16.7,5.6,4.2,sun
+New York,"December 2, 2014",2014,12,December,2,2.3,8.3,2.2,6.1,fog
+New York,"December 3, 2014",2014,12,December,3,3.8,8.9,5.6,5.1,fog
+New York,"December 4, 2014",2014,12,December,4,0,8.3,2.2,4.5,sun
+New York,"December 5, 2014",2014,12,December,5,14,10,1.7,4.5,fog
+New York,"December 6, 2014",2014,12,December,6,31.5,11.1,5,3.3,fog
+New York,"December 7, 2014",2014,12,December,7,1.3,6.7,-0.5,9.7,sun
+New York,"December 8, 2014",2014,12,December,8,0,2.8,-3.2,6.9,sun
+New York,"December 9, 2014",2014,12,December,9,77.2,8.9,2.8,9.8,fog
+New York,"December 10, 2014",2014,12,December,10,2.8,5.6,1.1,7.3,drizzle
+New York,"December 11, 2014",2014,12,December,11,0,4.4,0,7.5,sun
+New York,"December 12, 2014",2014,12,December,12,0,5,0.6,7,sun
+New York,"December 13, 2014",2014,12,December,13,0,8.3,1.1,7.3,sun
+New York,"December 14, 2014",2014,12,December,14,0,8.3,2.8,5.3,sun
+New York,"December 15, 2014",2014,12,December,15,0,8.9,1.1,2.2,sun
+New York,"December 16, 2014",2014,12,December,16,7.6,10,0.6,1.8,fog
+New York,"December 17, 2014",2014,12,December,17,0.8,12.8,6.1,5.7,fog
+New York,"December 18, 2014",2014,12,December,18,0,6.7,3.3,7.2,sun
+New York,"December 19, 2014",2014,12,December,19,0,4.4,0,6.5,sun
+New York,"December 20, 2014",2014,12,December,20,0,1.1,-0.5,2.9,sun
+New York,"December 21, 2014",2014,12,December,21,0,3.3,0.6,3.2,sun
+New York,"December 22, 2014",2014,12,December,22,1,8.9,2.8,3.8,fog
+New York,"December 23, 2014",2014,12,December,23,5.3,10,8.3,5.1,fog
+New York,"December 24, 2014",2014,12,December,24,26.7,13.9,8.3,4.7,fog
+New York,"December 25, 2014",2014,12,December,25,1.5,13.9,5.6,7.6,fog
+New York,"December 26, 2014",2014,12,December,26,0,10.6,3.3,4.7,sun
+New York,"December 27, 2014",2014,12,December,27,0,12.2,2.8,2.8,sun
+New York,"December 28, 2014",2014,12,December,28,1.3,12.2,5.6,4.7,sun
+New York,"December 29, 2014",2014,12,December,29,0,7.8,1.7,4.9,sun
+New York,"December 30, 2014",2014,12,December,30,0,2.2,-2.1,4.2,sun
+New York,"December 31, 2014",2014,12,December,31,0,1.1,-2.1,5.3,sun
+New York,"January 1, 2015",2015,1,January,1,0,4.4,-2.1,7.7,sun
+New York,"January 2, 2015",2015,1,January,2,0,7.2,1.7,6.1,sun
+New York,"January 3, 2015",2015,1,January,3,23.9,8.3,-1,4.1,fog
+New York,"January 4, 2015",2015,1,January,4,11.9,12.8,6.1,4.5,fog
+New York,"January 5, 2015",2015,1,January,5,0,10.6,-4.9,8.8,sun
+New York,"January 6, 2015",2015,1,January,6,1.8,-4.9,-7.1,3.8,fog
+New York,"January 7, 2015",2015,1,January,7,0,-3.8,-12.1,9.6,sun
+New York,"January 8, 2015",2015,1,January,8,0,-5.5,-13.2,7.7,sun
+New York,"January 9, 2015",2015,1,January,9,1.8,1.1,-6,8.8,fog
+New York,"January 10, 2015",2015,1,January,10,0,-4.3,-7.7,7.4,sun
+New York,"January 11, 2015",2015,1,January,11,0,3.3,-6.6,4.9,sun
+New York,"January 12, 2015",2015,1,January,12,17.8,4.4,1.1,2.7,fog
+New York,"January 13, 2015",2015,1,January,13,0,2.8,-7.1,6.8,sun
+New York,"January 14, 2015",2015,1,January,14,0,0.6,-7.1,5.2,sun
+New York,"January 15, 2015",2015,1,January,15,0,1.7,-2.7,4.4,sun
+New York,"January 16, 2015",2015,1,January,16,0,7.2,-6.6,8.2,sun
+New York,"January 17, 2015",2015,1,January,17,0,0,-7.7,4.7,sun
+New York,"January 18, 2015",2015,1,January,18,41.1,8.3,-2.7,2.8,fog
+New York,"January 19, 2015",2015,1,January,19,0,7.2,1.7,6.8,sun
+New York,"January 20, 2015",2015,1,January,20,0,5,0,5.4,sun
+New York,"January 21, 2015",2015,1,January,21,0,3.3,-3.2,2.7,sun
+New York,"January 22, 2015",2015,1,January,22,0,5,-0.5,3.6,sun
+New York,"January 23, 2015",2015,1,January,23,0,3.9,-2.1,4.7,sun
+New York,"January 24, 2015",2015,1,January,24,19.1,4.4,0.6,5.1,fog
+New York,"January 25, 2015",2015,1,January,25,0,7.2,0,6.7,sun
+New York,"January 26, 2015",2015,1,January,26,8.4,0,-4.3,8.2,fog
+New York,"January 27, 2015",2015,1,January,27,7.9,-2.7,-6.6,8.5,sun
+New York,"January 28, 2015",2015,1,January,28,0,0.6,-8.2,6.2,sun
+New York,"January 29, 2015",2015,1,January,29,0.3,2.8,-8.2,3.7,sun
+New York,"January 30, 2015",2015,1,January,30,1,3.3,-7.1,8.4,fog
+New York,"January 31, 2015",2015,1,January,31,0,-2.7,-9.9,10.3,sun
+New York,"February 1, 2015",2015,2,February,1,0.8,2.2,-6,3.9,fog
+New York,"February 2, 2015",2015,2,February,2,30,1.7,-9.3,8.5,snow
+New York,"February 3, 2015",2015,2,February,3,0,-3.2,-9.9,6.4,sun
+New York,"February 4, 2015",2015,2,February,4,0,3.9,-5.5,6.1,sun
+New York,"February 5, 2015",2015,2,February,5,0,3.9,-9.3,8.8,sun
+New York,"February 6, 2015",2015,2,February,6,0,-2.7,-10.5,6.3,sun
+New York,"February 7, 2015",2015,2,February,7,0,2.8,-3.8,3.7,sun
+New York,"February 8, 2015",2015,2,February,8,0,5.6,-1.6,3.9,drizzle
+New York,"February 9, 2015",2015,2,February,9,3.6,-1.6,-3.2,7.7,snow
+New York,"February 10, 2015",2015,2,February,10,0,4.4,-3.2,6.9,sun
+New York,"February 11, 2015",2015,2,February,11,0,1.7,-4.9,4.5,sun
+New York,"February 12, 2015",2015,2,February,12,0,4.4,-7.7,5.9,sun
+New York,"February 13, 2015",2015,2,February,13,0,-4.9,-12.7,8.4,sun
+New York,"February 14, 2015",2015,2,February,14,0.3,1.7,-8.8,4.7,sun
+New York,"February 15, 2015",2015,2,February,15,0.3,-2.7,-14.9,12.4,sun
+New York,"February 16, 2015",2015,2,February,16,0,-4.9,-14.9,6.6,sun
+New York,"February 17, 2015",2015,2,February,17,4.8,-2.7,-8.8,3.1,sun
+New York,"February 18, 2015",2015,2,February,18,0,-0.5,-9.3,2.6,sun
+New York,"February 19, 2015",2015,2,February,19,0,-2.7,-12.7,9.5,sun
+New York,"February 20, 2015",2015,2,February,20,0,-6,-16,8.4,sun
+New York,"February 21, 2015",2015,2,February,21,15,0.6,-11.6,4.4,fog
+New York,"February 22, 2015",2015,2,February,22,5.1,6.1,0,1.8,fog
+New York,"February 23, 2015",2015,2,February,23,0,3.3,-12.7,8.5,sun
+New York,"February 24, 2015",2015,2,February,24,0,-2.1,-13.8,4.2,sun
+New York,"February 25, 2015",2015,2,February,25,0,2.8,-7.1,4.8,sun
+New York,"February 26, 2015",2015,2,February,26,0,0,-4.9,5.7,sun
+New York,"February 27, 2015",2015,2,February,27,0,0,-6.6,4.6,sun
+New York,"February 28, 2015",2015,2,February,28,0,-0.5,-9.3,3.7,sun
+New York,"March 1, 2015",2015,3,March,1,13,0.6,-6.6,2.1,snow
+New York,"March 2, 2015",2015,3,March,2,0,3.9,-2.1,6.8,drizzle
+New York,"March 3, 2015",2015,3,March,3,17.8,2.2,-7.1,4,snow
+New York,"March 4, 2015",2015,3,March,4,7.6,5,0.6,4.9,fog
+New York,"March 5, 2015",2015,3,March,5,18.5,5,-6,5.9,snow
+New York,"March 6, 2015",2015,3,March,6,0,-3.8,-10.5,4.3,drizzle
+New York,"March 7, 2015",2015,3,March,7,0,2.8,-8.8,5.3,sun
+New York,"March 8, 2015",2015,3,March,8,0,8.9,-1,4.4,sun
+New York,"March 9, 2015",2015,3,March,9,0.5,12.2,0,3.8,sun
+New York,"March 10, 2015",2015,3,March,10,12.4,10,1.1,1.4,fog
+New York,"March 11, 2015",2015,3,March,11,0.5,16.7,4.4,5.2,fog
+New York,"March 12, 2015",2015,3,March,12,0,10,2.2,8.8,sun
+New York,"March 13, 2015",2015,3,March,13,0,5,-1,3.6,sun
+New York,"March 14, 2015",2015,3,March,14,28.2,9.4,3.9,4,fog
+New York,"March 15, 2015",2015,3,March,15,0,7.8,2.8,9,sun
+New York,"March 16, 2015",2015,3,March,16,0,10,2.2,3.9,sun
+New York,"March 17, 2015",2015,3,March,17,0.5,15.6,1.1,8.2,sun
+New York,"March 18, 2015",2015,3,March,18,0,5,-1,8.4,sun
+New York,"March 19, 2015",2015,3,March,19,0,6.7,-1,5.3,sun
+New York,"March 20, 2015",2015,3,March,20,8.4,4.4,-0.5,4.6,fog
+New York,"March 21, 2015",2015,3,March,21,0.5,8.9,-1,4.1,fog
+New York,"March 22, 2015",2015,3,March,22,0,7.2,-2.1,7.7,sun
+New York,"March 23, 2015",2015,3,March,23,0,5,-4.3,6.9,sun
+New York,"March 24, 2015",2015,3,March,24,0,6.1,-3.2,3.8,sun
+New York,"March 25, 2015",2015,3,March,25,3,7.8,-1,2.5,fog
+New York,"March 26, 2015",2015,3,March,26,6.4,12.2,5,4.2,fog
+New York,"March 27, 2015",2015,3,March,27,5.8,8.3,5,4.9,sun
+New York,"March 28, 2015",2015,3,March,28,0,5.6,-2.1,7.8,sun
+New York,"March 29, 2015",2015,3,March,29,0,7.8,-2.7,6.1,sun
+New York,"March 30, 2015",2015,3,March,30,0,14.4,2.2,6.7,sun
+New York,"March 31, 2015",2015,3,March,31,0.8,8.9,2.8,5.3,sun
+New York,"April 1, 2015",2015,4,April,1,0,11.7,1.1,5.1,sun
+New York,"April 2, 2015",2015,4,April,2,0,13.9,0.6,6.4,sun
+New York,"April 3, 2015",2015,4,April,3,2.8,15,7.8,3.4,fog
+New York,"April 4, 2015",2015,4,April,4,0,13.3,6.7,9.3,fog
+New York,"April 5, 2015",2015,4,April,5,0,18.3,3.3,5.8,sun
+New York,"April 6, 2015",2015,4,April,6,0,15.6,3.9,4.7,sun
+New York,"April 7, 2015",2015,4,April,7,0.8,13.9,6.7,3.8,sun
+New York,"April 8, 2015",2015,4,April,8,0.3,9.4,2.2,6.5,drizzle
+New York,"April 9, 2015",2015,4,April,9,0,6.7,3.3,5.1,fog
+New York,"April 10, 2015",2015,4,April,10,4.8,14.4,4.4,3.7,drizzle
+New York,"April 11, 2015",2015,4,April,11,0,16.1,7.2,7.5,sun
+New York,"April 12, 2015",2015,4,April,12,0,16.1,6.1,4,sun
+New York,"April 13, 2015",2015,4,April,13,0,16.7,6.1,6.4,sun
+New York,"April 14, 2015",2015,4,April,14,1,18.9,10,2.6,sun
+New York,"April 15, 2015",2015,4,April,15,0,22.2,10,5.4,sun
+New York,"April 16, 2015",2015,4,April,16,0,15.6,8.9,4.9,sun
+New York,"April 17, 2015",2015,4,April,17,2.8,20.6,11.1,4.4,fog
+New York,"April 18, 2015",2015,4,April,18,0,22.8,10.6,4.1,sun
+New York,"April 19, 2015",2015,4,April,19,0,16.7,8.3,5.4,sun
+New York,"April 20, 2015",2015,4,April,20,22.1,14.4,8.3,7,rain
+New York,"April 21, 2015",2015,4,April,21,1.5,19.4,10,5.4,rain
+New York,"April 22, 2015",2015,4,April,22,4.8,17.2,7.8,6.2,rain
+New York,"April 23, 2015",2015,4,April,23,0,12.2,5.6,8.4,sun
+New York,"April 24, 2015",2015,4,April,24,0,11.1,3.9,9.7,sun
+New York,"April 25, 2015",2015,4,April,25,0,15,3.9,4.8,sun
+New York,"April 26, 2015",2015,4,April,26,0,15,6.1,4.7,sun
+New York,"April 27, 2015",2015,4,April,27,0,17.2,9.4,6.6,sun
+New York,"April 28, 2015",2015,4,April,28,0,21.7,10.6,6.1,sun
+New York,"April 29, 2015",2015,4,April,29,0,25,10,5.3,sun
+New York,"April 30, 2015",2015,4,April,30,0,17.2,8.9,5.6,sun
+New York,"May 1, 2015",2015,5,May,1,0,13.3,8.3,3.6,sun
+New York,"May 2, 2015",2015,5,May,2,0,16.1,6.1,3.1,sun
+New York,"May 3, 2015",2015,5,May,3,0,19.4,7.8,3.4,sun
+New York,"May 4, 2015",2015,5,May,4,0,23.3,10,4.5,sun
+New York,"May 5, 2015",2015,5,May,5,0,27.8,12.8,2.4,sun
+New York,"May 6, 2015",2015,5,May,6,0,21.1,12.2,3.4,sun
+New York,"May 7, 2015",2015,5,May,7,0,22.2,10.6,2.8,drizzle
+New York,"May 8, 2015",2015,5,May,8,0,22.2,11.7,2.6,fog
+New York,"May 9, 2015",2015,5,May,9,0.5,17.8,14.4,2.8,drizzle
+New York,"May 10, 2015",2015,5,May,10,0,23.3,14.4,4.3,drizzle
+New York,"May 11, 2015",2015,5,May,11,0,25,16.7,4.2,fog
+New York,"May 12, 2015",2015,5,May,12,0.3,30.6,18.3,5.7,drizzle
+New York,"May 13, 2015",2015,5,May,13,0,22.8,12.8,7.4,sun
+New York,"May 14, 2015",2015,5,May,14,0,21.7,10.6,5.2,sun
+New York,"May 15, 2015",2015,5,May,15,0,21.7,11.7,5.1,sun
+New York,"May 16, 2015",2015,5,May,16,10.4,21.1,14.4,2.3,rain
+New York,"May 17, 2015",2015,5,May,17,0,27.2,16.1,2.9,drizzle
+New York,"May 18, 2015",2015,5,May,18,0,20,13.9,4.3,drizzle
+New York,"May 19, 2015",2015,5,May,19,0,23.9,13.9,2.5,drizzle
+New York,"May 20, 2015",2015,5,May,20,0,20.6,12.2,7.1,sun
+New York,"May 21, 2015",2015,5,May,21,0,16.7,11.1,2.8,sun
+New York,"May 22, 2015",2015,5,May,22,0,26.1,12.2,6.1,sun
+New York,"May 23, 2015",2015,5,May,23,0,20,10.6,6.6,sun
+New York,"May 24, 2015",2015,5,May,24,0,23.3,11.7,6.3,sun
+New York,"May 25, 2015",2015,5,May,25,0,25,13.9,5.7,sun
+New York,"May 26, 2015",2015,5,May,26,0,24.4,15.6,5.7,sun
+New York,"May 27, 2015",2015,5,May,27,0,23.3,16.1,6.3,sun
+New York,"May 28, 2015",2015,5,May,28,0,25.6,15.6,3.4,drizzle
+New York,"May 29, 2015",2015,5,May,29,0,26.7,17.2,3.3,sun
+New York,"May 30, 2015",2015,5,May,30,0,25.6,16.7,6.2,drizzle
+New York,"May 31, 2015",2015,5,May,31,0.5,26.1,17.2,4.6,rain
+New York,"June 1, 2015",2015,6,June,1,19.8,17.2,11.1,5.4,drizzle
+New York,"June 2, 2015",2015,6,June,2,8.6,13.3,10.6,4.5,fog
+New York,"June 3, 2015",2015,6,June,3,0,20,11.7,3.9,sun
+New York,"June 4, 2015",2015,6,June,4,0,19.4,12.8,5.1,sun
+New York,"June 5, 2015",2015,6,June,5,0,20.6,13.9,2.4,sun
+New York,"June 6, 2015",2015,6,June,6,5.1,26.1,15,4,fog
+New York,"June 7, 2015",2015,6,June,7,0,21.7,13.3,4,sun
+New York,"June 8, 2015",2015,6,June,8,0.5,22.8,16.1,8.1,sun
+New York,"June 9, 2015",2015,6,June,9,0,29.4,17.8,6.1,fog
+New York,"June 10, 2015",2015,6,June,10,0,26.1,18.3,4.9,sun
+New York,"June 11, 2015",2015,6,June,11,0,30.6,18.9,4.3,drizzle
+New York,"June 12, 2015",2015,6,June,12,0,29.4,21.7,4.6,sun
+New York,"June 13, 2015",2015,6,June,13,0,31.1,19.4,4.8,sun
+New York,"June 14, 2015",2015,6,June,14,7.9,30,18.9,3.6,sun
+New York,"June 15, 2015",2015,6,June,15,27.7,27.2,18.9,3.7,rain
+New York,"June 16, 2015",2015,6,June,16,2,26.1,18.9,3,drizzle
+New York,"June 17, 2015",2015,6,June,17,0,27.2,18.9,4.3,sun
+New York,"June 18, 2015",2015,6,June,18,0,21.7,18.3,3.6,sun
+New York,"June 19, 2015",2015,6,June,19,0,31.7,19.4,3,sun
+New York,"June 20, 2015",2015,6,June,20,8.1,23.9,19.4,4.7,drizzle
+New York,"June 21, 2015",2015,6,June,21,13,32.2,21.7,5.8,drizzle
+New York,"June 22, 2015",2015,6,June,22,0,31.7,23.3,5.1,sun
+New York,"June 23, 2015",2015,6,June,23,0.5,31.7,22.2,4.9,rain
+New York,"June 24, 2015",2015,6,June,24,0,30,20.6,4.9,sun
+New York,"June 25, 2015",2015,6,June,25,0,27.8,19.4,4.1,sun
+New York,"June 26, 2015",2015,6,June,26,0,27.2,20.6,3,sun
+New York,"June 27, 2015",2015,6,June,27,25.9,21.7,16.7,5.3,fog
+New York,"June 28, 2015",2015,6,June,28,7.6,24.4,17.8,4.6,fog
+New York,"June 29, 2015",2015,6,June,29,0,26.1,17.8,5.6,sun
+New York,"June 30, 2015",2015,6,June,30,0,27.2,18.9,5.4,sun
+New York,"July 1, 2015",2015,7,July,1,6.6,29.4,21.7,6.1,rain
+New York,"July 2, 2015",2015,7,July,2,0.8,26.7,20.6,2.4,sun
+New York,"July 3, 2015",2015,7,July,3,0,27.8,18.3,3.8,sun
+New York,"July 4, 2015",2015,7,July,4,0.3,26.7,19.4,2.6,sun
+New York,"July 5, 2015",2015,7,July,5,0,27.2,19.4,4.4,sun
+New York,"July 6, 2015",2015,7,July,6,0,28.3,20.6,3.5,sun
+New York,"July 7, 2015",2015,7,July,7,0,28.9,23.3,5.2,drizzle
+New York,"July 8, 2015",2015,7,July,8,13.5,31.7,23.3,3.3,drizzle
+New York,"July 9, 2015",2015,7,July,9,8.1,25,22.2,3.8,rain
+New York,"July 10, 2015",2015,7,July,10,0,30,22.8,4.7,sun
+New York,"July 11, 2015",2015,7,July,11,0,30,21.1,3.3,sun
+New York,"July 12, 2015",2015,7,July,12,0,30,21.7,3.6,sun
+New York,"July 13, 2015",2015,7,July,13,0,28.9,22.2,3.2,sun
+New York,"July 14, 2015",2015,7,July,14,3.3,26.7,22.8,2.6,fog
+New York,"July 15, 2015",2015,7,July,15,1,27.8,22.8,3.8,rain
+New York,"July 16, 2015",2015,7,July,16,0,26.1,18.9,4.6,sun
+New York,"July 17, 2015",2015,7,July,17,0,26.7,19.4,5.4,sun
+New York,"July 18, 2015",2015,7,July,18,0.5,28.3,22.8,5.1,rain
+New York,"July 19, 2015",2015,7,July,19,0,31.7,23.9,4.3,fog
+New York,"July 20, 2015",2015,7,July,20,0,35,26.1,4.7,sun
+New York,"July 21, 2015",2015,7,July,21,0,31.7,24.4,4.3,sun
+New York,"July 22, 2015",2015,7,July,22,0,31.7,22.2,6,sun
+New York,"July 23, 2015",2015,7,July,23,0,31.1,21.1,4.4,sun
+New York,"July 24, 2015",2015,7,July,24,0,30.6,20,3.6,sun
+New York,"July 25, 2015",2015,7,July,25,0,28.9,21.1,3.9,sun
+New York,"July 26, 2015",2015,7,July,26,0,30.6,21.7,6,sun
+New York,"July 27, 2015",2015,7,July,27,0,29.4,23.9,4.1,sun
+New York,"July 28, 2015",2015,7,July,28,0,31.7,22.8,3.9,sun
+New York,"July 29, 2015",2015,7,July,29,0,35,23.3,4.5,drizzle
+New York,"July 30, 2015",2015,7,July,30,24.6,29.4,24.4,5.1,rain
+New York,"July 31, 2015",2015,7,July,31,0,33.9,22.8,3.6,sun
+New York,"August 1, 2015",2015,8,August,1,0,32.8,23.3,5.6,sun
+New York,"August 2, 2015",2015,8,August,2,0,30.6,21.1,3.6,sun
+New York,"August 3, 2015",2015,8,August,3,0,31.7,21.7,5.9,sun
+New York,"August 4, 2015",2015,8,August,4,0.3,33.3,21.1,5.2,rain
+New York,"August 5, 2015",2015,8,August,5,0,32.8,21.7,4.7,sun
+New York,"August 6, 2015",2015,8,August,6,0,30,20.6,3,sun
+New York,"August 7, 2015",2015,8,August,7,0,30,20.6,3.6,sun
+New York,"August 8, 2015",2015,8,August,8,0,28.3,19.4,3,sun
+New York,"August 9, 2015",2015,8,August,9,0,30.6,18.9,3.9,sun
+New York,"August 10, 2015",2015,8,August,10,0,27.2,20,4.3,sun
+New York,"August 11, 2015",2015,8,August,11,28.7,27.2,22.2,6,drizzle
+New York,"August 12, 2015",2015,8,August,12,0,31.1,22.8,5,sun
+New York,"August 13, 2015",2015,8,August,13,0,30.6,20.6,3.4,sun
+New York,"August 14, 2015",2015,8,August,14,0,30,18.9,3.7,sun
+New York,"August 15, 2015",2015,8,August,15,0,31.1,21.1,4.6,sun
+New York,"August 16, 2015",2015,8,August,16,0,32.2,23.3,3.2,rain
+New York,"August 17, 2015",2015,8,August,17,0,32.8,23.3,4.1,sun
+New York,"August 18, 2015",2015,8,August,18,0,30,23.9,5.5,sun
+New York,"August 19, 2015",2015,8,August,19,0,30,24.4,4.7,sun
+New York,"August 20, 2015",2015,8,August,20,0,30.6,25,5.9,sun
+New York,"August 21, 2015",2015,8,August,21,63,30.6,22.8,3.8,rain
+New York,"August 22, 2015",2015,8,August,22,0,30,21.1,3.9,sun
+New York,"August 23, 2015",2015,8,August,23,0,28.3,20.6,2.3,sun
+New York,"August 24, 2015",2015,8,August,24,0,28.9,21.7,3.4,sun
+New York,"August 25, 2015",2015,8,August,25,0.3,29.4,23.9,5,sun
+New York,"August 26, 2015",2015,8,August,26,0,28.9,20,4.5,sun
+New York,"August 27, 2015",2015,8,August,27,0,28.3,20,4.2,sun
+New York,"August 28, 2015",2015,8,August,28,0,27.8,17.8,3,sun
+New York,"August 29, 2015",2015,8,August,29,0,28.9,20,3.9,sun
+New York,"August 30, 2015",2015,8,August,30,0,28.9,20.6,4.3,sun
+New York,"August 31, 2015",2015,8,August,31,0,32.8,23.9,5.1,sun
+New York,"September 1, 2015",2015,9,September,1,0,30.6,22.8,3.1,sun
+New York,"September 2, 2015",2015,9,September,2,0,30,21.7,3.9,drizzle
+New York,"September 3, 2015",2015,9,September,3,0,33.9,22.8,2.4,sun
+New York,"September 4, 2015",2015,9,September,4,0,29.4,21.1,4.9,drizzle
+New York,"September 5, 2015",2015,9,September,5,0,27.2,17.2,3.1,sun
+New York,"September 6, 2015",2015,9,September,6,0,26.7,16.7,3.1,sun
+New York,"September 7, 2015",2015,9,September,7,0,30,21.1,5.4,sun
+New York,"September 8, 2015",2015,9,September,8,0,32.8,22.8,5.7,sun
+New York,"September 9, 2015",2015,9,September,9,1.8,30.6,23.9,5,rain
+New York,"September 10, 2015",2015,9,September,10,30,26.1,21.7,3.6,rain
+New York,"September 11, 2015",2015,9,September,11,0.8,27.8,18.9,4.5,fog
+New York,"September 12, 2015",2015,9,September,12,6.9,26.7,20,5.2,drizzle
+New York,"September 13, 2015",2015,9,September,13,1,26.1,16.7,5.5,sun
+New York,"September 14, 2015",2015,9,September,14,0,25.6,15.6,6.3,sun
+New York,"September 15, 2015",2015,9,September,15,0,26.7,16.7,3.4,drizzle
+New York,"September 16, 2015",2015,9,September,16,0,28.9,16.7,1.9,sun
+New York,"September 17, 2015",2015,9,September,17,0,28.9,17.8,2.8,drizzle
+New York,"September 18, 2015",2015,9,September,18,0,28.3,18.3,3.1,sun
+New York,"September 19, 2015",2015,9,September,19,0,26.7,20,4.1,drizzle
+New York,"September 20, 2015",2015,9,September,20,0,26.7,17.8,6.3,sun
+New York,"September 21, 2015",2015,9,September,21,0,22.2,15,4.7,sun
+New York,"September 22, 2015",2015,9,September,22,0,22.8,17.2,4.3,sun
+New York,"September 23, 2015",2015,9,September,23,0,26.7,14.4,2.6,sun
+New York,"September 24, 2015",2015,9,September,24,0,28.3,15,3.4,sun
+New York,"September 25, 2015",2015,9,September,25,0,23.9,17.2,4.1,sun
+New York,"September 26, 2015",2015,9,September,26,0,22.8,15,4.7,sun
+New York,"September 27, 2015",2015,9,September,27,0,22.2,13.3,3.2,sun
+New York,"September 28, 2015",2015,9,September,28,1,26.1,16.1,2.7,fog
+New York,"September 29, 2015",2015,9,September,29,3.3,26.7,20.6,3.3,drizzle
+New York,"September 30, 2015",2015,9,September,30,20.8,25.6,15.6,7.3,fog
+New York,"October 1, 2015",2015,10,October,1,2,16.1,13.3,6.7,sun
+New York,"October 2, 2015",2015,10,October,2,46,13.9,10,8.3,fog
+New York,"October 3, 2015",2015,10,October,3,4.1,13.9,10.6,8.7,fog
+New York,"October 4, 2015",2015,10,October,4,0,18.9,12.2,6.9,sun
+New York,"October 5, 2015",2015,10,October,5,0,19.4,11.7,5.3,sun
+New York,"October 6, 2015",2015,10,October,6,0,23.3,10.6,2.6,sun
+New York,"October 7, 2015",2015,10,October,7,0,21.7,13.9,3.2,sun
+New York,"October 8, 2015",2015,10,October,8,0,21.1,12.8,2.8,sun
+New York,"October 9, 2015",2015,10,October,9,7.1,23.3,16.1,6,rain
+New York,"October 10, 2015",2015,10,October,10,0,18.9,11.1,4.2,sun
+New York,"October 11, 2015",2015,10,October,11,0,20,10,4.3,sun
+New York,"October 12, 2015",2015,10,October,12,0,22.2,11.7,3.8,sun
+New York,"October 13, 2015",2015,10,October,13,0,23.3,15.6,4.2,sun
+New York,"October 14, 2015",2015,10,October,14,0,21.1,14.4,5.2,sun
+New York,"October 15, 2015",2015,10,October,15,0,18.3,11.1,5,sun
+New York,"October 16, 2015",2015,10,October,16,0,18.9,12.2,5.5,sun
+New York,"October 17, 2015",2015,10,October,17,0,14.4,6.1,6.2,sun
+New York,"October 18, 2015",2015,10,October,18,0,11.7,3.3,5.9,sun
+New York,"October 19, 2015",2015,10,October,19,0,11.1,2.2,4.9,sun
+New York,"October 20, 2015",2015,10,October,20,0,21.1,9.4,7,sun
+New York,"October 21, 2015",2015,10,October,21,0,21.7,11.1,2.7,sun
+New York,"October 22, 2015",2015,10,October,22,0,21.1,11.7,4.2,sun
+New York,"October 23, 2015",2015,10,October,23,0,18.9,6.7,6.5,sun
+New York,"October 24, 2015",2015,10,October,24,0,15,5.6,4.2,sun
+New York,"October 25, 2015",2015,10,October,25,0.5,21.1,9.4,6.5,sun
+New York,"October 26, 2015",2015,10,October,26,0,15.6,7.2,3,sun
+New York,"October 27, 2015",2015,10,October,27,0,15,5.6,3.5,sun
+New York,"October 28, 2015",2015,10,October,28,45.5,20,11.1,8.8,fog
+New York,"October 29, 2015",2015,10,October,29,1.5,23.3,15,6.9,fog
+New York,"October 30, 2015",2015,10,October,30,0,17.2,8.3,6.1,sun
+New York,"October 31, 2015",2015,10,October,31,0,12.8,4.4,3,sun
+New York,"November 1, 2015",2015,11,November,1,0,17.8,12.2,5.4,sun
+New York,"November 2, 2015",2015,11,November,2,0,18.3,10.6,2.2,sun
+New York,"November 3, 2015",2015,11,November,3,0,21.1,7.2,2,fog
+New York,"November 4, 2015",2015,11,November,4,0,20.6,10,2.8,fog
+New York,"November 5, 2015",2015,11,November,5,0.3,20.6,11.7,1.6,fog
+New York,"November 6, 2015",2015,11,November,6,0,23.9,16.7,4.2,drizzle
+New York,"November 7, 2015",2015,11,November,7,0,21.1,12.8,5,sun
+New York,"November 8, 2015",2015,11,November,8,0,15.6,6.1,4.4,sun
+New York,"November 9, 2015",2015,11,November,9,0,15,3.9,1.5,sun
+New York,"November 10, 2015",2015,11,November,10,11.4,15,11.7,5.4,fog
+New York,"November 11, 2015",2015,11,November,11,2.3,15,10,5.7,fog
+New York,"November 12, 2015",2015,11,November,12,1.3,15.6,11.1,4.9,fog
+New York,"November 13, 2015",2015,11,November,13,0,16.1,8.9,9.1,sun
+New York,"November 14, 2015",2015,11,November,14,0,10.6,5.6,7.8,sun
+New York,"November 15, 2015",2015,11,November,15,0,15,4.4,5.7,sun
+New York,"November 16, 2015",2015,11,November,16,0,20.6,7.2,4.1,sun
+New York,"November 17, 2015",2015,11,November,17,0,11.7,4.4,3.6,sun
+New York,"November 18, 2015",2015,11,November,18,0,15.6,6.1,5,sun
+New York,"November 19, 2015",2015,11,November,19,14.7,17.2,14.4,8.5,fog
+New York,"November 20, 2015",2015,11,November,20,0,17.2,7.2,5.7,fog
+New York,"November 21, 2015",2015,11,November,21,0,12.8,5.6,4.7,sun
+New York,"November 22, 2015",2015,11,November,22,0,14.4,6.7,5.8,sun
+New York,"November 23, 2015",2015,11,November,23,0,7.8,1.7,6.8,sun
+New York,"November 24, 2015",2015,11,November,24,0,8.9,-0.5,3.1,sun
+New York,"November 25, 2015",2015,11,November,25,0,10.6,0,1.7,sun
+New York,"November 26, 2015",2015,11,November,26,0,15.6,1.7,2.9,fog
+New York,"November 27, 2015",2015,11,November,27,0,17.2,6.1,2.4,fog
+New York,"November 28, 2015",2015,11,November,28,0.5,18.3,7.8,3.6,sun
+New York,"November 29, 2015",2015,11,November,29,0,10,3.3,5.1,sun
+New York,"November 30, 2015",2015,11,November,30,0,10,1.1,4,sun
+New York,"December 1, 2015",2015,12,December,1,7.4,11.7,7.8,4.9,fog
+New York,"December 2, 2015",2015,12,December,2,3,13.9,8.3,2,fog
+New York,"December 3, 2015",2015,12,December,3,0,13.3,7.2,7.2,sun
+New York,"December 4, 2015",2015,12,December,4,0,11.7,5,4.7,sun
+New York,"December 5, 2015",2015,12,December,5,0,11.7,1.7,2.4,sun
+New York,"December 6, 2015",2015,12,December,6,0,10.6,3.3,2.9,sun
+New York,"December 7, 2015",2015,12,December,7,0,12.8,4.4,3.4,drizzle
+New York,"December 8, 2015",2015,12,December,8,0,10.6,4.4,3.5,sun
+New York,"December 9, 2015",2015,12,December,9,0,12.8,1.1,3.4,sun
+New York,"December 10, 2015",2015,12,December,10,0,15,8.9,3,drizzle
+New York,"December 11, 2015",2015,12,December,11,0,14.4,7.8,2.7,drizzle
+New York,"December 12, 2015",2015,12,December,12,0,17.8,9.4,1.9,fog
+New York,"December 13, 2015",2015,12,December,13,0,21.1,11.7,3.1,drizzle
+New York,"December 14, 2015",2015,12,December,14,9.1,16.1,11.7,4.8,fog
+New York,"December 15, 2015",2015,12,December,15,2.3,17.8,11.7,8.2,fog
+New York,"December 16, 2015",2015,12,December,16,1.3,11.7,7.2,4.1,fog
+New York,"December 17, 2015",2015,12,December,17,29.7,15,10,4.1,fog
+New York,"December 18, 2015",2015,12,December,18,0.3,14.4,3.9,6.1,sun
+New York,"December 19, 2015",2015,12,December,19,0,5,2.2,9,sun
+New York,"December 20, 2015",2015,12,December,20,0,6.7,1.7,5.1,sun
+New York,"December 21, 2015",2015,12,December,21,0,12.8,3.3,5.3,sun
+New York,"December 22, 2015",2015,12,December,22,4.8,15.6,11.1,3.8,fog
+New York,"December 23, 2015",2015,12,December,23,29.5,17.2,8.9,4.5,fog
+New York,"December 24, 2015",2015,12,December,24,0.5,20.6,13.9,4.9,fog
+New York,"December 25, 2015",2015,12,December,25,2.5,17.8,11.1,0.9,fog
+New York,"December 26, 2015",2015,12,December,26,0.3,15.6,9.4,4.8,drizzle
+New York,"December 27, 2015",2015,12,December,27,2,17.2,8.9,5.5,fog
+New York,"December 28, 2015",2015,12,December,28,1.3,8.9,1.7,6.3,snow
+New York,"December 29, 2015",2015,12,December,29,16.8,9.4,1.1,5.3,fog
+New York,"December 30, 2015",2015,12,December,30,9.4,10.6,5,3,fog
+New York,"December 31, 2015",2015,12,December,31,1.5,11.1,6.1,5.5,fog
